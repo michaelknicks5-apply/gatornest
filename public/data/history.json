@@ -1,1 +1,1409 @@
-[]
+[
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4456-nw-19th-st",
+  "address": "4456 Nw 19th St",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1075-sw-66th-ter-unit-32607",
+  "address": "1075 Sw 66th Ter #32607",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1095-nw-5th-ave",
+  "address": "1095 Nw 5th Ave",
+  "price": 5340
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-879-sw-6th-st",
+  "address": "879 Sw 6th St",
+  "price": 4800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4437-nw-34th-ter",
+  "address": "4437 Nw 34th Ter",
+  "price": 2100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-541-ne-12th-ct",
+  "address": "541 Ne 12th Ct",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2601-sw-archer-rd-unit-a304",
+  "address": "2601 Sw Archer Rd #A304",
+  "price": 1295
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-516-sw-7th-pl",
+  "address": "516 Sw 7th Pl",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5124-sw-48th-ln",
+  "address": "5124 Sw 48th Ln",
+  "price": 2400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2710-w-university-ave",
+  "address": "2710 W University Ave",
+  "price": 5000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3304-sw-49th-ter",
+  "address": "3304 Sw 49th Ter",
+  "price": 2950
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-810-nw-7th-pl",
+  "address": "810 Nw 7th Pl",
+  "price": 2700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 Nw 3rd Ave",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-808-nw-7th-pl",
+  "address": "808 Nw 7th Pl",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1142-sw-9th-rd-unit-403",
+  "address": "1142 Sw 9th Rd #403",
+  "price": 2850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-893-sw-6th-st",
+  "address": "893 Sw 6th St",
+  "price": 4800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-852-sw-58th-ter",
+  "address": "852 Sw 58th Ter",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-7",
+  "address": "622 Nw 3rd Ave #7",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1022-nw-4th-ave",
+  "address": "1022 Nw 4th Ave",
+  "price": 4650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-808-nw-4th-ave",
+  "address": "808 Nw 4th Ave",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-136-nw-10th-st",
+  "address": "136 Nw 10th St",
+  "price": 4500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-152-nw-23rd-dr",
+  "address": "152 Nw 23rd Dr",
+  "price": 3000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-824-sw-9th-st",
+  "address": "824 Sw 9th St",
+  "price": 8400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1257-sw-9th-rd-unit-107",
+  "address": "1257 Sw 9th Rd #107",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3921-sw-34th-st-unit-105",
+  "address": "3921 Sw 34th St #105",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-915-nw-11th-ave",
+  "address": "915 Nw 11th Ave",
+  "price": 1465
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-224-nw-13th-ave",
+  "address": "224 Nw 13th Ave",
+  "price": 2450
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3705-sw-27th-st-unit-921",
+  "address": "3705 Sw 27th St #921",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2360-sw-archer-rd-unit-505",
+  "address": "2360 Sw Archer Rd #505",
+  "price": 1595
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-816-nw-7th-pl",
+  "address": "816 Nw 7th Pl",
+  "price": 2700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-765-nw-9th-st",
+  "address": "765 Nw 9th St",
+  "price": 4200
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-2",
+  "address": "622 Nw 3rd Ave #2",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-873-sw-5th-ter",
+  "address": "873 Sw 5th Ter",
+  "price": 4750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-912-nw-3rd-ave",
+  "address": "912 Nw 3rd Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1810-nw-23rd-blvd-unit-188",
+  "address": "1810 Nw 23rd Blvd #188",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-11",
+  "address": "622 Nw 3rd Ave #11",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1620-nw-23rd-st",
+  "address": "1620 Nw 23rd St",
+  "price": 2075
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-3",
+  "address": "622 Nw 3rd Ave #3",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3349-sw-50th-dr",
+  "address": "3349 Sw 50th Dr",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-419-nw-10th-st",
+  "address": "419 Nw 10th St",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-7-sw-26th-st",
+  "address": "7 Sw 26th St",
+  "price": 4000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-5",
+  "address": "622 Nw 3rd Ave #5",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-107-sw-26th-st",
+  "address": "107 Sw 26th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2619-nw-2nd-ave",
+  "address": "2619 Nw 2nd Ave",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-1",
+  "address": "622 Nw 3rd Ave #1",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1209-nw-4th-ave",
+  "address": "1209 Nw 4th Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-518-nw-7th-ter",
+  "address": "518 Nw 7th Ter",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1325-nw-10th-ave",
+  "address": "1325 Nw 10th Ave",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1113-sw-6th-ave-unit-b",
+  "address": "1113 Sw 6th Ave Apt B",
+  "price": 3000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-861-sw-6th-st",
+  "address": "861 Sw 6th St",
+  "price": 4800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-13-sw-26th-st",
+  "address": "13 Sw 26th St",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-313-nw-11th-st",
+  "address": "313 Nw 11th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4025-nw-9th-ct",
+  "address": "4025 Nw 9th Ct",
+  "price": 4100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1912-nw-43rd-ave",
+  "address": "1912 Nw 43rd Ave",
+  "price": 1850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5116-nw-21st-dr",
+  "address": "5116 Nw 21st Dr",
+  "price": 2100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1726-nw-9th-st",
+  "address": "1726 Nw 9th St",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1635-nw-7th-pl",
+  "address": "1635 Nw 7th Pl",
+  "price": 6250
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-401-413-nw-19th-st",
+  "address": "401-413 Nw 19th St",
+  "price": 4560
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-925-nw-22nd-st-unit-3",
+  "address": "925 Nw 22nd St #3",
+  "price": 5990
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-204-nw-3rd-st",
+  "address": "204 Nw 3rd St",
+  "price": 2400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3921-sw-34th-st-unit-312",
+  "address": "3921 Sw 34th St #312",
+  "price": 550
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-420-nw-1st-st",
+  "address": "420 Nw 1st St",
+  "price": 2475
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-914-sw-8th-ave-unit-51",
+  "address": "914 Sw 8th Ave #51",
+  "price": 660
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2707-nw-4th-ave",
+  "address": "2707 Nw 4th Ave",
+  "price": 2775
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2972-sw-35th-pl",
+  "address": "2972 Sw 35th Pl",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4342-sw-20th-ln",
+  "address": "4342 Sw 20th Ln",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3415-sw-39th-blvd",
+  "address": "3415 Sw 39th Blvd",
+  "price": 1399
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3800-sw-20th-ave-unit-501",
+  "address": "3800 Sw 20th Ave #501",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2972-sw-35th-pl-unit-84",
+  "address": "2972 Sw 35th Pl #84",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3330-nw-27th-ave",
+  "address": "3330 Nw 27th Ave",
+  "price": 2200
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4000-sw-23rd-st-unit-1-106",
+  "address": "4000 Sw 23rd St #1-106",
+  "price": 2000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1911-se-14th-ave",
+  "address": "1911 Se 14th Ave",
+  "price": 1500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-701-sw-28th-st",
+  "address": "701 Sw 28th St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3800-sw-20th-ave-unit-rms-4-204",
+  "address": "3800 Sw 20th Ave #Rms 4 & 204",
+  "price": 500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1410-nw-7th-rd",
+  "address": "1410 Nw 7th Rd",
+  "price": 2200
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-528-nw-36th-st",
+  "address": "528 Nw 36th St",
+  "price": 4100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-6519-w-newberry-rd-unit-912",
+  "address": "6519 W Newberry Rd #912",
+  "price": 1350
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-615-nw-15th-st",
+  "address": "615 Nw 15th St",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2735-sw-35th-pl-unit-1801",
+  "address": "2735 Sw 35th Pl #1801",
+  "price": 1350
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1215-nw-6th-pl",
+  "address": "1215 Nw 6th Pl",
+  "price": 1990
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-919-sw-6th-ave",
+  "address": "919 Sw 6th Ave",
+  "price": 1000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4000-sw-23rd-st-unit-2-307",
+  "address": "4000 Sw 23rd St #2-307",
+  "price": 625
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-121-nw-29th-st",
+  "address": "121 Nw 29th St",
+  "price": 3000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4219-nw-30th-ter",
+  "address": "4219 Nw 30th Ter",
+  "price": 2050
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-6519-w-newberry-rd-unit-1014",
+  "address": "6519 W Newberry Rd #1014",
+  "price": 1530
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5179-nw-22nd-st",
+  "address": "5179 Nw 22nd St",
+  "price": 2350
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4639-sw-48th-dr-unit-149",
+  "address": "4639 Sw 48th Dr #149",
+  "price": 2275
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-600-nw-36th-dr",
+  "address": "600 Nw 36th Dr",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-914-sw-8th-ave-unit-57",
+  "address": "914 Sw 8th Ave #57",
+  "price": 1295
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-701-sw-62nd-blvd",
+  "address": "701 Sw 62nd Blvd",
+  "price": 675
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3116-w-university-ave",
+  "address": "3116 W University Ave",
+  "price": 3100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2601-sw-archer-rd",
+  "address": "2601 Sw Archer Rd",
+  "price": 599
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4574-sw-48th-way-unit-103",
+  "address": "4574 Sw 48th Way #103",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2110-nw-54th-ter",
+  "address": "2110 Nw 54th Ter",
+  "price": 2450
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-313-nw-34th-dr",
+  "address": "313 Nw 34th Dr",
+  "price": 2200
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2777-sw-archer-rd",
+  "address": "2777 Sw Archer Rd",
+  "price": 649
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-729-nw-34th-st",
+  "address": "729 Nw 34th St",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3705-sw-27th-st-unit-221",
+  "address": "3705 Sw 27th St #221",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3330-nw-24th-ave",
+  "address": "3330 Nw 24th Ave",
+  "price": 2400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1410-nw-55th-ter",
+  "address": "1410 Nw 55th Ter",
+  "price": 1675
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4344-nw-25th-ter",
+  "address": "4344 Nw 25th Ter",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1565-nw-29th-rd-unit-4",
+  "address": "1565 Nw 29th Rd #4",
+  "price": 1895
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1015-nw-21st-ave",
+  "address": "1015 Nw 21st Ave",
+  "price": 669
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1617-nw-7th-pl",
+  "address": "1617 Nw 7th Pl",
+  "price": 2250
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-6737-sw-13th-ln",
+  "address": "6737 Sw 13th Ln",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-507-nw-39th-rd",
+  "address": "507 Nw 39th Rd",
+  "price": 1765
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-623-sw-3rd-st",
+  "address": "623 Sw 3rd St",
+  "price": 1575
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1425-ne-13th-st",
+  "address": "1425 Ne 13th St",
+  "price": 2400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4312-nw-29th-way",
+  "address": "4312 Nw 29th Way",
+  "price": 1975
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4338-nw-29th-ter",
+  "address": "4338 Nw 29th Ter",
+  "price": 2000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2024-ne-4th-ave",
+  "address": "2024 Ne 4th Ave",
+  "price": 1850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1951-nw-34th-ave",
+  "address": "1951 Nw 34th Ave",
+  "price": 1975
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-613-queens-rd",
+  "address": "613 Queens Rd",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5166-sw-48th-ln",
+  "address": "5166 Sw 48th Ln",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1740-nw-3rd-pl",
+  "address": "1740 Nw 3rd Pl",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2365-nw-33rd-pl",
+  "address": "2365 Nw 33rd Pl",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1111-se-6th-ave",
+  "address": "1111 Se 6th Ave",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3600-sw-19th-ave-unit-5d",
+  "address": "3600 Sw 19th Ave #5D",
+  "price": 1980
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2776-se-21st-rd",
+  "address": "2776 Se 21st Rd",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1507-ne-6th-pl",
+  "address": "1507 Ne 6th Pl",
+  "price": 1775
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3700-sw-27th-st",
+  "address": "3700 Sw 27th St",
+  "price": 549
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-319-nw-16th-ave",
+  "address": "319 Nw 16th Ave",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-727-nw-4th-ave",
+  "address": "727 Nw 4th Ave",
+  "price": 1975
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-360-nw-48th-blvd",
+  "address": "360 Nw 48th Blvd",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-925-ne-20th-ave",
+  "address": "925 Ne 20th Ave",
+  "price": 1995
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3921-sw-34th-st-unit-301",
+  "address": "3921 Sw 34th St #301",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1038-ne-21st-ave",
+  "address": "1038 Ne 21st Ave",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4942-nw-1st-pl-unit-67",
+  "address": "4942 Nw 1st Pl #67",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1589-nw-29th-rd-unit-7",
+  "address": "1589 Nw 29th Rd #7",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2515-sw-35th-pl-unit-217",
+  "address": "2515 Sw 35th Pl #217",
+  "price": 1400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5147-sw-47th-ln",
+  "address": "5147 Sw 47th Ln",
+  "price": 2590
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4017-nw-36th-ter",
+  "address": "4017 Nw 36th Ter",
+  "price": 2650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-206-se-21st-ter-unit-4",
+  "address": "206 Se 21st Ter #4",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1326-nw-57th-st",
+  "address": "1326 Nw 57th St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2360-sw-archer-rd",
+  "address": "2360 Sw Archer Rd",
+  "price": 1800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-207-se-21st-ter-unit-4",
+  "address": "207 Se 21st Ter #4",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-211-se-21st-ter-unit-1",
+  "address": "211 Se 21st Ter #1",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-210-se-21st-ter-unit-1",
+  "address": "210 Se 21st Ter #1",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-207-se-21st-ter-unit-1",
+  "address": "207 Se 21st Ter #1",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-210-se-21st-ter-unit-4",
+  "address": "210 Se 21st Ter #4",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2818-sw-14th-dr",
+  "address": "2818 Sw 14th Dr",
+  "price": 1636
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-206-se-21st-ter-unit-1",
+  "address": "206 Se 21st Ter #1",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-211-se-21st-ter-unit-5",
+  "address": "211 Se 21st Ter #5",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-5720-sw-8th-pl",
+  "address": "5720 Sw 8th Pl",
+  "price": 1745
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2735-sw-35th-pl-unit-107",
+  "address": "2735 Sw 35th Pl #107",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2510-ne-9th-st",
+  "address": "2510 Ne 9th St",
+  "price": 1549
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4525-nw-29th-ter",
+  "address": "4525 Nw 29th Ter",
+  "price": 1850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-303-nw-34th-dr",
+  "address": "303 Nw 34th Dr",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1312-nw-12th-st",
+  "address": "1312 Nw 12th St",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3951-sw-1st-ave",
+  "address": "3951 Sw 1st Ave",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-900-sw-62nd-blvd-unit-1",
+  "address": "900 Sw 62nd Blvd #1",
+  "price": 1795
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2410-nw-54th-ter",
+  "address": "2410 Nw 54th Ter",
+  "price": 2700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4527-nw-36th-dr",
+  "address": "4527 Nw 36th Dr",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1075-sw-66th-ter",
+  "address": "1075 Sw 66th Ter",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1524-ne-9th-st-unit-a",
+  "address": "1524 Ne 9th St #A",
+  "price": 1500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-6519-w-newberry-rd-unit-911",
+  "address": "6519 W Newberry Rd #911",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-507-nw-2nd-st",
+  "address": "507 Nw 2nd St",
+  "price": 4600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1422-ne-16th-pl",
+  "address": "1422 Ne 16th Pl",
+  "price": 2100
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1041-ne-20th-pl",
+  "address": "1041 Ne 20th Pl",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1111-nw-22nd-st",
+  "address": "1111 Nw 22nd St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3705-sw-27th-st-unit-228",
+  "address": "3705 Sw 27th St #228",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-507-nw-39th-rd-unit-326",
+  "address": "507 Nw 39th Rd #326",
+  "price": 1765
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1012-sw-3rd-ave",
+  "address": "1012 Sw 3rd Ave",
+  "price": 4400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-15-nw-26th-st",
+  "address": "15 Nw 26th St",
+  "price": 3700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1205-nw-9th-ave",
+  "address": "1205 Nw 9th Ave",
+  "price": 4700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1245-sw-9th-rd-unit-102",
+  "address": "1245 Sw 9th Rd #102",
+  "price": 2850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1257-sw-9th-rd-unit-108",
+  "address": "1257 Sw 9th Rd #108",
+  "price": 2850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-825-sw-55th-ter",
+  "address": "825 Sw 55th Ter",
+  "price": 1700
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-701-nw-36th-ave",
+  "address": "701 Nw 36th Ave",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-510-sw-5th-st",
+  "address": "510 Sw 5th St",
+  "price": 3900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-390-sw-7th-pl",
+  "address": "390 Sw 7th Pl",
+  "price": 3800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1102-nw-3rd-ave-unit-downstairs",
+  "address": "1102 Nw 3rd Ave #Downstairs",
+  "price": 2000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-420-nw-3rd-ave",
+  "address": "420 Nw 3rd Ave",
+  "price": 6000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1324-nw-16th-ave-unit-26",
+  "address": "1324 Nw 16th Ave #26",
+  "price": 1450
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4000-sw-23rd-st-unit-6-305",
+  "address": "4000 Sw 23rd St #6-305",
+  "price": 1850
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-4025-sw-20th-dr",
+  "address": "4025 Sw 20th Dr",
+  "price": 1500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-324-sw-5th-ave",
+  "address": "324 Sw 5th Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-834-sw-9th-st",
+  "address": "834 Sw 9th St",
+  "price": 8400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-8",
+  "address": "622 Nw 3rd Ave #8",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3705-sw-27th-st-unit-317",
+  "address": "3705 Sw 27th St #317",
+  "price": 1375
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-537-sw-6th-pl",
+  "address": "537 Sw 6th Pl",
+  "price": 5000
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-394-sw-7th-pl",
+  "address": "394 Sw 7th Pl",
+  "price": 3800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-9",
+  "address": "622 Nw 3rd Ave #9",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-885-sw-6th-st",
+  "address": "885 Sw 6th St",
+  "price": 4800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-6",
+  "address": "622 Nw 3rd Ave #6",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-929-nw-7th-ave",
+  "address": "929 Nw 7th Ave",
+  "price": 2200
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2253-sw-41st-ln",
+  "address": "2253 Sw 41st Ln",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1922-nw-4th-ave",
+  "address": "1922 Nw 4th Ave",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2706-w-university-ave",
+  "address": "2706 W University Ave",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1000-sw-9th-st",
+  "address": "1000 Sw 9th St",
+  "price": 12600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-640-sw-5th-st",
+  "address": "640 Sw 5th St",
+  "price": 3900
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2515-sw-35th-pl-unit-117",
+  "address": "2515 Sw 35th Pl #117",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-753-nw-8th-st",
+  "address": "753 Nw 8th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-814-nw-7th-pl",
+  "address": "814 Nw 7th Pl",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2515-sw-35th-pl-unit-219",
+  "address": "2515 Sw 35th Pl #219",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-2360-sw-archer-entire-rd-unit-1012",
+  "address": "2360 Sw Archer-entire Rd #1012",
+  "price": 1800
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-3232-sw-42nd-pl",
+  "address": "3232 Sw 42nd Pl",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-1810-nw-23rd-blvd-unit-179",
+  "address": "1810 Nw 23rd Blvd #179",
+  "price": 1600
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-622-nw-3rd-ave-unit-10",
+  "address": "622 Nw 3rd Ave #10",
+  "price": 3300
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-507-nw-34th-ter",
+  "address": "507 Nw 34th Ter",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-13T22:26:26.256Z",
+  "type": "new",
+  "id": "rc-6686-sw-12th-ln",
+  "address": "6686 Sw 12th Ln",
+  "price": 2800
+ }
+]

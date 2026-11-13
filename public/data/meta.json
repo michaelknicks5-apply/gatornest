@@ -1,31 +1,35 @@
 {
- "neverRun": true,
+ "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 0,
-  "lastFetch": null,
+  "used": 1,
+  "lastFetch": "2026-11-13T22:26:26.256Z",
   "lastPages": 1,
   "budget": 45,
   "nextFetch": null
  },
  "ors": {
   "day": "2026-11-13",
-  "directions": 0
+  "directions": 201
  },
- "lastRun": "2026-11-13T22:22:39.661Z",
- "lastFetch": null,
+ "lastRun": "2026-11-13T22:26:26.256Z",
+ "lastFetch": "2026-11-13T22:26:26.256Z",
  "counts": {
-  "active": 0,
+  "active": 201,
   "gone": 0
  },
  "sources": {
   "rentcast": {
-   "error": true
+   "count": 201,
+   "requests": 1
   },
   "manual": {
    "count": 0,
    "requests": 0
   }
  },
- "warnings": []
+ "warnings": [
+  "Nearby places lookup failed: 502 Bad Gateway from overpass-api.de: # 502 Gateway Timeout\n\nThis Overpass API server is currently at capacity. All query workers are busy\nand the request queue is full.\n\n## What to do\n\nRetry your r",
+  "Route drawing paused: 403 Forbidden from api.openrouteservice.org: {\n    \"error\": \"Quota exceeded\"\n}"
+ ]
 }
