@@ -1,1 +1,33 @@
-{ "neverRun": true, "note": "Replaced by the hourly pipeline on its first run." }
+{
+ "neverRun": true,
+ "rentcast": {
+  "periodStart": "2026-11-13T00:00:00.000Z",
+  "used": 1,
+  "lastFetch": null,
+  "lastPages": 1,
+  "budget": 45,
+  "nextFetch": null
+ },
+ "ors": {
+  "day": "2026-11-13",
+  "directions": 0
+ },
+ "lastRun": "2026-11-13T22:22:39.661Z",
+ "lastFetch": null,
+ "counts": {
+  "active": 0,
+  "gone": 0
+ },
+ "sources": {
+  "rentcast": {
+   "error": true
+  },
+  "manual": {
+   "count": 0,
+   "requests": 0
+  }
+ },
+ "warnings": [
+  "rentcast fetch failed: 403 Forbidden from api.rentcast.io: {\"status\":403,\"error\":\"billing/subscription-inactive\",\"message\":\"The provided API key is not associated with an active API subscription. View subscription statu"
+ ]
+}
