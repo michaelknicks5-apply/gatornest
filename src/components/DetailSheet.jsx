@@ -4,7 +4,7 @@ import { unverifiedFor } from '../filters.js';
 import { Icon, LandmarkBadge } from '../icons.jsx';
 import { Modal, Seg, Num, copyText } from './ui.jsx';
 import { ListingLinkBlock } from './ListingLink.jsx';
-import { money, miles, shortDate, tri, TYPE_LABEL, STATUS_STEPS, phonePretty, plural } from '../format.js';
+import { money, miles, shortDate, tri, TYPE_LABEL, STATUS_STEPS, phonePretty, plural, ago } from '../format.js';
 
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
@@ -82,6 +82,17 @@ function EditDetails({ l, onClose }) {
   );
 }
 
+// When the listing was last confirmed active. Hourly runs re-check only when a RentCast pull happens.
+function ActiveCheck({ l, s }) {
+  if (l.status === 'gone') {
+    return <p class="active active--gone">Off market: it dropped out of the RentCast check on {shortDate(l.goneSince)}. It stays on the map in red for 14 days.</p>;
+  }
+  if (l.source === 'manual') return <p class="active active--manual">Added by you. Status isn't checked automatically.</p>;
+  if (l.isTest) return <p class="active active--ok">✓ Active (test listing)</p>;
+  const lastPull = s.meta?.lastFetch;
+  return <p class="active active--ok">✓ Active as of the last check, {ago(l.lastSeen || lastPull, s.now)}{s.meta?.rentcast?.nextFetch ? `. Next check ${new Date(s.meta.rentcast.nextFetch).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: '2-digit' })}` : ''}</p>;
+}
+
 export function DetailSheet() {
   const s = useStore();
   const l = s.ui.selectedId && getListings(s).find((x) => x.id === s.ui.selectedId);
@@ -156,7 +167,7 @@ export function DetailSheet() {
           <div class="sheet__pad">
             <div class="badges">
               {l.isTest && <span class="tag tag--test">Test data</span>}
-              {l.status === 'gone' && <span class="tag tag--gone">Taken {shortDate(l.goneSince)}</span>}
+              {l.status === 'gone' && <span class="tag tag--gone">Off market</span>}
               {l.isNew && <span class="tag tag--new">New</span>}
               {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
               {l.source === 'manual' && <span class="tag">Added by you</span>}
@@ -170,6 +181,7 @@ export function DetailSheet() {
             <h2 class="addr">{l.address}</h2>
             <p class="facts">{l.beds} bd · {l.baths ?? '?'} ba{l.sqft ? ` · ${l.sqft.toLocaleString()} sq ft` : ''} · {TYPE_LABEL[l.type] || l.type}{l.yearBuilt ? ` · Built ${l.yearBuilt}` : ''}</p>
 
+            <ActiveCheck l={l} s={s} />
             <ListingLinkBlock l={l} />
 
             <div class="actions">

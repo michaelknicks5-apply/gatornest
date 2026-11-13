@@ -41,7 +41,7 @@ export function ListingLinkBlock({ l }) {
       {l.url ? (
         <a class="btn btn--primary btn--block btn--big" href={l.url} target="_blank" rel="noopener"><Icon name="external" size={19} />View listing on {domainOf(l.url) || 'its site'}</a>
       ) : (
-        <a class="btn btn--primary btn--block btn--big" href={searchUrl(l)} target="_blank" rel="noopener"><Icon name="external" size={19} />Find the listing</a>
+        <a class="btn btn--primary btn--block btn--big" href={searchUrl(l)} target="_blank" rel="noopener"><Icon name="search" size={19} />Look up this address</a>
       )}
       <div class="llink__row">
         {!l.url && <a class="btn btn--sm" href={zillowUrl(l)} target="_blank" rel="noopener">Zillow</a>}
@@ -49,7 +49,7 @@ export function ListingLinkBlock({ l }) {
         {l.url && <a class="btn btn--sm" href={searchUrl(l)} target="_blank" rel="noopener">Search address</a>}
         <button type="button" class="btn btn--sm btn--ghost" onClick={paste}><Icon name="link" size={15} />{l.url ? 'Change link' : 'Paste link'}</button>
       </div>
-      {!l.url && <p class="muted small">The listing site isn't known, so this searches for the exact address. When you find it, copy the link and tap Paste link to save it here.</p>}
+      {!l.url && <p class="muted small">Searches Google for “{l.address}” so you can find where it's posted. Found it? Copy the link and tap Paste link to save it here.</p>}
       {editing && (
         <form class="llink__form" noValidate onSubmit={(e) => { e.preventDefault(); save(text); }}>
           <span class="num__box"><input type="text" inputMode="url" autoCapitalize="off" autoCorrect="off" autoFocus placeholder="Paste the listing link" value={text} onInput={(e) => setText(e.currentTarget.value)} /></span>

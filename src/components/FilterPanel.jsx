@@ -115,7 +115,7 @@ export function FilterPanel() {
           <Chip on={f.hidePassed} onClick={flip('hidePassed')}>Hide Passed</Chip>
           <Chip on={f.favOnly} onClick={flip('favOnly')}>Favorites only</Chip>
           <Chip on={f.hasPhotos} onClick={flip('hasPhotos')}>Must have photos</Chip>
-          <Chip on={f.showGone} onClick={flip('showGone')}>Show taken (14 days)</Chip>
+          <Chip on={f.showGone} onClick={flip('showGone')}>Show off-market (14 days)</Chip>
         </div>
         <label class="num"><span>Keyword</span>
           <span class="num__box"><input type="search" placeholder="fenced, pool, garage" value={f.q} onInput={(e) => setFilters({ q: e.currentTarget.value })} /></span>

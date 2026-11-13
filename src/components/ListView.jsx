@@ -43,7 +43,7 @@ export function ListView() {
               </div>
               <div class="lcard__body">
                 <div class="lcard__top">
-                  <span class={`ppill ppill--${q}`}>{l.status === 'gone' ? 'Taken' : <>{money(l.pp)}<small>/pp</small></>}</span>
+                  <span class={`ppill ppill--${q}`}>{l.status === 'gone' ? 'Off market' : <>{money(l.pp)}<small>/pp</small></>}</span>
                   <span class="lcard__total">{money(l.price)}/mo</span>
                   <button type="button" class={'iconbtn iconbtn--sm' + (l.track.fav ? ' is-fav' : '')} aria-label={l.track.fav ? 'Remove favorite' : 'Favorite'} onClick={(e) => { e.stopPropagation(); setTrack(l.id, { fav: !l.track.fav }); }}><Icon name="star" size={18} fill={!!l.track.fav} /></button>
                 </div>
@@ -51,7 +51,7 @@ export function ListView() {
                 <span class="lcard__facts">{l.beds} bd · {l.baths ?? '?'} ba{l.sqft ? ` · ${l.sqft.toLocaleString()} sq ft` : ''} · {TYPE_LABEL[l.type] || l.type}</span>
                 <span class="lcard__facts"><Icon name="walk" size={14} /> {l.travel[anchor].est ? '~' : ''}{l.travel[anchor].walk.min} min to {anchorName} · {miles(l.travel[anchor].mi)}</span>
                 <div class="badges">
-                  {(() => { const b = bestLink(l); return <a class={'tag tag--link' + (b.saved ? ' is-saved' : '')} href={b.href} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{b.saved ? `Listing on ${b.label}` : 'Find listing'} ↗</a>; })()}
+                  {(() => { const b = bestLink(l); return <a class={'tag tag--link' + (b.saved ? ' is-saved' : '')} href={b.href} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{b.saved ? `Listing on ${b.label}` : 'Look up address'} ↗</a>; })()}
                   {l.deal?.label === 'good' && <span class="tag tag--deal-good">Good deal</span>}
                   {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
                   {l.track.status && l.track.status !== 'New' && <span class="tag">{l.track.status}</span>}

@@ -63,7 +63,7 @@ export function describeFilters(f, landmarks, groupSize = 4) {
   if (f.hasPhotos) other.push('has photos');
   if (!f.hideComplexes) other.push('includes big complexes');
   if (!f.hidePassed) other.push('includes ones you passed on');
-  if (!f.showGone) other.push('hides taken listings');
+  if (!f.showGone) other.push('hides off-market listings');
   if (f.q && f.q.trim()) other.push(`mentions “${f.q.trim()}”`);
   if (other.length) lines.push(listJoin(other).replace(/^./, (c) => c.toUpperCase()));
   return lines;

@@ -123,7 +123,7 @@ export function MapView() {
         const q = quality(l, state);
         const sel = state.ui.selectedId === l.id;
         el.className = `pin pin--${q}${l.isNew ? ' is-new' : ''}${sel ? ' is-selected' : ''}${l.track.status === 'Passed' ? ' is-passed' : ''}`;
-        el.innerHTML = `<span class="pin__in">${l.isNew ? '<span class="pin__ring"></span>' : ''}<span class="pin__body">${l.track.fav ? '<i>★</i>' : ''}${l.status === 'gone' ? 'Taken' : `${money(l.pp)}<small>/pp</small>`}</span></span>`;
+        el.innerHTML = `<span class="pin__in">${l.isNew ? '<span class="pin__ring"></span>' : ''}<span class="pin__body">${l.track.fav ? '<i>★</i>' : ''}${l.status === 'gone' ? 'Off market' : `${money(l.pp)}<small>/pp</small>`}</span></span>`;
         el.setAttribute('aria-label', `${l.address}, ${money(l.pp)} per person`);
         el.onclick = (e) => { e.stopPropagation(); selectListing(l.id); };
       }
