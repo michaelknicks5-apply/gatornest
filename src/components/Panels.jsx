@@ -231,6 +231,7 @@ function Sync() {
         {rc && rc.nextFetch && <div><dt>Next pull</dt><dd>{new Date(rc.nextFetch).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</dd></div>}
       </dl>
       {(meta.warnings || []).map((w) => <p class="small is-unv" key={w}>⚠ {w}</p>)}
+      {(meta.notes || []).map((n) => <p class="small muted" key={n}>• {n}</p>)}
     </div>
   );
 }

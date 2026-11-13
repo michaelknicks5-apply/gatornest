@@ -63,7 +63,8 @@ h2, h3, p { margin: 0; }
 .schip--test { background: #FFE9A8; color: #6B4E00; }
 .schip--new { background: var(--violet); color: #fff; }
 .schip--area { background: var(--violet-soft); color: var(--violet); }
-.schip--warn { background: var(--amber-soft); color: var(--amber); }
+.schip--warn { background: var(--amber-soft); color: var(--amber); max-width: 100%; }
+.schip--warn span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 
 /* ---------- map buttons ---------- */
 .mapbtns { position: absolute; z-index: 9; left: 12px; right: 12px; bottom: calc(var(--safe-b) + 18px); display: flex; justify-content: space-between; pointer-events: none; transition: opacity .2s, transform .2s; }

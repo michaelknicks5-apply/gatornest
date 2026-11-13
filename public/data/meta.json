@@ -28,8 +28,9 @@
    "requests": 0
   }
  },
- "warnings": [
-  "Nearby places lookup failed: 502 Bad Gateway from overpass-api.de: # 502 Gateway Timeout\n\nThis Overpass API server is currently at capacity. All query workers are busy\nand the request queue is full.\n\n## What to do\n\nRetry your r",
-  "Route drawing paused: 403 Forbidden from api.openrouteservice.org: {\n    \"error\": \"Quota exceeded\"\n}"
+ "warnings": [],
+ "notes": [
+  "Nearby places server was busy; retrying next run",
+  "Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)"
  ]
 }

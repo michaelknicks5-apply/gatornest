@@ -90,6 +90,8 @@ let ls = read('listings.json'); let meta = read('meta.json');
 const by = (addr) => ls.find((l) => l.address.startsWith(addr));
 check('first run stores all 7 listings', ls.length === 7, String(ls.length));
 check('one RentCast request spent and counted', calls.rentcast === 1 && meta.rentcast.used === 1 && meta.rentcast.budget === 45);
+check('directions shown in caps', by('1716').address === '1716 NW 3rd Avenue', by('1716').address);
+check('first import is dated by listing date, not marked new', by('1716').firstSeen === '2026-11-01T00:00:00.000Z' && read('history.json').length === 0);
 check('address normalized into a stable id', !!ls.find((l) => l.id === 'rc-1716-nw-3rd-ave'), ls.map((l) => l.id).join(' '));
 check('units dedupe separately and 3 units at one address flag a complex', ls.filter((l) => l.complex).length === 3);
 check('unknown details stay null (unverified)', by('1716').details.furnished === null && by('1716').details.parking === null);
@@ -131,7 +133,7 @@ check('history.json logs the events', read('history.json').filter((e) => ['price
 rentcastFail = true;
 await quiet(() => run({ env, now: T0 + 30 * H, argv: ['--force'], pace: 0 }));
 rentcastFail = false;
-check('outage keeps the last good listings and records a warning', read('listings.json').length === ls.length && read('meta.json').warnings.some((w) => /rentcast fetch failed: 503/.test(w)), read('meta.json').warnings.join('; '));
+check('outage keeps the last good listings and records a warning', read('listings.json').length === ls.length && read('meta.json').warnings.some((w) => /RentCast/.test(w)) && read('meta.json').notes.some((n) => /503/.test(n)), read('meta.json').warnings.join('; '));
 
 // --- budget exhausted: no request is made even when forced
 const n = calls.rentcast;

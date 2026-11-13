@@ -18,4 +18,7 @@ export function addressKey(address, unit = '') {
   return out.join(' ');
 }
 
+// RentCast title-cases directions ("Sw"); show them the way street signs do.
+export const prettyAddress = (a) => String(a || '').replace(/\b(nw|ne|sw|se|n|s|e|w)\b(?=\s)/gi, (d) => d.toUpperCase()).replace(/\s+/g, ' ').trim();
+
 export const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');

@@ -19,11 +19,12 @@ export async function run({ env = process.env, argv = process.argv.slice(2), now
   const prevMeta = readJson(path.join(DATA, 'meta.json'), {});
   const listings = readJson(path.join(DATA, 'listings.json'), []);
   const history = readJson(path.join(DATA, 'history.json'), []);
-  const warnings = [];
+  const warnings = []; // problems worth a chip on the map (stale data, missing key, budget used up)
+  const notes = []; // routine hiccups that fix themselves on a later run; shown only in Settings
   // Accept a topic pasted as a full URL (https://ntfy.sh/name) as well as the bare name.
   if (env.NTFY_TOPIC) env = { ...env, NTFY_TOPIC: String(env.NTFY_TOPIC).trim().replace(/^https?:\/\/[^/]+\//, '').replace(/^ntfy\.sh\//, '').replace(/\/+$/, '') };
   const meta = { ...prevMeta };
-  const ctx = { cfg, env, now, meta, pace, force: argv.includes('--force') || env.FORCE_FETCH === 'true', warn: (w) => { warnings.push(w); log('warning:', w); }, firstRun: !prevMeta.lastFetch };
+  const ctx = { cfg, env, now, meta, pace, force: argv.includes('--force') || env.FORCE_FETCH === 'true', warn: (w) => { warnings.push(w); log('warning:', w); }, note: (n) => { notes.push(n); log('note:', n); }, firstRun: !prevMeta.lastFetch };
 
   if (argv.includes('--test-alert') || env.TEST_ALERT === 'true') {
     if (!env.NTFY_TOPIC) throw new Error('NTFY_TOPIC is not set');
@@ -44,7 +45,8 @@ export async function run({ env = process.env, argv = process.argv.slice(2), now
       sources[adapter.name] = { count: res.listings.length, requests: res.requests };
       if (adapter.name !== 'manual') fetched = true;
     } catch (e) {
-      ctx.warn(`${adapter.name} fetch failed: ${e.message}`); // keep the last good data
+      ctx.warn(`Couldn't reach ${adapter.name === 'rentcast' ? 'RentCast' : adapter.name}, showing the last good listings`); // keep the last good data
+      ctx.note(`${adapter.name}: ${String(e.message).slice(0, 200)}`);
       sources[adapter.name] = { error: true };
     }
   }
@@ -72,14 +74,17 @@ export async function run({ env = process.env, argv = process.argv.slice(2), now
     lastRun: iso,
     lastFetch: meta.rentcast?.lastFetch || prevMeta.lastFetch || null,
     counts: { active: listings.filter((l) => l.status === 'active').length, gone: listings.filter((l) => l.status === 'gone').length },
-    sources, warnings,
+    sources, warnings, notes,
   });
   delete meta.note;
   const changed = writeJson(path.join(DATA, 'listings.json'), listings);
-  if (events.length) writeJson(path.join(DATA, 'history.json'), [...history, ...events].slice(-600));
+  const logged = events.filter((e) => e.type !== 'initial');
+  if (logged.length) writeJson(path.join(DATA, 'history.json'), [...history, ...logged].slice(-600));
   else if (!fs.existsSync(path.join(DATA, 'history.json'))) writeJson(path.join(DATA, 'history.json'), []);
   writeJson(path.join(DATA, 'meta.json'), meta);
   const count = (t) => events.filter((e) => e.type === t).length;
+  const initial = events.filter((e) => e.type === 'initial').length;
+  if (initial) log(`first import: ${initial} listings`);
   log(`done: ${meta.counts.active} active, ${meta.counts.gone} taken · ${count('new')} new, ${count('price')} price changes, ${count('gone')} gone · ${alerts} alert(s) · listings.json ${changed ? 'updated' : 'unchanged'}`);
   return { events, meta, fetched, alerts };
 }

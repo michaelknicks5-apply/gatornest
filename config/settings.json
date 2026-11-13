@@ -16,12 +16,16 @@
   "rentcastMaxPages": 2,
   "enrichMinBeds": 3,
   "routeMaxMiles": 3,
-  "routeListingsPerRun": 12,
-  "orsDirectionsPerDay": 1500,
+  "routeListingsPerRun": 8,
+  "orsDirectionsPerDay": 150,
   "femaUrls": [
     "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28/query",
     "https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/28/query"
   ],
-  "overpassUrl": "https://overpass-api.de/api/interpreter",
-  "maxAlertsPerRun": 6
+  "maxAlertsPerRun": 6,
+  "overpassUrls": [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter"
+  ]
 }

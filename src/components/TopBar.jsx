@@ -67,7 +67,7 @@ export function TopBar() {
         {isFixture && <span class="schip schip--test">Test data</span>}
         {fresh > 0 && <button type="button" class="schip schip--new" onClick={() => setFilters({ fresh: 1 })}>{fresh} new since last visit</button>}
         {s.filters.area && <button type="button" class="schip schip--area" onClick={() => setFilters({ area: null })}>Drawn area <Icon name="close" size={13} /></button>}
-        {warn && <span class="schip schip--warn"><Icon name="warn" size={14} />{warn}</span>}
+        {warn && <button type="button" class="schip schip--warn" title={warn} onClick={() => setUi({ panel: 'settings' })}><Icon name="warn" size={14} /><span>{warn}</span></button>}
       </div>
     </header>
   );

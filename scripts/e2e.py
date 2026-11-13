@@ -16,6 +16,8 @@ async def main():
     async with async_playwright() as p:
         b = await p.chromium.launch(executable_path='/usr/bin/google-chrome', args=['--no-sandbox', '--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'])
         ctx = await b.new_context(viewport={'width': 390, 'height': 844}, has_touch=True, is_mobile=True)
+        # Checks are written against the 18 labeled test listings, so pin the app to them.
+        await ctx.add_init_script("try { const k='gn.settings'; const v=JSON.parse(localStorage.getItem(k)||'{}'); if (!v.dataMode || v.dataMode==='auto') { v.dataMode='fixtures'; localStorage.setItem(k, JSON.stringify(v)); } } catch (e) {}")
         page = await ctx.new_page()
         errors = []
         page.on('pageerror', lambda e: errors.append(str(e)))

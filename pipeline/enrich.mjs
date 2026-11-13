@@ -29,7 +29,7 @@ export async function enrichTravel(listings, landmarks, ctx) {
         byMode[mode] = data;
         await sleep(ctx.pace ?? 1600);
       }
-    } catch (e) { ctx.warn(`Travel times failed: ${e.message}`); break; }
+    } catch (e) { ctx.note(`Travel times will fill in next run (${String(e.message).slice(0, 80)})`); break; }
     batch.forEach((l, s) => {
       const travel = { ...(l.enrich?.travel || {}) };
       landmarks.forEach((lm, d) => {
@@ -86,7 +86,7 @@ export async function enrichRoutes(listings, landmarks, ctx) {
             entry[mode] = { coords };
           }
         } catch (e) {
-          if (e.status === 429 || e.status === 403) { ctx.warn(`Route drawing paused: ${e.message}`); break outer; }
+          if (e.status === 429 || e.status === 403) { ctx.note('Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)'); ors.directions = ctx.cfg.orsDirectionsPerDay; break outer; }
           // an unroutable pair is fine: the app draws a straight line for it
         }
         await sleep(ctx.pace ?? 1600);
@@ -111,7 +111,7 @@ export async function enrichFlood(listings, ctx) {
     for (const base of ctx.cfg.femaUrls) {
       try { const r = await http(`${base}?${q}`, { timeout: 20000 }); if (r.data && !r.data.error) { data = r.data; break; } } catch { /* try the next URL */ }
     }
-    if (!data) { if (++fails >= 3) { ctx.warn('FEMA flood lookup is not responding; flood zones will fill in on a later run'); break; } continue; }
+    if (!data) { if (++fails >= 3) { ctx.note('FEMA flood lookup is not responding; flood zones will fill in on a later run'); break; } continue; }
     const a = data.features?.[0]?.attributes;
     const flood = a ? { zone: a.FLD_ZONE || 'Unknown', subtype: (a.ZONE_SUBTY || '').trim() || null, highRisk: a.SFHA_TF === 'T' } : { zone: 'Not mapped', subtype: null, highRisk: false };
     l.enrich = { ...(l.enrich || {}), flood };
@@ -133,7 +133,12 @@ async function loadPois(ctx) {
   const bbox = [center.lat - dLat, center.lng - dLng, center.lat + dLat, center.lng + dLng].map((n) => n.toFixed(4)).join(',');
   const query = `[out:json][timeout:60];(nwr["shop"="supermarket"]["name"~"Publix"](${bbox});nwr["leisure"="fitness_centre"](${bbox});nwr["amenity"="fuel"](${bbox});node["highway"="bus_stop"](${bbox}););out center tags;`;
   try {
-    const { data } = await http(ctx.cfg.overpassUrl, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'GatorNest personal rental map' }, body: 'data=' + encodeURIComponent(query), timeout: 70000 });
+    let data = null;
+    let lastErr = null;
+    for (const url of ctx.cfg.overpassUrls || [ctx.cfg.overpassUrl]) {
+      try { ({ data } = await http(url, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'GatorNest personal rental map' }, body: 'data=' + encodeURIComponent(query), timeout: 70000 })); break; } catch (e) { lastErr = e; }
+    }
+    if (!data) throw lastErr || new Error('no Overpass server answered');
     const out = { fetchedAt: new Date(ctx.now).toISOString(), publix: [], gym: [], gas: [], bus: [] };
     for (const el of data.elements || []) {
       const lat = el.lat ?? el.center?.lat;
@@ -147,7 +152,7 @@ async function loadPois(ctx) {
     log(`nearby: cached ${out.publix.length} Publix, ${out.gym.length} gyms, ${out.gas.length} gas stations, ${out.bus.length} bus stops`);
     return out;
   } catch (e) {
-    ctx.warn(`Nearby places lookup failed: ${e.message}`);
+    ctx.note('Nearby places server was busy; retrying next run');
     return cache; // an old cache beats nothing
   }
 }

@@ -13,7 +13,7 @@ export async function publish(topic, msg) {
 export async function sendAlerts({ events, listings, landmarks, presets, ctx }) {
   const topic = ctx.env.NTFY_TOPIC;
   const active = presets.filter((x) => x.alerts);
-  const wanted = events.filter((e) => e.type === 'new' || e.type === 'back' || (e.type === 'price' && e.price < e.from));
+  const wanted = events.filter((e) => e.type === 'new' || e.type === 'initial' || e.type === 'back' || (e.type === 'price' && e.price < e.from));
   if (!wanted.length || !active.length) return 0;
   const anchor = landmarks.find((l) => l.primary) || landmarks[0];
   const hits = [];

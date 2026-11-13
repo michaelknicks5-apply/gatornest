@@ -1,7 +1,7 @@
 // RentCast source adapter. Quota-aware: it only spends a request when the monthly budget allows.
 // Docs: https://developers.rentcast.io/reference/rental-listings-long-term
 import { http, log } from '../util.mjs';
-import { addressKey, slug } from '../../shared/address.js';
+import { addressKey, slug, prettyAddress } from '../../shared/address.js';
 
 const TYPE = { 'Single Family': 'house', Townhouse: 'townhouse', Condo: 'condo', 'Multi-Family': 'duplex', Apartment: 'apartment', Manufactured: 'house' };
 const H = 3600e3;
@@ -39,7 +39,7 @@ export function normalize(r) {
   const office = r.listingOffice || {};
   return {
     id: 'rc-' + slug(key), key, source: 'rentcast', sourceId: r.id,
-    address: unit ? `${address} #${unit}` : address, city: r.city, state: r.state, zip: r.zipCode,
+    address: prettyAddress(unit ? `${address} #${unit}` : address), city: r.city, state: r.state, zip: r.zipCode,
     lat: r.latitude, lng: r.longitude,
     price: r.price, beds: r.bedrooms ?? null, baths: r.bathrooms ?? null, sqft: r.squareFootage ?? null,
     type: TYPE[r.propertyType] || 'house', complex: r.propertyType === 'Apartment', yearBuilt: r.yearBuilt ?? null,
@@ -96,7 +96,7 @@ export default {
     quota.lastPages = pages;
     const listings = all.filter((r) => r.latitude && r.longitude && r.price > 0).map(normalize);
     const complete = total == null ? all.length < pages * limit : all.length >= total;
-    if (!complete) ctx.warn(`RentCast has ${total ?? 'more'} listings in range; fetched the newest ${all.length}`);
+    if (!complete) ctx.note(`RentCast has ${total ?? 'more'} listings in range; fetched the newest ${all.length}`);
     log(`rentcast: ${listings.length} listings in ${pages} request(s), ${budget - quota.used} left this period`);
     return { listings, complete, requests: pages };
   },

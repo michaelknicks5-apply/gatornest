@@ -10,6 +10,8 @@ function fillDetails(base, extra) {
 // state: the listings array (mutated). Returns nothing; pushes events.
 export function applySource(state, name, incoming, { complete, now, events }) {
   const iso = new Date(now).toISOString();
+  // On a source's first import everything is "new" to us; date those by when they were listed instead.
+  const initial = !state.some((l) => l.source === name);
   const byKey = new Map(state.map((l) => [l.key, l]));
   const seen = new Set();
   for (const inc of incoming) {
@@ -17,10 +19,11 @@ export function applySource(state, name, incoming, { complete, now, events }) {
     seen.add(inc.key);
     const cur = byKey.get(inc.key);
     if (!cur) {
-      const l = { ...inc, status: 'active', goneSince: null, firstSeen: iso, lastSeen: iso, listedDate: inc.listedDate || iso, priceHistory: [{ date: iso, price: inc.price }], enrich: null };
+      const firstSeen = initial && inc.listedDate && Date.parse(inc.listedDate) < now ? new Date(inc.listedDate).toISOString() : iso;
+      const l = { ...inc, status: 'active', goneSince: null, firstSeen, lastSeen: iso, listedDate: inc.listedDate || iso, priceHistory: [{ date: iso, price: inc.price }], enrich: null };
       state.push(l);
       byKey.set(l.key, l);
-      events.push({ t: iso, type: 'new', id: l.id, address: l.address, price: l.price });
+      events.push({ t: iso, type: initial ? 'initial' : 'new', id: l.id, address: l.address, price: l.price });
       continue;
     }
     if (cur.source !== name) {

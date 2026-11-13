@@ -15,6 +15,25 @@ const fc = (features) => ({ type: 'FeatureCollection', features });
 const isDesktop = () => window.innerWidth >= 900;
 const routeCache = new Map();
 
+// Fallback when the pipeline hasn't drawn a route yet: ask OpenStreetMap's public routing
+// service (FOSSGIS) at tap time. One request per tap, cached for the session.
+const OSM_PROFILE = { walk: 'routed-foot', bike: 'routed-bike', drive: 'routed-car' };
+const liveCache = new Map();
+function liveRoute(from, to, mode) {
+  const key = [from.lng, from.lat, to.lng, to.lat, mode].join(',');
+  if (!liveCache.has(key)) {
+    const url = `https://routing.openstreetmap.de/${OSM_PROFILE[mode]}/route/v1/driving/${from.lng},${from.lat};${to.lng},${to.lat}?overview=full&geometries=geojson`;
+    const ctl = new AbortController();
+    const timer = setTimeout(() => ctl.abort(), 8000);
+    liveCache.set(key, fetch(url, { signal: ctl.signal })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((j) => j?.routes?.[0]?.geometry?.coordinates || null)
+      .catch(() => null)
+      .finally(() => clearTimeout(timer)));
+  }
+  return liveCache.get(key);
+}
+
 async function loadRoutes(l, dir) {
   if (l.source === 'manual' || !dir) return null;
   const key = dir + '/' + l.id;
@@ -147,6 +166,10 @@ export function MapView() {
     const routes = await loadRoutes(l, state.dataSource);
     if (st.current.routeToken !== token) return;
     let coords = routes?.[lm.id]?.[r.mode]?.coords;
+    if (!coords) {
+      coords = await liveRoute(l, lm, r.mode);
+      if (st.current.routeToken !== token) return;
+    }
     const est = !coords;
     if (!coords) coords = [[l.lng, l.lat], [lm.lng, lm.lat]];
     map.getSource('route')?.setData(fc([{ type: 'Feature', properties: { est }, geometry: { type: 'LineString', coordinates: coords } }]));
