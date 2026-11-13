@@ -1,0 +1,62 @@
+[
+ {
+  "id": "default",
+  "name": "Default",
+  "emoji": "🏠",
+  "alerts": true,
+  "filters": {
+   "rentMin": null,
+   "rentMax": null,
+   "ppMax": 1100,
+   "utilIncl": false,
+   "netIncl": false,
+   "deal": "any",
+   "dropped": false,
+   "bedsMin": 4,
+   "bedsMax": null,
+   "bathsMin": null,
+   "bathRatioMin": null,
+   "sqftMin": null,
+   "ppsfMax": null,
+   "types": [
+    "house"
+   ],
+   "hideComplexes": true,
+   "lm": {
+    "deltachi": {
+     "mode": "mi",
+     "max": 1.4
+    },
+    "marston": {
+     "mode": "mi",
+     "max": 1.5
+    },
+    "macdintons": {
+     "mode": "mi",
+     "max": 1.5
+    }
+   },
+   "area": null,
+   "hideFlood": false,
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parkingMin": null,
+   "wd": false,
+   "ac": false,
+   "dishwasher": false,
+   "outdoor": false,
+   "pool": false,
+   "availBy": null,
+   "leaseMax": null,
+   "fresh": null,
+   "domMax": null,
+   "hidePassed": true,
+   "favOnly": false,
+   "hasPhotos": false,
+   "showGone": true,
+   "q": "",
+   "verifiedOnly": false
+  }
+ }
+]

@@ -1,0 +1,58 @@
+name: Sync from the app
+
+# The app's Settings screen opens a pre-filled issue titled "GatorNest sync".
+# This job copies its alert presets, hand-added listings and filled-in details into config/.
+# Only people with write access to this repo are accepted; anyone else's issue is ignored.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: gatornest
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: startsWith(github.event.issue.title, 'GatorNest sync')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+      AUTHOR: ${{ github.event.issue.user.login }}
+    steps:
+      - name: Check the author can write to this repo
+        id: who
+        run: |
+          perm=$(gh api "repos/${{ github.repository }}/collaborators/$AUTHOR/permission" --jq .permission 2>/dev/null || echo none)
+          echo "permission=$perm" >> "$GITHUB_OUTPUT"
+          if [ "$perm" != "admin" ] && [ "$perm" != "write" ] && [ "$perm" != "maintain" ]; then
+            gh issue close "$ISSUE" --repo "${{ github.repository }}" --comment "Ignored: only people with write access can sync." || true
+          fi
+      - uses: actions/checkout@v6
+        if: contains(fromJSON('["admin","write","maintain"]'), steps.who.outputs.permission)
+      - uses: actions/setup-node@v6
+        if: contains(fromJSON('["admin","write","maintain"]'), steps.who.outputs.permission)
+        with:
+          node-version: 22
+      - name: Apply the sync
+        if: contains(fromJSON('["admin","write","maintain"]'), steps.who.outputs.permission)
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }} # passed as data, never interpolated into a command
+        run: |
+          result=$(node pipeline/ingest-issue.mjs 2>&1) || { gh issue close "$ISSUE" --comment "Sync failed: $result"; exit 1; }
+          git config user.name "gatornest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config
+          if ! git diff --cached --quiet; then
+            git commit -m "config: sync from the app (#$ISSUE)"
+            git pull --rebase --autostash
+            git push
+          fi
+          gh issue close "$ISSUE" --comment "$result. The next refresh picks it up."
+          gh workflow run refresh.yml

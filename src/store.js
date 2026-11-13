@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import baseLandmarks from '../config/landmarks.json';
-import { haversineMi, estimateTravel } from '../shared/geo.js';
+import { decorate as sharedDecorate } from '../shared/decorate.js';
 import { STARTER_PRESETS, normalizeFilters, matches, decodePreset } from './filters.js';
 
 const ls = {
@@ -20,7 +20,7 @@ let state = {
   settings, presets,
   activePresetId: startPreset ? startPreset.id : null,
   filters: normalizeFilters(startPreset ? startPreset.filters : {}),
-  track: ls.get('track', {}), overrides: ls.get('overrides', {}), manual: ls.get('manual', []),
+  track: ls.get('track', {}), overrides: ls.get('overrides', {}), manual: ls.get('manual', []), removed: ls.get('removed', []),
   lastVisit: ls.get('lastVisit', null),
   now: Date.now(),
   ui: { selectedId: null, sheet: 'closed', panel: null, view: 'map', route: null, drawing: false, toast: null, sort: 'pp', compare: [], editPresetId: null, placing: null },
@@ -47,7 +47,6 @@ export function toast(msg) {
 }
 
 // ---------- data loading ----------
-const H = 3600e3;
 
 async function fetchPack(dir) {
   const get = async (f) => {
@@ -102,43 +101,18 @@ export const baseLandmarkList = baseLandmarks;
 let memo = { key: null, value: [] };
 export function getListings(s = state) {
   const lms = getLandmarks(s);
-  const key = [s.listings, s.overrides, s.manual, s.track, s.settings.groupSize, lms, s.now];
+  const key = [s.listings, s.overrides, s.manual, s.track, s.settings.groupSize, lms, s.now, s.removed];
   if (memo.key && key.every((k, i) => k === memo.key[i])) return memo.value;
-  const all = [...s.listings, ...s.manual];
+  // A hand-added listing that has been synced shows up in the shared data too; keep one copy.
+  const shared = new Set(s.listings.map((l) => l.id));
+  const all = [...s.listings, ...s.manual.filter((m) => !shared.has(m.id))].filter((l) => !s.removed.includes(l.id));
   const value = all.map((l) => decorate(l, s, lms));
   memo = { key, value };
   return value;
 }
 
 function decorate(l, s, lms) {
-  const ov = s.overrides[l.id] || {};
-  const details = { ...(l.details || {}), ...(ov.details || {}) };
-  const photos = ov.photos && ov.photos.length ? ov.photos : l.photos || [];
-  const travel = {};
-  for (const lm of lms) {
-    const routed = l.enrich?.travel?.[lm.id];
-    travel[lm.id] = routed || estimateTravel(haversineMi(l, lm));
-  }
-  const hist = l.priceHistory || [];
-  let drop = null;
-  if (hist.length > 1) {
-    const a = hist[hist.length - 2];
-    const b = hist[hist.length - 1];
-    if (b.price < a.price && s.now - new Date(b.date).getTime() < 14 * 24 * H) drop = { from: a.price, to: b.price, date: b.date };
-  }
-  const first = new Date(l.firstSeen || l.listedDate || s.now).getTime();
-  return {
-    ...l, details, photos, url: ov.url || l.url, travel,
-    pp: l.price / s.settings.groupSize, pp4: l.price / 4, pp5: l.price / 5,
-    ppsf: l.sqft ? l.price / l.sqft : null,
-    bathRatio: l.beds && l.baths != null ? l.baths / l.beds : null,
-    ageHours: (s.now - first) / H,
-    isNew: l.status !== 'gone' && s.now - first < 24 * H,
-    dom: Math.max(0, Math.floor((s.now - new Date(l.listedDate || l.firstSeen || s.now).getTime()) / (24 * H))),
-    drop, deal: l.enrich?.deal || null, flood: l.enrich?.flood || null, nearby: l.enrich?.nearby || null,
-    track: s.track[l.id] || {},
-    edited: !!s.overrides[l.id],
-  };
+  return sharedDecorate(l, { groupSize: s.settings.groupSize, landmarks: lms, now: s.now, override: s.overrides[l.id] || null, track: s.track[l.id] || null });
 }
 
 let vmemo = { key: null, value: [] };
@@ -215,8 +189,24 @@ export function addManual(listing) {
 }
 export function removeManual(id) {
   const manual = state.manual.filter((m) => m.id !== id);
+  const removed = [...new Set([...state.removed, id])];
   ls.set('manual', manual);
-  setState({ manual });
+  ls.set('removed', removed);
+  setState({ manual, removed });
+}
+
+// What the hourly job needs to know from this device: alert presets, hand-added listings, filled-in details.
+// Favorites, statuses and notes are never included.
+export function syncPayload(s = state) {
+  const overrides = {};
+  for (const [id, ov] of Object.entries(s.overrides)) overrides[id] = { details: ov.details || {}, photos: ov.photos || [], url: ov.url || null };
+  return {
+    kind: 'gatornest-sync', v: 1,
+    presets: s.presets.filter((p) => p.alerts).map(({ id, name, emoji, filters }) => ({ id, name, emoji, alerts: true, filters })),
+    manual: s.manual.map(({ id, address, lat, lng, price, beds, baths, sqft, type, url, details, listedDate }) => ({ id, address, lat, lng, price, beds, baths, sqft, type, url, details, listedDate })),
+    removeManual: s.removed,
+    overrides,
+  };
 }
 
 export function selectListing(id, sheet = 'half') {

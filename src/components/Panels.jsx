@@ -1,10 +1,13 @@
 import { useState } from 'preact/hooks';
-import { useStore, setUi, setSettings, getLandmarks, baseLandmarkList, upsertPreset, deletePreset, importPresets, resetPresets, applyPreset, addManual, selectListing, toast, loadData, getState } from '../store.js';
+import { useStore, setUi, setSettings, getLandmarks, baseLandmarkList, upsertPreset, deletePreset, importPresets, resetPresets, applyPreset, addManual, selectListing, toast, loadData, getState, syncPayload } from '../store.js';
 import { encodePreset, normalizeFilters } from '../filters.js';
 import { Icon, LandmarkBadge, LANDMARK_COLORS } from '../icons.jsx';
 import { Modal, Seg, Switch, Section, Num, copyText } from './ui.jsx';
 import { geocode } from '../geocode.js';
 import { mapApi } from '../map/MapView.jsx';
+import { addressKey, slug } from '../../shared/address.js';
+import cfg from '../../config/settings.json';
+import { ago, plural } from '../format.js';
 
 const EMOJI = ['🏠', '🏆', '💸', '🐶', '🚶', '🎣', '🛋️', '🏊', '🅿️', '⭐', '🔥', '🌴'];
 const COLORS = ['#7B4DFF', '#16A866', '#F59E0B', '#E5484D', '#0EA5C6', '#EC4899', '#2563EB', '#52525B'];
@@ -44,7 +47,7 @@ export function PresetEditor() {
       </div>
       <div class="lbl">Color</div>
       <div class="swatches">{COLORS.map((c) => <button type="button" key={c} aria-label={c} class={'swatch' + (p.color === c ? ' is-on' : '')} style={{ background: c }} onClick={() => setP({ ...p, color: c })} />)}</div>
-      <Switch on={p.alerts} onChange={(alerts) => setP({ ...p, alerts })} label="🔔 Push alerts" hint="Notify my phone when a new or price-dropped listing matches. Goes live once the hourly job is set up." />
+      <Switch on={p.alerts} onChange={(alerts) => setP({ ...p, alerts })} label="🔔 Push alerts" hint="Notify my phone when a new or price-dropped listing matches. After saving, tap Sync in Settings so the hourly job knows." />
       <Switch on={s.settings.defaultPresetId === p.id} onChange={(on) => setSettings({ defaultPresetId: on ? p.id : null })} label="Load this one when the app opens" />
       {!isNew && (
         <div class="stack">
@@ -79,7 +82,7 @@ export function AddListing() {
     if (!d.address.trim() || !d.price || !d.beds) { toast('Address, price and beds are required'); return; }
     if (d.lat == null) { toast('Find the address or place it on the map'); return; }
     const now = new Date().toISOString();
-    const id = 'm-' + d.address.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const id = 'm-' + slug(addressKey(d.address));
     addManual({
       id, source: 'manual', address: d.address.trim(), city: 'Gainesville', state: 'FL', lat: d.lat, lng: d.lng,
       price: d.price, beds: d.beds, baths: d.baths, sqft: d.sqft, type: d.type, complex: false, status: 'active',
@@ -161,6 +164,40 @@ function Landmarks() {
   );
 }
 
+function Sync() {
+  const s = useStore();
+  const payload = syncPayload(s);
+  const meta = s.meta || {};
+  const rc = meta.rentcast;
+  const json = JSON.stringify(payload);
+  const base = `https://github.com/${cfg.repo}/issues/new?title=${encodeURIComponent('GatorNest sync')}`;
+  const send = async () => {
+    const url = `${base}&body=${encodeURIComponent(json)}`;
+    if (url.length < 7000) { window.open(url, '_blank', 'noopener'); return; }
+    // Too long for a link: copy it and open a blank issue to paste into.
+    toast((await copyText(json)) ? 'Copied. Paste it into the issue and submit.' : 'Could not copy');
+    window.open(`${base}&body=${encodeURIComponent('Paste the copied text here, replacing this line.')}`, '_blank', 'noopener');
+  };
+  return (
+    <div>
+      <p class="muted small">The hourly job only knows what is in the repo. Sync sends it your 🔔 presets ({payload.presets.length}), listings you added ({payload.manual.length}) and details you filled in ({Object.keys(payload.overrides).length}). It opens a pre-filled GitHub issue: tap “Create” and a job applies it.</p>
+      <div class="row">
+        <button type="button" class="btn btn--primary btn--sm" onClick={send}><Icon name="share" size={16} />Sync to the repo</button>
+        <button type="button" class="btn btn--sm" onClick={async () => toast((await copyText(json)) ? 'Copied' : 'Could not copy')}><Icon name="copy" size={16} />Copy JSON</button>
+      </div>
+      <p class="muted small">The repo is public, so synced presets, added listings and details are visible there. Favorites, statuses and notes never leave this device.</p>
+      <p class="muted small"><b>Push alerts:</b> install the free ntfy app, tap +, and subscribe to the topic name you saved as the NTFY_TOPIC secret. Alerts fire for new and price-dropped listings that match a 🔔 preset.</p>
+      <dl class="dl dl--one">
+        <div><dt>Last check</dt><dd>{meta.lastRun ? ago(meta.lastRun, s.now) : 'Never'}</dd></div>
+        <div><dt>Last RentCast pull</dt><dd>{meta.lastFetch ? ago(meta.lastFetch, s.now) : 'Never'}</dd></div>
+        {rc && <div><dt>Requests this period</dt><dd>{rc.used} of {rc.budget}</dd></div>}
+        {rc && rc.nextFetch && <div><dt>Next pull</dt><dd>{new Date(rc.nextFetch).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: '2-digit' })}</dd></div>}
+      </dl>
+      {(meta.warnings || []).map((w) => <p class="small is-unv" key={w}>⚠ {w}</p>)}
+    </div>
+  );
+}
+
 export function Settings() {
   const s = useStore();
   const close = () => setUi({ panel: null });
@@ -195,6 +232,7 @@ export function Settings() {
           <button type="button" class="btn btn--ghost btn--sm" onClick={() => { resetPresets(); toast('Starter presets restored'); }}>Restore starters</button>
         </div>
       </Section>
+      <Section title="Alerts and sync"><Sync /></Section>
       <Section title="Data">
         <div class="row row--between"><span class="lbl">Source</span><Seg small value={s.settings.dataMode} options={[['auto', 'Auto'], ['live', 'Live'], ['fixtures', 'Test data']]} onChange={(dataMode) => { setSettings({ dataMode }); loadData(); }} /></div>
         <p class="muted small">Auto shows live listings once the hourly job has run, and the labeled test listings until then.</p>

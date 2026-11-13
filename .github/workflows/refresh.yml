@@ -1,0 +1,79 @@
+name: Refresh listings and deploy
+
+on:
+  schedule:
+    - cron: '17 * * * *' # every hour at :17 (GitHub may run it late when busy)
+  workflow_dispatch:
+    inputs:
+      force_fetch:
+        description: Fetch from RentCast now (spends a request; still stops at the monthly budget)
+        type: boolean
+        default: false
+      test_alert:
+        description: Send a test push to my phone
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'public/data/**'
+      - 'data-cache/**'
+      - '**.md'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gatornest
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      # Code pushes only rebuild the site. The schedule and manual runs also refresh the data.
+      - name: Run the pipeline
+        if: github.event_name != 'push'
+        env:
+          RENTCAST_API_KEY: ${{ secrets.RENTCAST_API_KEY }}
+          ORS_API_KEY: ${{ secrets.ORS_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          RENTCAST_MONTHLY_BUDGET: ${{ vars.RENTCAST_MONTHLY_BUDGET }}
+          FORCE_FETCH: ${{ inputs.force_fetch }}
+          TEST_ALERT: ${{ inputs.test_alert }}
+        run: node pipeline/run.mjs
+
+      - name: Commit the data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "gatornest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data data-cache
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - run: npm run build
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - id: deploy
+        uses: actions/deploy-pages@v5

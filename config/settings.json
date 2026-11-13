@@ -1,8 +1,27 @@
 {
-  "center": { "lat": 29.6480, "lng": -82.3500 },
+  "center": {
+    "lat": 29.648,
+    "lng": -82.35
+  },
   "searchRadiusMiles": 4,
   "rentcastMonthlyBudget": 45,
   "goneRetentionDays": 14,
   "ringMiles": 1.4,
-  "ringLandmark": "deltachi"
+  "ringLandmark": "deltachi",
+  "repo": "michaelknicks5-apply/gatornest",
+  "siteUrl": "https://michaelknicks5-apply.github.io/gatornest/",
+  "groupSize": 4,
+  "rentcastBillingDay": 1,
+  "rentcastBedrooms": "3:*",
+  "rentcastMaxPages": 2,
+  "enrichMinBeds": 3,
+  "routeMaxMiles": 3,
+  "routeListingsPerRun": 12,
+  "orsDirectionsPerDay": 1500,
+  "femaUrls": [
+    "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28/query",
+    "https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/28/query"
+  ],
+  "overpassUrl": "https://overpass-api.de/api/interpreter",
+  "maxAlertsPerRun": 6
 }
