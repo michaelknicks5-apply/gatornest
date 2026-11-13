@@ -20,6 +20,8 @@ export async function run({ env = process.env, argv = process.argv.slice(2), now
   const listings = readJson(path.join(DATA, 'listings.json'), []);
   const history = readJson(path.join(DATA, 'history.json'), []);
   const warnings = [];
+  // Accept a topic pasted as a full URL (https://ntfy.sh/name) as well as the bare name.
+  if (env.NTFY_TOPIC) env = { ...env, NTFY_TOPIC: String(env.NTFY_TOPIC).trim().replace(/^https?:\/\/[^/]+\//, '').replace(/^ntfy\.sh\//, '').replace(/\/+$/, '') };
   const meta = { ...prevMeta };
   const ctx = { cfg, env, now, meta, pace, force: argv.includes('--force') || env.FORCE_FETCH === 'true', warn: (w) => { warnings.push(w); log('warning:', w); }, firstRun: !prevMeta.lastFetch };
 
