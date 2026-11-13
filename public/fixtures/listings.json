@@ -1,0 +1,3450 @@
+[
+ {
+  "id": "fx-1716-nw-3rd-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1716 NW 3rd Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6551,
+  "lng": -82.3451,
+  "price": 3600,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1650,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1948,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-04T20:13:21.109Z",
+  "firstSeen": "2026-11-04T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-04T20:13:21.109Z",
+    "price": 3600
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": true,
+   "dogs": true,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3600
+  },
+  "description": "Classic College Park bungalow with a big fenced back yard, front porch and room for four cars. Fully furnished.",
+  "photos": [
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg",
+   "fixtures/photos/h3.svg"
+  ],
+  "contact": {
+   "name": "Dana Whitfield",
+   "office": "Swamp City Rentals (TEST)",
+   "phone": "3525550101",
+   "email": "dana@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.95,
+     "walk": {
+      "min": 24,
+      "mi": 1.23
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.23
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.23
+     }
+    },
+    "midtown": {
+     "mi": 0.12,
+     "walk": {
+      "min": 3,
+      "mi": 0.15
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.15
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.15
+     }
+    },
+    "cove": {
+     "mi": 0.78,
+     "walk": {
+      "min": 20,
+      "mi": 1.02
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.02
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.02
+     }
+    },
+    "bostick": {
+     "mi": 1.26,
+     "walk": {
+      "min": 32,
+      "mi": 1.63
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.63
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.63
+     }
+    },
+    "marston": {
+     "mi": 0.49,
+     "walk": {
+      "min": 12,
+      "mi": 0.64
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.64
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.64
+     }
+    },
+    "macdintons": {
+     "mi": 0.18,
+     "walk": {
+      "min": 4,
+      "mi": 0.23
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.23
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.23
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.37
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.39
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.49
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.05
+    }
+   },
+   "deal": {
+    "estRent": 3575,
+    "pct": -0.007,
+    "label": "fair",
+    "why": "$3,600 is in line with about $3,575 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1824-nw-2nd-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1824 NW 2nd Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6541,
+  "lng": -82.3468,
+  "price": 4750,
+  "beds": 5,
+  "baths": 3,
+  "sqft": 2100,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1962,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-13T15:25:21.109Z",
+  "firstSeen": "2026-11-13T15:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T15:25:21.109Z",
+    "price": 4750
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parking": 5,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": true,
+   "availableDate": "2027-08-05",
+   "leaseMonths": 12,
+   "deposit": 4750
+  },
+  "description": "Renovated five bedroom two blocks north of University Ave. Furnished, internet included, screened porch.",
+  "photos": [
+   "fixtures/photos/h2.svg",
+   "fixtures/photos/h3.svg",
+   "fixtures/photos/h4.svg"
+  ],
+  "contact": {
+   "name": "Marcus Bell",
+   "office": "Hogtown Property Group (TEST)",
+   "phone": "3525550134",
+   "email": "marcus@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.82,
+     "walk": {
+      "min": 21,
+      "mi": 1.07
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.07
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.07
+     }
+    },
+    "midtown": {
+     "mi": 0.1,
+     "walk": {
+      "min": 2,
+      "mi": 0.13
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.13
+     },
+     "drive": {
+      "min": 2,
+      "mi": 0.13
+     }
+    },
+    "cove": {
+     "mi": 0.67,
+     "walk": {
+      "min": 17,
+      "mi": 0.87
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.87
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.87
+     }
+    },
+    "bostick": {
+     "mi": 1.14,
+     "walk": {
+      "min": 29,
+      "mi": 1.48
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.48
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.48
+     }
+    },
+    "marston": {
+     "mi": 0.46,
+     "walk": {
+      "min": 11,
+      "mi": 0.59
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.59
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.59
+     }
+    },
+    "macdintons": {
+     "mi": 0.13,
+     "walk": {
+      "min": 3,
+      "mi": 0.16
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.16
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.16
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.3
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.12
+    }
+   },
+   "deal": {
+    "estRent": 4525,
+    "pct": -0.05,
+    "label": "fair",
+    "why": "$4,750 is in line with about $4,525 for similar 5-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-2018-nw-4th-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "2018 NW 4th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6561,
+  "lng": -82.3495,
+  "price": 4200,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 1900,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1955,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-10T20:13:21.109Z",
+  "firstSeen": "2026-11-10T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-10T20:13:21.109Z",
+    "price": 4200
+   }
+  ],
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Priya Nair",
+   "office": "Paynes Prairie Realty (TEST)",
+   "phone": "3525550167",
+   "email": "priya@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.82,
+     "walk": {
+      "min": 21,
+      "mi": 1.07
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.07
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.07
+     }
+    },
+    "midtown": {
+     "mi": 0.31,
+     "walk": {
+      "min": 8,
+      "mi": 0.4
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.4
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.4
+     }
+    },
+    "cove": {
+     "mi": 0.58,
+     "walk": {
+      "min": 15,
+      "mi": 0.75
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.75
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.75
+     }
+    },
+    "bostick": {
+     "mi": 1.03,
+     "walk": {
+      "min": 26,
+      "mi": 1.34
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.34
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.34
+     }
+    },
+    "marston": {
+     "mi": 0.65,
+     "walk": {
+      "min": 16,
+      "mi": 0.85
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.85
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.85
+     }
+    },
+    "macdintons": {
+     "mi": 0.34,
+     "walk": {
+      "min": 8,
+      "mi": 0.44
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.44
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.44
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.64
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.47
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.19
+    }
+   },
+   "deal": {
+    "estRent": 3550,
+    "pct": -0.183,
+    "label": "high",
+    "why": "$4,200 is 18% above about $3,550 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1412-nw-5th-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1412 NW 5th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6565,
+  "lng": -82.3405,
+  "price": 3300,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1480,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1939,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-23T20:13:21.109Z",
+  "firstSeen": "2026-10-23T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-23T20:13:21.109Z",
+    "price": 3300
+   }
+  ],
+  "details": {
+   "furnished": false,
+   "pets": true,
+   "dogs": true,
+   "parking": 3,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": false,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3300
+  },
+  "description": "Unfurnished four bedroom with hardwood floors, fenced yard and a garage for bikes.",
+  "photos": [
+   "fixtures/photos/h4.svg",
+   "fixtures/photos/h5.svg"
+  ],
+  "contact": {
+   "name": "Tom Okafor",
+   "office": "Orange & Blue Leasing (TEST)",
+   "phone": "3525550190",
+   "email": "leasing@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.22,
+     "walk": {
+      "min": 31,
+      "mi": 1.59
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.59
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.59
+     }
+    },
+    "midtown": {
+     "mi": 0.36,
+     "walk": {
+      "min": 9,
+      "mi": 0.47
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.47
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.47
+     }
+    },
+    "cove": {
+     "mi": 1.08,
+     "walk": {
+      "min": 27,
+      "mi": 1.4
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.4
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.4
+     }
+    },
+    "bostick": {
+     "mi": 1.55,
+     "walk": {
+      "min": 39,
+      "mi": 2.01
+     },
+     "bike": {
+      "min": 14,
+      "mi": 2.01
+     },
+     "drive": {
+      "min": 9,
+      "mi": 2.01
+     }
+    },
+    "marston": {
+     "mi": 0.61,
+     "walk": {
+      "min": 15,
+      "mi": 0.8
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.8
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.8
+     }
+    },
+    "macdintons": {
+     "mi": 0.41,
+     "walk": {
+      "min": 10,
+      "mi": 0.53
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.53
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.53
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.29
+    },
+    "gym": {
+     "name": "Gym on NW 13th St",
+     "mi": 0.46
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.25
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.26
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.09,
+    "label": "good",
+    "why": "$3,300 is 9% below about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-2235-nw-1st-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "2235 NW 1st Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6531,
+  "lng": -82.354,
+  "price": 4400,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1800,
+  "type": "townhouse",
+  "complex": false,
+  "yearBuilt": 2016,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-07T20:13:21.109Z",
+  "firstSeen": "2026-11-07T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-07T20:13:21.109Z",
+    "price": 4400
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": false,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": true,
+   "availableDate": "2027-08-10",
+   "leaseMonths": 12,
+   "deposit": 2200
+  },
+  "description": "Newer townhouse, every bedroom has its own bath. Furnished, balcony, four assigned spots.",
+  "photos": [
+   "fixtures/photos/h5.svg",
+   "fixtures/photos/h6.svg",
+   "fixtures/photos/h1.svg"
+  ],
+  "contact": {
+   "name": "Dana Whitfield",
+   "office": "Swamp City Rentals (TEST)",
+   "phone": "3525550101",
+   "email": "dana@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.52,
+     "walk": {
+      "min": 13,
+      "mi": 0.67
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.67
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.67
+     }
+    },
+    "midtown": {
+     "mi": 0.52,
+     "walk": {
+      "min": 13,
+      "mi": 0.67
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.67
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.67
+     }
+    },
+    "cove": {
+     "mi": 0.24,
+     "walk": {
+      "min": 6,
+      "mi": 0.31
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.31
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.31
+     }
+    },
+    "bostick": {
+     "mi": 0.7,
+     "walk": {
+      "min": 18,
+      "mi": 0.92
+     },
+     "bike": {
+      "min": 7,
+      "mi": 0.92
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.92
+     }
+    },
+    "marston": {
+     "mi": 0.71,
+     "walk": {
+      "min": 18,
+      "mi": 0.92
+     },
+     "bike": {
+      "min": 7,
+      "mi": 0.92
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.92
+     }
+    },
+    "macdintons": {
+     "mi": 0.5,
+     "walk": {
+      "min": 13,
+      "mi": 0.66
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.66
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.66
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.85
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.48
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.14
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.33
+    }
+   },
+   "deal": {
+    "estRent": 3550,
+    "pct": -0.239,
+    "label": "high",
+    "why": "$4,400 is 24% above about $3,550 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-12-nw-26th-st",
+  "source": "fixture",
+  "isTest": true,
+  "address": "12 NW 26th St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6526,
+  "lng": -82.3587,
+  "price": 5250,
+  "beds": 5,
+  "baths": 4,
+  "sqft": 2400,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1971,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-11T20:13:21.109Z",
+  "firstSeen": "2026-11-11T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-11T20:13:21.109Z",
+    "price": 5250
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": true,
+   "dogs": true,
+   "parking": 5,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": true,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-07-28",
+   "leaseMonths": 12,
+   "deposit": 5250
+  },
+  "description": "Five bedroom with a pool and a huge porch, half a mile from Fraternity Row. Furnished. Lawn and pool care included.",
+  "photos": [
+   "fixtures/photos/h6.svg",
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg"
+  ],
+  "contact": {
+   "name": "Marcus Bell",
+   "office": "Hogtown Property Group (TEST)",
+   "phone": "3525550134",
+   "email": "marcus@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.46,
+     "walk": {
+      "min": 12,
+      "mi": 0.6
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.6
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.6
+     }
+    },
+    "midtown": {
+     "mi": 0.8,
+     "walk": {
+      "min": 20,
+      "mi": 1.04
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.04
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.04
+     }
+    },
+    "cove": {
+     "mi": 0.12,
+     "walk": {
+      "min": 3,
+      "mi": 0.16
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.16
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.16
+     }
+    },
+    "bostick": {
+     "mi": 0.43,
+     "walk": {
+      "min": 11,
+      "mi": 0.56
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.56
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.56
+     }
+    },
+    "marston": {
+     "mi": 0.95,
+     "walk": {
+      "min": 24,
+      "mi": 1.24
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.24
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.24
+     }
+    },
+    "macdintons": {
+     "mi": 0.79,
+     "walk": {
+      "min": 20,
+      "mi": 1.02
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.02
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.02
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Westgate",
+     "mi": 0.91
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.73
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.17
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.1
+    }
+   },
+   "deal": {
+    "estRent": 4525,
+    "pct": -0.16,
+    "label": "high",
+    "why": "$5,250 is 16% above about $4,525 for similar 5-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-2715-sw-3rd-pl",
+  "source": "fixture",
+  "isTest": true,
+  "address": "2715 SW 3rd Pl",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.6491,
+  "lng": -82.3618,
+  "price": 4300,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 2050,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1958,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-01T20:13:21.109Z",
+  "firstSeen": "2026-11-01T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-01T20:13:21.109Z",
+    "price": 4300
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": null,
+   "dogs": null,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": true,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": null
+  },
+  "description": "Golfview ranch with pool and garage, steps from the golf course.",
+  "photos": [
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg",
+   "fixtures/photos/h3.svg"
+  ],
+  "contact": {
+   "name": "Priya Nair",
+   "office": "Paynes Prairie Realty (TEST)",
+   "phone": "3525550167",
+   "email": "priya@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.36,
+     "walk": {
+      "min": 9,
+      "mi": 0.47
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.47
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.47
+     }
+    },
+    "midtown": {
+     "mi": 1.03,
+     "walk": {
+      "min": 26,
+      "mi": 1.34
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.34
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.34
+     }
+    },
+    "cove": {
+     "mi": 0.3,
+     "walk": {
+      "min": 8,
+      "mi": 0.39
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.39
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.39
+     }
+    },
+    "bostick": {
+     "mi": 0.21,
+     "walk": {
+      "min": 5,
+      "mi": 0.27
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.27
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.27
+     }
+    },
+    "marston": {
+     "mi": 1.09,
+     "walk": {
+      "min": 27,
+      "mi": 1.41
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.41
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.41
+     }
+    },
+    "macdintons": {
+     "mi": 1,
+     "walk": {
+      "min": 25,
+      "mi": 1.3
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.3
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.3
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Westgate",
+     "mi": 0.76
+    },
+    "gym": {
+     "name": "Southwest Rec Center",
+     "mi": 0.83
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.41
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.17
+    }
+   },
+   "deal": {
+    "estRent": 3550,
+    "pct": -0.211,
+    "label": "high",
+    "why": "$4,300 is 21% above about $3,550 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-405-sw-27th-st",
+  "source": "fixture",
+  "isTest": true,
+  "address": "405 SW 27th St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.648,
+  "lng": -82.3612,
+  "price": 5500,
+  "beds": 5,
+  "baths": 3,
+  "sqft": 2600,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1964,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-14T20:13:21.109Z",
+  "firstSeen": "2026-10-14T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-14T20:13:21.109Z",
+    "price": 5500
+   }
+  ],
+  "details": {
+   "furnished": false,
+   "pets": true,
+   "dogs": true,
+   "parking": 6,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-15",
+   "leaseMonths": 12,
+   "deposit": 5500
+  },
+  "description": "Large five bedroom in Golfview. Unfurnished. Fenced yard, two-car garage.",
+  "photos": [
+   "fixtures/photos/h2.svg",
+   "fixtures/photos/h3.svg"
+  ],
+  "contact": {
+   "name": "Tom Okafor",
+   "office": "Orange & Blue Leasing (TEST)",
+   "phone": "3525550190",
+   "email": "leasing@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.29,
+     "walk": {
+      "min": 7,
+      "mi": 0.38
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.38
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.38
+     }
+    },
+    "midtown": {
+     "mi": 1.02,
+     "walk": {
+      "min": 26,
+      "mi": 1.33
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.33
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.33
+     }
+    },
+    "cove": {
+     "mi": 0.32,
+     "walk": {
+      "min": 8,
+      "mi": 0.42
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.42
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.42
+     }
+    },
+    "bostick": {
+     "mi": 0.27,
+     "walk": {
+      "min": 7,
+      "mi": 0.36
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.36
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.36
+     }
+    },
+    "marston": {
+     "mi": 1.05,
+     "walk": {
+      "min": 26,
+      "mi": 1.36
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.36
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.36
+     }
+    },
+    "macdintons": {
+     "mi": 0.99,
+     "walk": {
+      "min": 25,
+      "mi": 1.28
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.28
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.28
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Westgate",
+     "mi": 0.82
+    },
+    "gym": {
+     "name": "Southwest Rec Center",
+     "mi": 0.79
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.42
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.24
+    }
+   },
+   "deal": {
+    "estRent": 4525,
+    "pct": -0.215,
+    "label": "high",
+    "why": "$5,500 is 22% above about $4,525 for similar 5-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1021-sw-4th-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1021 SW 4th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.648,
+  "lng": -82.3355,
+  "price": 3480,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1400,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1941,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-09T20:13:21.109Z",
+  "firstSeen": "2026-11-09T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-09T20:13:21.109Z",
+    "price": 3480
+   }
+  ],
+  "details": {
+   "furnished": null,
+   "pets": true,
+   "dogs": false,
+   "parking": 2,
+   "washerDryer": false,
+   "centralAC": true,
+   "dishwasher": null,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3480
+  },
+  "description": "Four bedroom near Sorority Row. Cats OK. Street parking plus two off-street spots.",
+  "photos": [
+   "fixtures/photos/h3.svg",
+   "fixtures/photos/h4.svg"
+  ],
+  "contact": {
+   "name": "Dana Whitfield",
+   "office": "Swamp City Rentals (TEST)",
+   "phone": "3525550101",
+   "email": "dana@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.29,
+     "walk": {
+      "min": 33,
+      "mi": 1.68
+     },
+     "bike": {
+      "min": 12,
+      "mi": 1.68
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.68
+     }
+    },
+    "midtown": {
+     "mi": 0.7,
+     "walk": {
+      "min": 18,
+      "mi": 0.91
+     },
+     "bike": {
+      "min": 7,
+      "mi": 0.91
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.91
+     }
+    },
+    "cove": {
+     "mi": 1.33,
+     "walk": {
+      "min": 34,
+      "mi": 1.73
+     },
+     "bike": {
+      "min": 12,
+      "mi": 1.73
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.73
+     }
+    },
+    "bostick": {
+     "mi": 1.79,
+     "walk": {
+      "min": 45,
+      "mi": 2.32
+     },
+     "bike": {
+      "min": 16,
+      "mi": 2.32
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.32
+     }
+    },
+    "marston": {
+     "mi": 0.5,
+     "walk": {
+      "min": 12,
+      "mi": 0.64
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.64
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.64
+     }
+    },
+    "macdintons": {
+     "mi": 0.68,
+     "walk": {
+      "min": 17,
+      "mi": 0.89
+     },
+     "bike": {
+      "min": 7,
+      "mi": 0.89
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.89
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.4
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.7
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.86
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.31
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.04,
+    "label": "fair",
+    "why": "$3,480 is in line with about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1238-sw-1st-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1238 SW 1st Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.6511,
+  "lng": -82.3378,
+  "price": 2550,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1150,
+  "type": "duplex",
+  "complex": false,
+  "yearBuilt": 1978,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-05T20:13:21.109Z",
+  "firstSeen": "2026-11-05T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-05T20:13:21.109Z",
+    "price": 2550
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parking": 2,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": false,
+   "pool": false,
+   "utilitiesIncluded": true,
+   "internetIncluded": true,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 1500
+  },
+  "description": "Three bedroom duplex unit, all utilities and internet included.",
+  "photos": [
+   "fixtures/photos/h4.svg",
+   "fixtures/photos/h5.svg"
+  ],
+  "contact": {
+   "name": "Marcus Bell",
+   "office": "Hogtown Property Group (TEST)",
+   "phone": "3525550134",
+   "email": "marcus@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.2,
+     "walk": {
+      "min": 30,
+      "mi": 1.56
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.56
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.56
+     }
+    },
+    "midtown": {
+     "mi": 0.48,
+     "walk": {
+      "min": 12,
+      "mi": 0.63
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.63
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.63
+     }
+    },
+    "cove": {
+     "mi": 1.18,
+     "walk": {
+      "min": 30,
+      "mi": 1.53
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.53
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.53
+     }
+    },
+    "bostick": {
+     "mi": 1.65,
+     "walk": {
+      "min": 41,
+      "mi": 2.14
+     },
+     "bike": {
+      "min": 15,
+      "mi": 2.14
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.14
+     }
+    },
+    "marston": {
+     "mi": 0.41,
+     "walk": {
+      "min": 10,
+      "mi": 0.54
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.54
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.54
+     }
+    },
+    "macdintons": {
+     "mi": 0.48,
+     "walk": {
+      "min": 12,
+      "mi": 0.62
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.62
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.62
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.15
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.62
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.08
+    }
+   },
+   "deal": {
+    "estRent": 2650,
+    "pct": 0.038,
+    "label": "fair",
+    "why": "$2,550 is in line with about $2,650 for similar 3-bed listings.",
+    "comps": 12
+   }
+  }
+ },
+ {
+  "id": "fx-3024-nw-1st-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "3024 NW 1st Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6532,
+  "lng": -82.3672,
+  "price": 3100,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1550,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1957,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-29T20:13:21.109Z",
+  "firstSeen": "2026-10-29T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-29T20:13:21.109Z",
+    "price": 3100
+   }
+  ],
+  "details": {
+   "furnished": false,
+   "pets": true,
+   "dogs": true,
+   "parking": 3,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3100
+  },
+  "description": "Hibiscus Park four bedroom with a fenced yard. Dogs welcome.",
+  "photos": [
+   "fixtures/photos/h5.svg",
+   "fixtures/photos/h6.svg"
+  ],
+  "contact": {
+   "name": "Priya Nair",
+   "office": "Paynes Prairie Realty (TEST)",
+   "phone": "3525550167",
+   "email": "priya@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.79,
+     "walk": {
+      "min": 20,
+      "mi": 1.03
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.03
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.03
+     }
+    },
+    "midtown": {
+     "mi": 1.31,
+     "walk": {
+      "min": 33,
+      "mi": 1.7
+     },
+     "bike": {
+      "min": 12,
+      "mi": 1.7
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.7
+     }
+    },
+    "cove": {
+     "mi": 0.6,
+     "walk": {
+      "min": 15,
+      "mi": 0.78
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.78
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.78
+     }
+    },
+    "bostick": {
+     "mi": 0.25,
+     "walk": {
+      "min": 6,
+      "mi": 0.33
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.33
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.33
+     }
+    },
+    "marston": {
+     "mi": 1.45,
+     "walk": {
+      "min": 37,
+      "mi": 1.89
+     },
+     "bike": {
+      "min": 13,
+      "mi": 1.89
+     },
+     "drive": {
+      "min": 9,
+      "mi": 1.89
+     }
+    },
+    "macdintons": {
+     "mi": 1.3,
+     "walk": {
+      "min": 33,
+      "mi": 1.69
+     },
+     "bike": {
+      "min": 12,
+      "mi": 1.69
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.69
+     }
+    }
+   },
+   "flood": {
+    "zone": "AE",
+    "highRisk": true
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Westgate",
+     "mi": 0.4
+    },
+    "gym": {
+     "name": "Southwest Rec Center",
+     "mi": 1.02
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.15
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.145,
+    "label": "good",
+    "why": "$3,100 is 14% below about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-2130-nw-7th-ln",
+  "source": "fixture",
+  "isTest": true,
+  "address": "2130 NW 7th Ln",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6588,
+  "lng": -82.3515,
+  "price": 3900,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 1750,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1960,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-12T05:49:21.109Z",
+  "firstSeen": "2026-11-12T04:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-12T05:49:21.109Z",
+    "price": 3900
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": true,
+   "dogs": true,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-03",
+   "leaseMonths": 12,
+   "deposit": 3900
+  },
+  "description": "Furnished four bedroom, three bath in Florida Park. Fenced yard, fire pit, dogs OK.",
+  "photos": [
+   "fixtures/photos/h6.svg",
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg"
+  ],
+  "contact": {
+   "name": "Tom Okafor",
+   "office": "Orange & Blue Leasing (TEST)",
+   "phone": "3525550190",
+   "email": "leasing@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.94,
+     "walk": {
+      "min": 24,
+      "mi": 1.22
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.22
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.22
+     }
+    },
+    "midtown": {
+     "mi": 0.52,
+     "walk": {
+      "min": 13,
+      "mi": 0.68
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.68
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.68
+     }
+    },
+    "cove": {
+     "mi": 0.63,
+     "walk": {
+      "min": 16,
+      "mi": 0.82
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.82
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.82
+     }
+    },
+    "bostick": {
+     "mi": 1.02,
+     "walk": {
+      "min": 26,
+      "mi": 1.33
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.33
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.33
+     }
+    },
+    "marston": {
+     "mi": 0.88,
+     "walk": {
+      "min": 22,
+      "mi": 1.14
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.14
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.14
+     }
+    },
+    "macdintons": {
+     "mi": 0.56,
+     "walk": {
+      "min": 14,
+      "mi": 0.72
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.72
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.72
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.83
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.68
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.54
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.22
+    }
+   },
+   "deal": {
+    "estRent": 3550,
+    "pct": -0.099,
+    "label": "high",
+    "why": "$3,900 is 10% above about $3,550 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1602-nw-7th-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1602 NW 7th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6585,
+  "lng": -82.3432,
+  "price": 5700,
+  "beds": 6,
+  "baths": 3,
+  "sqft": 2500,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1935,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-26T20:13:21.109Z",
+  "firstSeen": "2026-10-26T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-26T20:13:21.109Z",
+    "price": 5700
+   }
+  ],
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": 5,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": null
+  },
+  "description": "Six bedroom historic house with a wraparound porch.",
+  "photos": [
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg"
+  ],
+  "contact": {
+   "name": "Dana Whitfield",
+   "office": "Swamp City Rentals (TEST)",
+   "phone": "3525550101",
+   "email": "dana@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.19,
+     "walk": {
+      "min": 30,
+      "mi": 1.55
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.55
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.55
+     }
+    },
+    "midtown": {
+     "mi": 0.38,
+     "walk": {
+      "min": 9,
+      "mi": 0.49
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.49
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.49
+     }
+    },
+    "cove": {
+     "mi": 0.99,
+     "walk": {
+      "min": 25,
+      "mi": 1.28
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.28
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.28
+     }
+    },
+    "bostick": {
+     "mi": 1.44,
+     "walk": {
+      "min": 36,
+      "mi": 1.88
+     },
+     "bike": {
+      "min": 13,
+      "mi": 1.88
+     },
+     "drive": {
+      "min": 9,
+      "mi": 1.88
+     }
+    },
+    "marston": {
+     "mi": 0.72,
+     "walk": {
+      "min": 18,
+      "mi": 0.94
+     },
+     "bike": {
+      "min": 7,
+      "mi": 0.94
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.94
+     }
+    },
+    "macdintons": {
+     "mi": 0.43,
+     "walk": {
+      "min": 11,
+      "mi": 0.56
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.56
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.56
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.47
+    },
+    "gym": {
+     "name": "Gym on NW 13th St",
+     "mi": 0.39
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.26
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.29
+    }
+   },
+   "deal": {
+    "estRent": 6000,
+    "pct": 0.05,
+    "label": "fair",
+    "why": "$5,700 is in line with about $6,000 for similar 6-bed listings.",
+    "comps": 4
+   }
+  }
+ },
+ {
+  "id": "fx-2409-nw-13th-ave",
+  "source": "fixture",
+  "isTest": true,
+  "address": "2409 NW 13th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6645,
+  "lng": -82.356,
+  "price": 2800,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1500,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1968,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-19T20:13:21.109Z",
+  "firstSeen": "2026-10-19T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-19T20:13:21.109Z",
+    "price": 2800
+   }
+  ],
+  "details": {
+   "furnished": false,
+   "pets": true,
+   "dogs": true,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-07-15",
+   "leaseMonths": 12,
+   "deposit": 2800
+  },
+  "description": "Quiet street, big yard, carport. A longer bike ride to campus.",
+  "photos": [
+   "fixtures/photos/h2.svg",
+   "fixtures/photos/h3.svg"
+  ],
+  "contact": {
+   "name": "Marcus Bell",
+   "office": "Hogtown Property Group (TEST)",
+   "phone": "3525550134",
+   "email": "marcus@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.28,
+     "walk": {
+      "min": 32,
+      "mi": 1.66
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.66
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.66
+     }
+    },
+    "midtown": {
+     "mi": 1,
+     "walk": {
+      "min": 25,
+      "mi": 1.3
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.3
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.3
+     }
+    },
+    "cove": {
+     "mi": 0.92,
+     "walk": {
+      "min": 23,
+      "mi": 1.19
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.19
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.19
+     }
+    },
+    "bostick": {
+     "mi": 1.15,
+     "walk": {
+      "min": 29,
+      "mi": 1.49
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.49
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.49
+     }
+    },
+    "marston": {
+     "mi": 1.35,
+     "walk": {
+      "min": 34,
+      "mi": 1.76
+     },
+     "bike": {
+      "min": 12,
+      "mi": 1.76
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.76
+     }
+    },
+    "macdintons": {
+     "mi": 1.03,
+     "walk": {
+      "min": 26,
+      "mi": 1.34
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.34
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.34
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 1.28
+    },
+    "gym": {
+     "name": "Gym on NW 13th St",
+     "mi": 1.01
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.86
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.06
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.228,
+    "label": "good",
+    "why": "$2,800 is 23% below about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1710-sw-35th-pl-204",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1710 SW 35th Pl #204",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.622,
+  "lng": -82.347,
+  "price": 3000,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1350,
+  "type": "townhouse",
+  "complex": true,
+  "yearBuilt": 2008,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-04T20:13:21.109Z",
+  "firstSeen": "2026-10-04T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-04T20:13:21.109Z",
+    "price": 3000
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": true,
+   "dogs": true,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": false,
+   "pool": true,
+   "utilitiesIncluded": true,
+   "internetIncluded": true,
+   "availableDate": "2027-08-18",
+   "leaseMonths": 12,
+   "deposit": 800
+  },
+  "description": "By-the-bed student community. Rate shown is four beds combined. Pool, gym, bus to campus.",
+  "photos": [
+   "fixtures/photos/h3.svg",
+   "fixtures/photos/h4.svg",
+   "fixtures/photos/h5.svg"
+  ],
+  "contact": {
+   "name": "Priya Nair",
+   "office": "Paynes Prairie Realty (TEST)",
+   "phone": "3525550167",
+   "email": "priya@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.77,
+     "walk": {
+      "min": 44,
+      "mi": 2.3
+     },
+     "bike": {
+      "min": 15,
+      "mi": 2.3
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.3
+     }
+    },
+    "midtown": {
+     "mi": 2.17,
+     "walk": {
+      "min": 55,
+      "mi": 2.82
+     },
+     "bike": {
+      "min": 19,
+      "mi": 2.82
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.82
+     }
+    },
+    "cove": {
+     "mi": 2.12,
+     "walk": {
+      "min": 53,
+      "mi": 2.75
+     },
+     "bike": {
+      "min": 18,
+      "mi": 2.75
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.75
+     }
+    },
+    "bostick": {
+     "mi": 2.22,
+     "walk": {
+      "min": 56,
+      "mi": 2.89
+     },
+     "bike": {
+      "min": 19,
+      "mi": 2.89
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.89
+     }
+    },
+    "marston": {
+     "mi": 1.81,
+     "walk": {
+      "min": 46,
+      "mi": 2.35
+     },
+     "bike": {
+      "min": 16,
+      "mi": 2.35
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.35
+     }
+    },
+    "macdintons": {
+     "mi": 2.11,
+     "walk": {
+      "min": 53,
+      "mi": 2.75
+     },
+     "bike": {
+      "min": 18,
+      "mi": 2.75
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.75
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Butler Plaza",
+     "mi": 1.95
+    },
+    "gym": {
+     "name": "Southwest Rec Center",
+     "mi": 1.7
+    },
+    "gas": {
+     "name": "Gas station, Archer Rd",
+     "mi": 1.16
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.13
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.172,
+    "label": "good",
+    "why": "$3,000 is 17% below about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-4000-sw-37th-blvd-1112",
+  "source": "fixture",
+  "isTest": true,
+  "address": "4000 SW 37th Blvd #1112",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.6205,
+  "lng": -82.38,
+  "price": 3400,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1420,
+  "type": "apartment",
+  "complex": true,
+  "yearBuilt": 2014,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-09-19T20:13:21.109Z",
+  "firstSeen": "2026-09-19T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-09-19T20:13:21.109Z",
+    "price": 3400
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": true,
+   "dogs": true,
+   "parking": 4,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": false,
+   "pool": true,
+   "utilitiesIncluded": true,
+   "internetIncluded": true,
+   "availableDate": "2027-08-20",
+   "leaseMonths": 12,
+   "deposit": 600
+  },
+  "description": "Large student apartment complex, individual leases.",
+  "photos": [
+   "fixtures/photos/h4.svg",
+   "fixtures/photos/h5.svg",
+   "fixtures/photos/h6.svg"
+  ],
+  "contact": {
+   "name": "Tom Okafor",
+   "office": "Orange & Blue Leasing (TEST)",
+   "phone": "3525550190",
+   "email": "leasing@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 2.25,
+     "walk": {
+      "min": 56,
+      "mi": 2.92
+     },
+     "bike": {
+      "min": 19,
+      "mi": 2.92
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.92
+     }
+    },
+    "midtown": {
+     "mi": 3.08,
+     "walk": {
+      "min": 78,
+      "mi": 4.01
+     },
+     "bike": {
+      "min": 26,
+      "mi": 4.01
+     },
+     "drive": {
+      "min": 16,
+      "mi": 4.01
+     }
+    },
+    "cove": {
+     "mi": 2.52,
+     "walk": {
+      "min": 63,
+      "mi": 3.28
+     },
+     "bike": {
+      "min": 22,
+      "mi": 3.28
+     },
+     "drive": {
+      "min": 14,
+      "mi": 3.28
+     }
+    },
+    "bostick": {
+     "mi": 2.22,
+     "walk": {
+      "min": 56,
+      "mi": 2.89
+     },
+     "bike": {
+      "min": 19,
+      "mi": 2.89
+     },
+     "drive": {
+      "min": 12,
+      "mi": 2.89
+     }
+    },
+    "marston": {
+     "mi": 2.89,
+     "walk": {
+      "min": 73,
+      "mi": 3.76
+     },
+     "bike": {
+      "min": 25,
+      "mi": 3.76
+     },
+     "drive": {
+      "min": 15,
+      "mi": 3.76
+     }
+    },
+    "macdintons": {
+     "mi": 3.03,
+     "walk": {
+      "min": 76,
+      "mi": 3.94
+     },
+     "bike": {
+      "min": 26,
+      "mi": 3.94
+     },
+     "drive": {
+      "min": 16,
+      "mi": 3.94
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, Butler Plaza",
+     "mi": 0.21
+    },
+    "gym": {
+     "name": "Southwest Rec Center",
+     "mi": 1.43
+    },
+    "gas": {
+     "name": "Gas station, Archer Rd",
+     "mi": 1.16
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.2
+    }
+   },
+   "deal": {
+    "estRent": 3625,
+    "pct": 0.062,
+    "label": "fair",
+    "why": "$3,400 is in line with about $3,625 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-625-nw-22nd-st",
+  "source": "fixture",
+  "isTest": true,
+  "address": "625 NW 22nd St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6578,
+  "lng": -82.353,
+  "price": 3650,
+  "beds": 4,
+  "baths": 2.5,
+  "sqft": 1700,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1952,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-10-10T20:13:21.109Z",
+  "firstSeen": "2026-10-10T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-10-10T20:13:21.109Z",
+    "price": 3900
+   },
+   {
+    "date": "2026-11-11T20:13:21.109Z",
+    "price": 3650
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parking": 3,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3650
+  },
+  "description": "Price reduced. Furnished four bedroom with a deck and a shed for bikes.",
+  "photos": [
+   "fixtures/photos/h5.svg",
+   "fixtures/photos/h6.svg",
+   "fixtures/photos/h1.svg"
+  ],
+  "contact": {
+   "name": "Dana Whitfield",
+   "office": "Swamp City Rentals (TEST)",
+   "phone": "3525550101",
+   "email": "dana@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.84,
+     "walk": {
+      "min": 21,
+      "mi": 1.1
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.1
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.1
+     }
+    },
+    "midtown": {
+     "mi": 0.55,
+     "walk": {
+      "min": 14,
+      "mi": 0.71
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.71
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.71
+     }
+    },
+    "cove": {
+     "mi": 0.52,
+     "walk": {
+      "min": 13,
+      "mi": 0.68
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.68
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.68
+     }
+    },
+    "bostick": {
+     "mi": 0.91,
+     "walk": {
+      "min": 23,
+      "mi": 1.18
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.18
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.18
+     }
+    },
+    "marston": {
+     "mi": 0.87,
+     "walk": {
+      "min": 22,
+      "mi": 1.13
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.13
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.13
+     }
+    },
+    "macdintons": {
+     "mi": 0.57,
+     "walk": {
+      "min": 14,
+      "mi": 0.74
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.74
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.74
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.88
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.67
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.43
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.27
+    }
+   },
+   "deal": {
+    "estRent": 3550,
+    "pct": -0.028,
+    "label": "fair",
+    "why": "$3,650 is in line with about $3,550 for similar 4-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-1518-nw-6th-pl",
+  "source": "fixture",
+  "isTest": true,
+  "address": "1518 NW 6th Pl",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6575,
+  "lng": -82.3422,
+  "price": 3750,
+  "beds": 5,
+  "baths": 2,
+  "sqft": 1600,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1946,
+  "status": "active",
+  "goneSince": null,
+  "listedDate": "2026-11-02T20:13:21.109Z",
+  "firstSeen": "2026-11-02T20:13:21.109Z",
+  "lastSeen": "2026-11-13T19:53:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-02T20:13:21.109Z",
+    "price": 3750
+   }
+  ],
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": 3,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": true,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": null,
+   "leaseMonths": 12,
+   "deposit": null
+  },
+  "description": "Five bedrooms, two baths. Close to Midtown.",
+  "photos": [
+   "fixtures/photos/h6.svg"
+  ],
+  "contact": {
+   "name": "Marcus Bell",
+   "office": "Hogtown Property Group (TEST)",
+   "phone": "3525550134",
+   "email": "marcus@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.19,
+     "walk": {
+      "min": 30,
+      "mi": 1.54
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.54
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.54
+     }
+    },
+    "midtown": {
+     "mi": 0.34,
+     "walk": {
+      "min": 9,
+      "mi": 0.44
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.44
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.44
+     }
+    },
+    "cove": {
+     "mi": 1.01,
+     "walk": {
+      "min": 25,
+      "mi": 1.31
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.31
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.31
+     }
+    },
+    "bostick": {
+     "mi": 1.47,
+     "walk": {
+      "min": 37,
+      "mi": 1.92
+     },
+     "bike": {
+      "min": 13,
+      "mi": 1.92
+     },
+     "drive": {
+      "min": 9,
+      "mi": 1.92
+     }
+    },
+    "marston": {
+     "mi": 0.66,
+     "walk": {
+      "min": 17,
+      "mi": 0.86
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.86
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.86
+     }
+    },
+    "macdintons": {
+     "mi": 0.4,
+     "walk": {
+      "min": 10,
+      "mi": 0.52
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.52
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.52
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.38
+    },
+    "gym": {
+     "name": "Gym on NW 13th St",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Gas station, NW 13th St",
+     "mi": 0.25
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.34
+    }
+   },
+   "deal": {
+    "estRent": 4650,
+    "pct": 0.194,
+    "label": "good",
+    "why": "$3,750 is 19% below about $4,650 for similar 5-bed listings.",
+    "comps": 16
+   }
+  }
+ },
+ {
+  "id": "fx-320-nw-19th-st-b",
+  "source": "fixture",
+  "isTest": true,
+  "address": "320 NW 19th St #B",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.6549,
+  "lng": -82.3477,
+  "price": 3800,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 1500,
+  "type": "condo",
+  "complex": false,
+  "yearBuilt": 2004,
+  "status": "gone",
+  "goneSince": "2026-11-10T20:13:21.109Z",
+  "listedDate": "2026-09-29T20:13:21.109Z",
+  "firstSeen": "2026-09-29T20:13:21.109Z",
+  "lastSeen": "2026-11-10T20:13:21.109Z",
+  "priceHistory": [
+   {
+    "date": "2026-09-29T20:13:21.109Z",
+    "price": 3800
+   }
+  ],
+  "details": {
+   "furnished": true,
+   "pets": false,
+   "dogs": false,
+   "parking": 3,
+   "washerDryer": true,
+   "centralAC": true,
+   "dishwasher": true,
+   "yard": false,
+   "pool": false,
+   "utilitiesIncluded": false,
+   "internetIncluded": false,
+   "availableDate": "2027-08-01",
+   "leaseMonths": 12,
+   "deposit": 3800
+  },
+  "description": "Four bedroom condo. This one was taken.",
+  "photos": [
+   "fixtures/photos/h1.svg",
+   "fixtures/photos/h2.svg"
+  ],
+  "contact": {
+   "name": "Priya Nair",
+   "office": "Paynes Prairie Realty (TEST)",
+   "phone": "3525550167",
+   "email": "priya@example.com",
+   "website": null
+  },
+  "url": null,
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.82,
+     "walk": {
+      "min": 21,
+      "mi": 1.07
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.07
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.07
+     }
+    },
+    "midtown": {
+     "mi": 0.17,
+     "walk": {
+      "min": 4,
+      "mi": 0.23
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.23
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.23
+     }
+    },
+    "cove": {
+     "mi": 0.63,
+     "walk": {
+      "min": 16,
+      "mi": 0.82
+     },
+     "bike": {
+      "min": 6,
+      "mi": 0.82
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.82
+     }
+    },
+    "bostick": {
+     "mi": 1.1,
+     "walk": {
+      "min": 28,
+      "mi": 1.43
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.43
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.43
+     }
+    },
+    "marston": {
+     "mi": 0.53,
+     "walk": {
+      "min": 13,
+      "mi": 0.69
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.69
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.69
+     }
+    },
+    "macdintons": {
+     "mi": 0.2,
+     "walk": {
+      "min": 5,
+      "mi": 0.26
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.26
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.26
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "highRisk": false
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix, University Ave & 13th St",
+     "mi": 0.5
+    },
+    "gym": {
+     "name": "Student Rec & Fitness Center",
+     "mi": 0.36
+    },
+    "gas": {
+     "name": "Gas station, W University Ave",
+     "mi": 0.53
+    },
+    "bus": {
+     "name": "RTS stop",
+     "mi": 0.11
+    }
+   },
+   "deal": {
+    "estRent": 3600,
+    "pct": -0.056,
+    "label": "fair",
+    "why": "$3,800 is in line with about $3,600 for similar 4-bed listings.",
+    "comps": 17
+   }
+  }
+ }
+]

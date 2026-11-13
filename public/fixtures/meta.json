@@ -1,0 +1,16 @@
+{
+ "fixture": true,
+ "generatedAt": "2026-11-13T20:13:21.109Z",
+ "lastRun": "2026-11-13T19:53:21.109Z",
+ "lastFetch": "2026-11-13T19:53:21.109Z",
+ "rentcast": {
+  "month": "2026-11",
+  "used": 14,
+  "budget": 45
+ },
+ "counts": {
+  "active": 18,
+  "gone": 1
+ },
+ "warnings": []
+}
