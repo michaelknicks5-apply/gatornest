@@ -141,7 +141,30 @@
      }
     }
    },
-   "deal": null
+   "deal": null,
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.85
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.76
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.45
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "AE",
+    "subtype": null,
+    "highRisk": true
+   }
   }
  },
  {
@@ -292,6 +315,29 @@
     "label": "high",
     "why": "$4,400 is 66% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.33
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.31
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.16
+    },
+    "bus": {
+     "name": "Southwest 2nd Avenue @ Southwest 10th Street",
+     "mi": 0.04
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -443,6 +489,29 @@
     "label": "good",
     "why": "$669 is 66% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.76
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.44
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "Lux 13 Apartments",
+     "mi": 0.21
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -599,6 +668,24 @@
     "label": "high",
     "why": "$4,650 is 75% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.2
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.27
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.19
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -756,6 +843,29 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.01
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.39
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "Passage Family Church",
+     "mi": 0.37
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -913,6 +1023,29 @@
     "label": "good",
     "why": "$1,750 is 10% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.96
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.3
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "Department of Children and Families",
+     "mi": 0.33
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -1069,6 +1202,24 @@
     "label": "high",
     "why": "$2,800 is 44% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.6
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.87
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.69
+    },
+    "bus": {
+     "name": "Southwest 2nd Avenue @ Southwest 26th Street",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -1226,6 +1377,29 @@
     "label": "high",
     "why": "$2,900 is 49% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.67
+    },
+    "gym": {
+     "name": "Numa Speed Elite",
+     "mi": 0.57
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.61
+    },
+    "bus": {
+     "name": "Split Rock Conservation Area",
+     "mi": 0.18
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -1382,6 +1556,24 @@
     "label": "high",
     "why": "$2,900 is 49% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.67
+    },
+    "gym": {
+     "name": "Numa Speed Elite",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.6
+    },
+    "bus": {
+     "name": "Split Rock Conservation Area",
+     "mi": 0.19
+    }
    }
   }
  },
@@ -1538,6 +1730,24 @@
     "label": "high",
     "why": "$5,340 is 102% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.21
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.29
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.23
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.19
+    }
    }
   }
  },
@@ -1689,6 +1899,29 @@
     "label": "fair",
     "why": "$2,000 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.16
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.23
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.14
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -1840,6 +2073,29 @@
     "label": "fair",
     "why": "$2,800 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.1
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.97
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.87
+    },
+    "bus": {
+     "name": "Forest Ridge Neighborhood",
+     "mi": 0.22
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -1997,6 +2253,29 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.48
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.37
+    },
+    "bus": {
+     "name": "Triangle Club",
+     "mi": 0.14
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -2153,6 +2432,24 @@
     "label": "high",
     "why": "$3,000 is 54% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.52
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.47
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.39
+    },
+    "bus": {
+     "name": "Southwest 7th Avenue @ Southwest 12th Street",
+     "mi": 0.04
+    }
    }
   }
  },
@@ -2309,6 +2606,24 @@
     "label": "high",
     "why": "$2,850 is 46% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.72
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.66
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.62
+    },
+    "bus": {
+     "name": "Parkside II Apartments",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -2460,6 +2775,29 @@
     "label": "fair",
     "why": "$4,700 is in line with about $4,675 for similar 8-bed listings.",
     "comps": 3
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.46
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.54
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Xerographic Copy Center",
+     "mi": 0.12
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -2616,6 +2954,24 @@
     "label": "high",
     "why": "$2,500 is 28% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.1
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.18
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Publix @ Northwest 13th Street and West University Avenue",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -2773,6 +3129,29 @@
     "label": "high",
     "why": "$3,000 is 13% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.37
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 1.07
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.77
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -2929,6 +3308,24 @@
     "label": "fair",
     "why": "$1,990 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.24
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.32
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.14
+    },
+    "bus": {
+     "name": "Sweetberries Eatery",
+     "mi": 0.09
+    }
    }
   }
  },
@@ -3080,6 +3477,29 @@
     "label": "high",
     "why": "$2,850 is 46% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.78
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.71
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.66
+    },
+    "bus": {
+     "name": "Southwest 13th Street @ Diamond Road",
+     "mi": 0.14
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -3236,6 +3656,24 @@
     "label": "high",
     "why": "$2,800 is 44% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.81
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.74
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "Wildflower Apartments",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -3387,6 +3825,29 @@
     "label": "high",
     "why": "$2,850 is 46% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.81
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.74
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "Wildflower Apartments",
+     "mi": 0.12
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -3543,6 +4004,24 @@
     "label": "high",
     "why": "$3,400 is 74% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.6
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.87
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.72
+    },
+    "bus": {
+     "name": "Southwest 2nd Avenue @ Southwest 26th Street",
+     "mi": 0.08
+    }
    }
   }
  },
@@ -3700,6 +4179,29 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.71
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.69
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.21
+    },
+    "bus": {
+     "name": "LifeSouth Community Blood Center @ Northwest 13th Street",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -3851,6 +4353,29 @@
     "label": "good",
     "why": "$1,450 is 26% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.91
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.44
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.06
+    },
+    "bus": {
+     "name": "Georgetown Apartments",
+     "mi": 0.04
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -4007,6 +4532,24 @@
     "label": "high",
     "why": "$2,900 is 49% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.52
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.59
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.34
+    },
+    "bus": {
+     "name": "Applebee's @ Northwest 13th Street",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -4164,6 +4707,29 @@
     "label": "high",
     "why": "$3,600 is 36% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.12
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.71
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.75
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -4320,6 +4886,24 @@
     "label": "high",
     "why": "$4,500 is 9% above about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.21
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.26
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.11
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.09
+    }
    }
   }
  },
@@ -4477,6 +5061,29 @@
     "label": "good",
     "why": "$1,675 is 14% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.02
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.79
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.84
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.06
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -4639,6 +5246,24 @@
     "label": "good",
     "why": "$2,200 is 17% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.36
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.17
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 13th Street",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -4796,6 +5421,29 @@
     "label": "fair",
     "why": "$2,100 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.16
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.06
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.72
+    },
+    "bus": {
+     "name": "Michelle Garden Apartments",
+     "mi": 0.06
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -4953,6 +5601,29 @@
     "label": "good",
     "why": "$2,400 is 9% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.06
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.93
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.86
+    },
+    "bus": {
+     "name": "Northeast 16th Avenue @ Northeast 12th Street",
+     "mi": 0.14
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -5104,6 +5775,29 @@
     "label": "high",
     "why": "$3,700 is 40% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.62
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.89
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.8
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -5261,6 +5955,29 @@
     "label": "good",
     "why": "$1,775 is 9% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.3
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.51
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Northeast 15th Street @ 8th Avenue Northbound",
+     "mi": 0.08
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -5417,6 +6134,24 @@
     "label": "high",
     "why": "$3,000 is 54% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.75
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.78
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.9
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.08
+    }
    }
   }
  },
@@ -5574,6 +6309,29 @@
     "label": "good",
     "why": "$1,500 is 23% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.66
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.97
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.55
+    },
+    "bus": {
+     "name": "Department of Children and Families",
+     "mi": 0.08
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -5731,6 +6489,29 @@
     "label": "fair",
     "why": "$1,895 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.54
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.3
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.65
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.28
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -5888,6 +6669,29 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.66
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.15
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.77
+    },
+    "bus": {
+     "name": "Cobblestone Apartments",
+     "mi": 0.2
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -6045,6 +6849,29 @@
     "label": "high",
     "why": "$2,250 is 15% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.47
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.28
+    },
+    "bus": {
+     "name": "Northwest 17th Street @ Northwest 7th Avenue",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -6201,6 +7028,24 @@
     "label": "fair",
     "why": "$2,075 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.41
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.91
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 1.01
+    },
+    "bus": {
+     "name": "Northwest 16th Avenue @ Northwest 24th Street",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -6357,6 +7202,24 @@
     "label": "high",
     "why": "$6,250 is 20% above about $5,225 for similar 6-bed listings.",
     "comps": 14
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.46
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.49
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Northwest 17th Street @ Northwest 7th Avenue",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -6513,6 +7376,24 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.58
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.61
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.32
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -6664,6 +7545,29 @@
     "label": "high",
     "why": "$2,900 is 9% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.33
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.38
+    },
+    "bus": {
+     "name": "College Park @ Northwest 17th Street",
+     "mi": 0.11
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -6815,6 +7719,29 @@
     "label": "good",
     "why": "$1,600 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.88
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.21
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.66
+    },
+    "bus": {
+     "name": "UF Health Homecare",
+     "mi": 0.16
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -6971,6 +7898,24 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.88
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.21
+    },
+    "gas": {
+     "name": "Marathon",
+     "mi": 0.66
+    },
+    "bus": {
+     "name": "UF Health Homecare",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -7133,6 +8078,24 @@
     "label": "good",
     "why": "$1,500 is 23% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 2.38
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.24
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 1.21
+    },
+    "bus": {
+     "name": "Southeast 12th Avenue @ Southeast 19th Terrace",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -7289,6 +8252,24 @@
     "label": "fair",
     "why": "$1,850 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.61
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.05
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "Northwest 39th Avenue @ Northwest 19th Terrace",
+     "mi": 0.36
+    }
    }
   }
  },
@@ -7440,6 +8421,29 @@
     "label": "high",
     "why": "$2,600 is 33% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.6
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.36
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.53
+    },
+    "bus": {
+     "name": "Ben Hill Griffin Stadium",
+     "mi": 0.22
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -7597,6 +8601,29 @@
     "label": "fair",
     "why": "$1,975 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.52
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.37
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.67
+    },
+    "bus": {
+     "name": "Ridgeview Baptist Church",
+     "mi": 0.13
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -7754,6 +8781,29 @@
     "label": "fair",
     "why": "$1,850 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.78
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.87
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.84
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.23
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -7916,6 +8966,24 @@
     "label": "good",
     "why": "$2,400 is 9% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.65
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.23
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.45
+    },
+    "bus": {
+     "name": "The Seagle Building",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -8073,6 +9141,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.97
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.89
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.87
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.14
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -8230,6 +9321,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.97
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.89
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.87
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.14
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -8387,6 +9501,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.99
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.92
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.89
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -8544,6 +9681,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.99
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.92
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.89
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -8701,6 +9861,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.98
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.9
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.87
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.16
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -8858,6 +10041,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.98
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.9
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.87
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.16
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9015,6 +10221,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 2
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.92
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.9
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.17
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9172,6 +10401,29 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 2
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.92
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.9
+    },
+    "bus": {
+     "name": "East University Avenue @ Southeast 21st Street Westbound",
+     "mi": 0.17
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9329,6 +10581,29 @@
     "label": "fair",
     "why": "$2,450 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.82
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.77
+    },
+    "gas": {
+     "name": "Circle K Gas Station",
+     "mi": 0.74
+    },
+    "bus": {
+     "name": "Northwest Baptist Church",
+     "mi": 0.12
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9485,6 +10760,24 @@
     "label": "fair",
     "why": "$2,450 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.11
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.92
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "North Main Post Office",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -9636,6 +10929,29 @@
     "label": "high",
     "why": "$2,900 is 9% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.19
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.18
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.83
+    },
+    "bus": {
+     "name": "Southwest 23rd Street @ Williston Road",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9787,6 +11103,29 @@
     "label": "fair",
     "why": "$1,800 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.23
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.61
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "Campus Edge Condominiums",
+     "mi": 0.03
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -9938,6 +11277,29 @@
     "label": "fair",
     "why": "$1,800 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.42
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.71
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.1
+    },
+    "bus": {
+     "name": "The Bartram Apartments",
+     "mi": 0.05
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -10094,6 +11456,24 @@
     "label": "good",
     "why": "$1,595 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.32
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.66
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.22
+    },
+    "bus": {
+     "name": "Mount Vernon Apartments @ Southwest 23rd Drive",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -10251,6 +11631,29 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.06
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.65
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 1.2
+    },
+    "bus": {
+     "name": "Uptown Village Apartments",
+     "mi": 0.34
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -10402,6 +11805,29 @@
     "label": "high",
     "why": "$2,700 is 38% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.86
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.82
+    },
+    "gas": {
+     "name": "Circle K Gas Station",
+     "mi": 0.76
+    },
+    "bus": {
+     "name": "Northwest Baptist Church",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -10553,6 +11979,29 @@
     "label": "good",
     "why": "$1,549 is 21% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.01
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.6
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.37
+    },
+    "bus": {
+     "name": "Smokey Bear Park Southbound",
+     "mi": 0.59
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -10704,6 +12153,29 @@
     "label": "good",
     "why": "$1,750 is 10% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.22
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.37
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.77
+    },
+    "bus": {
+     "name": "Casablanca Apartments",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -10861,6 +12333,29 @@
     "label": "good",
     "why": "$1,400 is 28% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.2
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.4
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.75
+    },
+    "bus": {
+     "name": "Casablanca Apartments",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -11012,6 +12507,29 @@
     "label": "fair",
     "why": "$1,950 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.22
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.37
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.77
+    },
+    "bus": {
+     "name": "Casablanca Apartments",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -11163,6 +12681,29 @@
     "label": "good",
     "why": "$599 is 77% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.06
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.67
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "University Commons",
+     "mi": 0.06
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -11319,6 +12860,24 @@
     "label": "good",
     "why": "$1,295 is 51% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.06
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.67
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "University Commons",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -11475,6 +13034,24 @@
     "label": "high",
     "why": "$2,600 is 33% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.58
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.94
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.8
+    },
+    "bus": {
+     "name": "Gainesville Women's Club",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -11626,6 +13203,29 @@
     "label": "high",
     "why": "$3,300 is 69% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.5
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.99
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.71
+    },
+    "bus": {
+     "name": "Gainesville Women's Club",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -11788,6 +13388,24 @@
     "label": "fair",
     "why": "$2,775 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.55
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 1.03
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.86
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -11944,6 +13562,24 @@
     "label": "high",
     "why": "$5,000 is 21% above about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.49
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 1
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.71
+    },
+    "bus": {
+     "name": "Gainesville Women's Club",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -12095,6 +13731,29 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.05
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.48
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.59
+    },
+    "bus": {
+     "name": "Southwest 27th Street @ Southwest 35th Place Northbound",
+     "mi": 0.02
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -12257,6 +13916,24 @@
     "label": "good",
     "why": "$1,350 is 31% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.05
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.45
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.6
+    },
+    "bus": {
+     "name": "Southwest 27th Street @ Southwest 35th Place",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -12414,6 +14091,29 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 3.13
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.98
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 1.96
+    },
+    "bus": {
+     "name": "Southeast 12th Avenue @ Southeast 19th Terrace",
+     "mi": 0.86
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -12565,6 +14265,29 @@
     "label": "good",
     "why": "$649 is 67% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.93
+    },
+    "gym": {
+     "name": "Crunch Fitness",
+     "mi": 0.64
+    },
+    "gas": {
+     "name": "Wawa",
+     "mi": 0.44
+    },
+    "bus": {
+     "name": "Brandywine Apartments",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -12716,6 +14439,29 @@
     "label": "good",
     "why": "$1,636 is 16% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.99
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.24
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.66
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.1
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -12872,6 +14618,24 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.76
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.75
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Victoria Station Apartments",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -13034,6 +14798,24 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.75
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.75
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "Victoria Station Apartments",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -13191,6 +14973,29 @@
     "label": "good",
     "why": "$1,750 is 10% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.26
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 1.13
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.54
+    },
+    "bus": {
+     "name": "Northbound Northwest 34th Street @ Nearside Northwest 5th Avenue",
+     "mi": 0.11
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -13348,6 +15153,29 @@
     "label": "high",
     "why": "$3,100 is 17% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.17
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.98
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.03
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -13504,6 +15332,24 @@
     "label": "fair",
     "why": "$2,800 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.19
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.25
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.16
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -13661,6 +15507,29 @@
     "label": "high",
     "why": "$2,200 is 13% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.28
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 1.15
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.54
+    },
+    "bus": {
+     "name": "Northbound Northwest 34th Street @ Nearside Northwest 5th Avenue",
+     "mi": 0.1
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -13818,6 +15687,29 @@
     "label": "fair",
     "why": "$1,950 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.22
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.97
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "Northwest 2nd Street @ Northwest 16th Avenue Northbound",
+     "mi": 0.1
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -13969,6 +15861,29 @@
     "label": "good",
     "why": "$3,400 is 18% below about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.67
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.76
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.54
+    },
+    "bus": {
+     "name": "Dollar General @ Southwest 34th Street",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -14126,6 +16041,29 @@
     "label": "high",
     "why": "$2,500 is 28% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.73
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.29
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.53
+    },
+    "bus": {
+     "name": "Jefferson Appartments",
+     "mi": 0.19
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -14282,6 +16220,24 @@
     "label": "high",
     "why": "$2,950 is 51% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.86
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.87
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.62
+    },
+    "bus": {
+     "name": "Celebration Pointe Park and Ride",
+     "mi": 0.08
+    }
    }
   }
  },
@@ -14439,6 +16395,29 @@
     "label": "high",
     "why": "$2,400 is 23% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.94
+    },
+    "gym": {
+     "name": "Gainesville Health & Fitness Women's Center",
+     "mi": 0.93
+    },
+    "gas": {
+     "name": "Circle K Gas Station",
+     "mi": 1.01
+    },
+    "bus": {
+     "name": "Northbound Northwest 34th Street @ Nearside Northwest 26th Avenue",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -14601,6 +16580,24 @@
     "label": "good",
     "why": "$2,200 is 17% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.98
+    },
+    "gym": {
+     "name": "Gainesville Health & Fitness Women's Center",
+     "mi": 0.94
+    },
+    "gas": {
+     "name": "Circle K Gas Station",
+     "mi": 1.03
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -14757,6 +16754,24 @@
     "label": "high",
     "why": "$3,750 is 92% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.88
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.89
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.62
+    },
+    "bus": {
+     "name": "Celebration Pointe Park and Ride",
+     "mi": 0.1
+    }
    }
   }
  },
@@ -14913,6 +16928,24 @@
     "label": "good",
     "why": "$1,399 is 28% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.62
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.73
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "Greenwich Green Apartments",
+     "mi": 0.08
+    }
    }
   }
  },
@@ -15070,6 +17103,29 @@
     "label": "fair",
     "why": "$1,950 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.25
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.02
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.71
+    },
+    "bus": {
+     "name": "Gainesville Health and Fitness",
+     "mi": 0.13
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -15227,6 +17283,29 @@
     "label": "fair",
     "why": "$1,980 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.78
+    },
+    "gym": {
+     "name": "Crunch Fitness",
+     "mi": 0.22
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.63
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.12
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -15378,6 +17457,29 @@
     "label": "good",
     "why": "$549 is 79% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.98
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.4
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.64
+    },
+    "bus": {
+     "name": "Lexington Crossing Apartments",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -15535,6 +17637,29 @@
     "label": "good",
     "why": "$1,600 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.1
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.3
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.75
+    },
+    "bus": {
+     "name": "Windsor Park",
+     "mi": 0.08
+    }
+   },
+   "flood": {
+    "zone": "A",
+    "subtype": null,
+    "highRisk": true
    }
   }
  },
@@ -15686,6 +17811,29 @@
     "label": "good",
     "why": "$1,600 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.1
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.3
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.75
+    },
+    "bus": {
+     "name": "Windsor Park",
+     "mi": 0.08
+    }
+   },
+   "flood": {
+    "zone": "A",
+    "subtype": null,
+    "highRisk": true
    }
   }
  },
@@ -15837,6 +17985,29 @@
     "label": "good",
     "why": "$1,375 is 29% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.1
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.31
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.74
+    },
+    "bus": {
+     "name": "Windsor Park",
+     "mi": 0.07
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -15993,6 +18164,24 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.1
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.22
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.82
+    },
+    "bus": {
+     "name": "Lexington Crossing Apartments",
+     "mi": 0.13
+    }
    }
   }
  },
@@ -16155,6 +18344,24 @@
     "label": "good",
     "why": "$1,750 is 34% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.69
+    },
+    "gym": {
+     "name": "Crunch Fitness",
+     "mi": 0.33
+    },
+    "gas": {
+     "name": "Daily Mart",
+     "mi": 0.56
+    },
+    "bus": {
+     "name": "Pinnacle Point Apartments",
+     "mi": 0.09
+    }
    }
   }
  },
@@ -16317,6 +18524,24 @@
     "label": "good",
     "why": "$500 is 81% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.65
+    },
+    "gym": {
+     "name": "Crunch Fitness",
+     "mi": 0.32
+    },
+    "gas": {
+     "name": "Daily Mart",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "Pinnacle Point Apartments",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -16468,6 +18693,29 @@
     "label": "high",
     "why": "$3,800 is 43% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.81
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.61
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.28
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -16624,6 +18872,24 @@
     "label": "good",
     "why": "$2,300 is 13% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.7
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.8
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "Aspen Ridge Apartments",
+     "mi": 0.09
+    }
    }
   }
  },
@@ -16781,6 +19047,29 @@
     "label": "good",
     "why": "$1,600 is 40% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.73
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.8
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.34
+    },
+    "bus": {
+     "name": "Aspen Ridge Apartments",
+     "mi": 0.12
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -16937,6 +19226,24 @@
     "label": "good",
     "why": "$550 is 79% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.74
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.8
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.34
+    },
+    "bus": {
+     "name": "Aspen Ridge Apartments",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -17088,6 +19395,29 @@
     "label": "high",
     "why": "$3,800 is 43% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.8
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.6
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.28
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -17245,6 +19575,29 @@
     "label": "high",
     "why": "$3,400 is 28% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.79
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 1.3
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.19
+    },
+    "bus": {
+     "name": "Community Foundation of North Central Florida",
+     "mi": 0.16
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -17407,6 +19760,24 @@
     "label": "good",
     "why": "$2,000 is 25% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.21
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.12
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.88
+    },
+    "bus": {
+     "name": "Southwest 23rd Street @ Williston Road",
+     "mi": 0.09
+    }
    }
   }
  },
@@ -17564,6 +19935,29 @@
     "label": "good",
     "why": "$625 is 76% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.21
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.12
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.88
+    },
+    "bus": {
+     "name": "Southwest 23rd Street @ Williston Road",
+     "mi": 0.09
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -17721,6 +20115,29 @@
     "label": "good",
     "why": "$1,850 is 30% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.34
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.29
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.94
+    },
+    "bus": {
+     "name": "Gator Place Condominiums",
+     "mi": 0.08
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -17877,6 +20294,24 @@
     "label": "high",
     "why": "$4,560 is 72% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.53
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.34
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.46
+    },
+    "bus": {
+     "name": "Northwest 17th Street @ Northwest 5th Avenue",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -18034,6 +20469,29 @@
     "label": "high",
     "why": "$2,650 is 36% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.16
+    },
+    "gym": {
+     "name": "Gainesville Health & Fitness Women's Center",
+     "mi": 1.18
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.78
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.11
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -18190,6 +20648,24 @@
     "label": "good",
     "why": "$4,100 is 44% below about $7,300 for similar 7-bed listings.",
     "comps": 5
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.84
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.81
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.46
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.19
+    }
    }
   }
  },
@@ -18347,6 +20823,29 @@
     "label": "good",
     "why": "$1,500 is 23% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.53
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 0.46
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.54
+    },
+    "bus": {
+     "name": "Southwest 23rd Street @ Williston Road",
+     "mi": 0.31
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -18503,6 +21002,24 @@
     "label": "high",
     "why": "$2,600 is 33% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.27
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.34
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.24
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -18665,6 +21182,24 @@
     "label": "high",
     "why": "$2,475 is 27% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.59
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.31
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.4
+    },
+    "bus": {
+     "name": "Alachua County Office of the State Attorney",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -18816,6 +21351,29 @@
     "label": "high",
     "why": "$6,000 is 126% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.57
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.32
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.38
+    },
+    "bus": {
+     "name": "The Seagle Building",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -18973,6 +21531,29 @@
     "label": "fair",
     "why": "$2,050 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.53
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.5
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.52
+    },
+    "bus": {
+     "name": "Assembly of God Church",
+     "mi": 0.28
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -19130,6 +21711,29 @@
     "label": "fair",
     "why": "$1,975 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.57
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.49
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Assembly of God Church",
+     "mi": 0.35
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -19287,6 +21891,29 @@
     "label": "fair",
     "why": "$2,000 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.5
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.56
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.41
+    },
+    "bus": {
+     "name": "Capri Neighborhood",
+     "mi": 0.32
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -19449,6 +22076,24 @@
     "label": "good",
     "why": "$1,750 is 10% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.9
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.82
+    },
+    "gas": {
+     "name": "Daily Mart",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Forest Park",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -19606,6 +22251,29 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.28
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.32
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.69
+    },
+    "bus": {
+     "name": "Walnut Creek Neighborhood",
+     "mi": 0.41
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -19762,6 +22430,24 @@
     "label": "fair",
     "why": "$2,100 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.16
+    },
+    "gym": {
+     "name": "Gainesville Health & Fitness Women's Center",
+     "mi": 1.65
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Capri Neighborhood",
+     "mi": 0.03
+    }
    }
   }
  },
@@ -19913,6 +22599,24 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.68
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.15
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.61
+    },
+    "bus": {
+     "name": "Northwest 39th Avenue @ Northwest 19th Terrace",
+     "mi": 0.46
+    }
    }
   }
  },
@@ -20070,6 +22774,24 @@
     "label": "fair",
     "why": "$1,850 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.55
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.6
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "Family Dollar @ Northwest 34th Street",
+     "mi": 0.38
+    }
    }
   }
  },
@@ -20221,6 +22943,24 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.87
+    },
+    "gym": {
+     "name": "Gainesville Health & Fitness Women's Center",
+     "mi": 1.58
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.47
+    },
+    "bus": {
+     "name": "Capri Neighborhood",
+     "mi": 0.32
+    }
    }
   }
  },
@@ -20378,6 +23118,24 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.02
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.15
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Hailey Forest Condominiums",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -20535,6 +23293,24 @@
     "label": "high",
     "why": "$2,275 is 17% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.01
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.15
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Hailey Forest Condominiums",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -20692,6 +23468,24 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.39
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.01
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.73
+    },
+    "bus": {
+     "name": "Gainesville Health and Fitness",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -20843,6 +23637,24 @@
     "label": "high",
     "why": "$4,600 is 74% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.56
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.34
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.36
+    },
+    "bus": {
+     "name": "Alachua County Office of the State Attorney",
+     "mi": 0.26
+    }
    }
   }
  },
@@ -21000,6 +23812,24 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.33
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 1.21
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.6
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.03
+    }
    }
   }
  },
@@ -21151,6 +23981,24 @@
     "label": "good",
     "why": "$1,765 is 9% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.79
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.11
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.19
+    },
+    "bus": {
+     "name": "Tire Kingdom @ Newberry Road",
+     "mi": 0.2
+    }
    }
   }
  },
@@ -21302,6 +24150,24 @@
     "label": "good",
     "why": "$1,765 is 9% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.76
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.17
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.14
+    },
+    "bus": {
+     "name": "Tire Kingdom @ Newberry Road",
+     "mi": 0.15
+    }
    }
   }
  },
@@ -21453,6 +24319,24 @@
     "label": "high",
     "why": "$3,900 is 47% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.72
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.37
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.51
+    },
+    "bus": {
+     "name": "Second Avenue Center Apartments",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -21609,6 +24493,24 @@
     "label": "fair",
     "why": "$2,100 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.25
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.61
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.55
+    },
+    "bus": {
+     "name": "Sorrento",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -21765,6 +24667,24 @@
     "label": "good",
     "why": "$2,400 is 9% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.28
+    },
+    "gym": {
+     "name": "Anytime Fitness",
+     "mi": 1.38
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.74
+    },
+    "bus": {
+     "name": "Dogwood Dog Park",
+     "mi": 0.2
+    }
    }
   }
  },
@@ -21922,6 +24842,24 @@
     "label": "fair",
     "why": "$2,590 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.28
+    },
+    "gym": {
+     "name": "Anytime Fitness",
+     "mi": 1.37
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.74
+    },
+    "bus": {
+     "name": "Dogwood Dog Park",
+     "mi": 0.19
+    }
    }
   }
  },
@@ -22078,6 +25016,24 @@
     "label": "high",
     "why": "$3,600 is 36% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.77
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.46
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.22
+    }
    }
   }
  },
@@ -22235,6 +25191,24 @@
     "label": "fair",
     "why": "$2,600 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.3
+    },
+    "gym": {
+     "name": "Anytime Fitness",
+     "mi": 1.36
+    },
+    "gas": {
+     "name": "Kangaroo Express",
+     "mi": 0.76
+    },
+    "bus": {
+     "name": "Dogwood Dog Park",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -22392,6 +25366,24 @@
     "label": "high",
     "why": "$2,350 is 21% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.31
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.68
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.56
+    },
+    "bus": {
+     "name": "Sorrento",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -22548,6 +25540,24 @@
     "label": "high",
     "why": "$3,600 is 36% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.42
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.49
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.27
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -22704,6 +25714,24 @@
     "label": "good",
     "why": "$4,100 is 44% below about $7,300 for similar 7-bed listings.",
     "comps": 5
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.48
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.28
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.39
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -22855,6 +25883,24 @@
     "label": "high",
     "why": "$5,000 is 21% above about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.7
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.46
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.5
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -23011,6 +26057,24 @@
     "label": "good",
     "why": "$1,650 is 15% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.11
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 0.34
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Episcopal Children's Services",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -23168,6 +26232,24 @@
     "label": "good",
     "why": "$1,745 is 11% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.87
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.05
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.46
+    },
+    "bus": {
+     "name": "Lakewood Villas Apartments",
+     "mi": 0.17
+    }
    }
   }
  },
@@ -23325,6 +26407,24 @@
     "label": "high",
     "why": "$2,300 is 18% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.58
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.2
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.34
+    },
+    "bus": {
+     "name": "Plaza Royale",
+     "mi": 0.32
+    }
    }
   }
  },
@@ -23482,6 +26582,24 @@
     "label": "good",
     "why": "$1,600 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.47
+    },
+    "gym": {
+     "name": "Numa Speed Elite",
+     "mi": 0.52
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.59
+    },
+    "bus": {
+     "name": "Gordon Manor Neighborhood",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -23644,6 +26762,24 @@
     "label": "fair",
     "why": "$1,900 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.27
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.31
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.11
+    },
+    "bus": {
+     "name": "The Gate Food Store @ Northwest 13th Street",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -23800,6 +26936,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.15
+    }
    }
   }
  },
@@ -23956,6 +27110,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.43
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.29
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.13
+    }
    }
   }
  },
@@ -24107,6 +27279,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.45
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.41
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.15
+    }
    }
   }
  },
@@ -24263,6 +27453,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.41
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -24419,6 +27627,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.43
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.29
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -24575,6 +27801,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.43
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.29
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -24731,6 +27975,24 @@
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.43
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.44
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -24882,6 +28144,24 @@
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -25038,6 +28318,24 @@
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.45
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.32
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -25189,6 +28487,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.45
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -25340,6 +28656,24 @@
     "label": "high",
     "why": "$3,300 is 25% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.15
+    }
    }
   }
  },
@@ -25497,6 +28831,24 @@
     "label": "good",
     "why": "$1,575 is 19% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.85
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.39
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.64
+    },
+    "bus": {
+     "name": "FlixBus Gainesville",
+     "mi": 0.3
+    }
    }
   }
  },
@@ -25648,6 +29000,24 @@
     "label": "high",
     "why": "$3,900 is 47% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.76
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.42
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.56
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.24
+    }
    }
   }
  },
@@ -25805,6 +29175,24 @@
     "label": "good",
     "why": "$1,530 is 22% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.01
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.26
+    },
+    "gas": {
+     "name": "Chevron",
+     "mi": 0.39
+    },
+    "bus": {
+     "name": "Oaks Mall",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -25962,6 +29350,24 @@
     "label": "good",
     "why": "$1,750 is 10% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.01
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.26
+    },
+    "gas": {
+     "name": "Chevron",
+     "mi": 0.39
+    },
+    "bus": {
+     "name": "Oaks Mall",
+     "mi": 0.12
+    }
    }
   }
  },
@@ -26124,6 +29530,24 @@
     "label": "good",
     "why": "$1,350 is 31% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.99
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.21
+    },
+    "gas": {
+     "name": "Chevron",
+     "mi": 0.35
+    },
+    "bus": {
+     "name": "Oaks Mall",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -26189,6 +29613,116 @@
     "label": "fair",
     "why": "$2,800 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "travel": {
+    "deltachi": {
+     "mi": 3.43,
+     "walk": {
+      "min": 88,
+      "mi": 4.58
+     },
+     "bike": {
+      "min": 25,
+      "mi": 4.66
+     },
+     "drive": {
+      "min": 16,
+      "mi": 4.74
+     }
+    },
+    "midtown": {
+     "mi": 4.19,
+     "walk": {
+      "min": 108,
+      "mi": 5.58
+     },
+     "bike": {
+      "min": 38,
+      "mi": 7.1
+     },
+     "drive": {
+      "min": 18,
+      "mi": 5.79
+     }
+    },
+    "cove": {
+     "mi": 3.46,
+     "walk": {
+      "min": 94,
+      "mi": 4.87
+     },
+     "bike": {
+      "min": 33,
+      "mi": 6.09
+     },
+     "drive": {
+      "min": 15,
+      "mi": 5.03
+     }
+    },
+    "bostick": {
+     "mi": 2.98,
+     "walk": {
+      "min": 94,
+      "mi": 4.85
+     },
+     "bike": {
+      "min": 31,
+      "mi": 5.66
+     },
+     "drive": {
+      "min": 14,
+      "mi": 4.61
+     }
+    },
+    "marston": {
+     "mi": 4.23,
+     "walk": {
+      "min": 104,
+      "mi": 5.37
+     },
+     "bike": {
+      "min": 30,
+      "mi": 5.5
+     },
+     "drive": {
+      "min": 18,
+      "mi": 6.08
+     }
+    },
+    "macdintons": {
+     "mi": 4.17,
+     "walk": {
+      "min": 107,
+      "mi": 5.52
+     },
+     "bike": {
+      "min": 38,
+      "mi": 7.16
+     },
+     "drive": {
+      "min": 17,
+      "mi": 5.73
+     }
+    }
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.57
+    },
+    "gym": {
+     "name": "Numa Speed Elite",
+     "mi": 0.47
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.51
+    },
+    "bus": {
+     "name": "Treebecka Park Apartments",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -26346,6 +29880,24 @@
     "label": "high",
     "why": "$2,600 is 33% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.47
+    },
+    "gym": {
+     "name": "Numa Speed Elite",
+     "mi": 0.41
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.44
+    },
+    "bus": {
+     "name": "Treebecka Park Apartments",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -26502,6 +30054,24 @@
     "label": "high",
     "why": "$4,000 is 51% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.6
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.88
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.74
+    },
+    "bus": {
+     "name": "Southwest 2nd Avenue @ Southwest 26th Street",
+     "mi": 0.1
+    }
    }
   }
  },
@@ -26653,6 +30223,24 @@
     "label": "good",
     "why": "$1,600 is 18% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.55
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.01
+    },
+    "gas": {
+     "name": "Shell",
+     "mi": 0.45
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -26815,6 +30403,24 @@
     "label": "high",
     "why": "$3,600 is 36% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.56
+    },
+    "gym": {
+     "name": "Southwest Recreation Center",
+     "mi": 0.59
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.33
+    },
+    "bus": {
+     "name": "UF Bat Houses",
+     "mi": 0.2
+    }
    }
   }
  },
@@ -26966,6 +30572,24 @@
     "label": "good",
     "why": "$675 is 65% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.69
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.13
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Rockwood Villas Apartments Northbound",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -27123,6 +30747,24 @@
     "label": "fair",
     "why": "$1,975 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.39
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.45
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.28
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.17
+    }
    }
   }
  },
@@ -27280,6 +30922,24 @@
     "label": "fair",
     "why": "$2,500 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.54
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 1.32
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.73
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.04
+    }
    }
   }
  },
@@ -27431,6 +31091,24 @@
     "label": "fair",
     "why": "$2,800 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.53
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.61
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.13
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -27587,6 +31265,24 @@
     "label": "fair",
     "why": "$4,200 is in line with about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.48
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.2
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -27743,6 +31439,24 @@
     "label": "high",
     "why": "$3,600 is 36% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.34
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.4
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.25
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.18
+    }
    }
   }
  },
@@ -27899,6 +31613,24 @@
     "label": "high",
     "why": "$3,400 is 74% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.49
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -28055,6 +31787,24 @@
     "label": "high",
     "why": "$2,700 is 38% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.49
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -28206,6 +31956,24 @@
     "label": "high",
     "why": "$3,400 is 28% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.48
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -28362,6 +32130,24 @@
     "label": "high",
     "why": "$2,700 is 38% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.49
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.57
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.23
+    }
    }
   }
  },
@@ -28518,6 +32304,24 @@
     "label": "high",
     "why": "$8,400 is 61% above about $5,225 for similar 6-bed listings.",
     "comps": 14
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.71
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.67
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.55
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.06
+    }
    }
   }
  },
@@ -28669,6 +32473,24 @@
     "label": "good",
     "why": "$1,700 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.83
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.14
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.38
+    },
+    "bus": {
+     "name": "Rockwood Villas Apartments Northbound",
+     "mi": 0.1
+    }
    }
   }
  },
@@ -28820,6 +32642,24 @@
     "label": "high",
     "why": "$8,400 is 61% above about $5,225 for similar 6-bed listings.",
     "comps": 14
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.73
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.68
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.57
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.05
+    }
    }
   }
  },
@@ -28976,6 +32816,24 @@
     "label": "good",
     "why": "$1,695 is 13% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.84
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.05
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Linton Oaks Neighborhood",
+     "mi": 0.25
+    }
    }
   }
  },
@@ -29132,6 +32990,24 @@
     "label": "high",
     "why": "$4,800 is 81% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.81
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.57
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.52
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.17
+    }
    }
   }
  },
@@ -29288,6 +33164,24 @@
     "label": "high",
     "why": "$4,750 is 15% above about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.84
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.56
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.5
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -29444,6 +33338,24 @@
     "label": "high",
     "why": "$4,800 is 81% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.92
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.65
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.4
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -29595,6 +33507,24 @@
     "label": "high",
     "why": "$4,800 is 81% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.92
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.65
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.4
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -29751,6 +33681,24 @@
     "label": "high",
     "why": "$4,800 is 81% above about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.92
+    },
+    "gym": {
+     "name": "Bodeology",
+     "mi": 0.65
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.4
+    },
+    "bus": {
+     "name": "Oxford Terrace Apartments",
+     "mi": 0.21
+    }
    }
   }
  },
@@ -29908,6 +33856,24 @@
     "label": "fair",
     "why": "$1,795 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.77
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.23
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.31
+    },
+    "bus": {
+     "name": "Rockwood Villas Apartments",
+     "mi": 0.04
+    }
    }
   }
  },
@@ -30064,6 +34030,24 @@
     "label": "fair",
     "why": "$2,500 is in line with about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.27
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.32
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.14
+    }
    }
   }
  },
@@ -30220,6 +34204,24 @@
     "label": "good",
     "why": "$660 is 75% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.63
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.59
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.47
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.03
+    }
    }
   }
  },
@@ -30377,6 +34379,24 @@
     "label": "good",
     "why": "$1,295 is 51% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.64
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.6
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.48
+    },
+    "bus": {
+     "name": "Campus Walk @ Southwest 9th Street",
+     "mi": 0.02
+    }
    }
   }
  },
@@ -30533,6 +34553,24 @@
     "label": "good",
     "why": "$1,465 is 25% below about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.55
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.71
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.29
+    },
+    "bus": {
+     "name": "Xerographic Copy Center",
+     "mi": 0.28
+    }
    }
   }
  },
@@ -30684,6 +34722,24 @@
     "label": "good",
     "why": "$1,000 is 62% below about $2,650 for similar 4-bed listings.",
     "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.56
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.52
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.39
+    },
+    "bus": {
+     "name": "Southwest 7th Avenue @ Southwest 10th Street",
+     "mi": 0.07
+    }
    }
   }
  },
@@ -30841,6 +34897,24 @@
     "label": "fair",
     "why": "$1,995 is in line with about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.85
+    },
+    "gym": {
+     "name": "The Ark School of Fitness",
+     "mi": 1.26
+    },
+    "gas": {
+     "name": "Gas station",
+     "mi": 0.5
+    },
+    "bus": {
+     "name": "Department of Children and Families",
+     "mi": 0.27
+    }
    }
   }
  },
@@ -30997,6 +35071,24 @@
     "label": "high",
     "why": "$5,990 is 45% above about $4,125 for similar 5-bed listings.",
     "comps": 77
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.02
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.86
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.89
+    },
+    "bus": {
+     "name": "Forest Ridge Neighborhood",
+     "mi": 0.38
+    }
    }
   }
  },
@@ -31148,6 +35240,24 @@
     "label": "high",
     "why": "$2,200 is 13% above about $1,950 for similar 3-bed listings.",
     "comps": 183
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.36
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.44
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.3
+    },
+    "bus": {
+     "name": "Alight Gainesville Apartments @ Northwest 12th Street",
+     "mi": 0.15
+    }
    }
   }
  }

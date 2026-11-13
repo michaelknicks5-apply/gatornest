@@ -6,13 +6,13 @@
   "lastFetch": "2026-11-13T22:26:26.256Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": null
+  "nextFetch": "2026-11-14T14:17:39.295Z"
  },
  "ors": {
   "day": "2026-11-13",
   "directions": 201
  },
- "lastRun": "2026-11-13T22:26:26.256Z",
+ "lastRun": "2026-11-13T22:39:17.235Z",
  "lastFetch": "2026-11-13T22:26:26.256Z",
  "counts": {
   "active": 201,
@@ -20,8 +20,7 @@
  },
  "sources": {
   "rentcast": {
-   "count": 201,
-   "requests": 1
+   "skipped": true
   },
   "manual": {
    "count": 0,
@@ -29,8 +28,5 @@
   }
  },
  "warnings": [],
- "notes": [
-  "Nearby places server was busy; retrying next run",
-  "Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)"
- ]
+ "notes": []
 }
