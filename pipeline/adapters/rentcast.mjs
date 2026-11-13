@@ -76,7 +76,16 @@ export default {
       if (cfg.rentcastBedrooms) q.set('bedrooms', cfg.rentcastBedrooms);
       quota.used += 1; // count the attempt even if it fails; RentCast may still bill it
       pages += 1;
-      const { data, headers } = await http(`https://api.rentcast.io/v1/listings/rental/long-term?${q}`, { headers: { 'X-Api-Key': env.RENTCAST_API_KEY, Accept: 'application/json' } });
+      let res;
+      try {
+        res = await http(`https://api.rentcast.io/v1/listings/rental/long-term?${q}`, { headers: { 'X-Api-Key': env.RENTCAST_API_KEY, Accept: 'application/json' } });
+      } catch (e) {
+        // A rejected key (no plan, wrong key) isn't a billable request, so give it back.
+        if (e.status === 401 || e.status === 403) quota.used -= 1;
+        if (/subscription-inactive/.test(e.message)) e.message = 'the RentCast key has no active plan. Activate the free Developer plan on the RentCast API dashboard';
+        throw e;
+      }
+      const { data, headers } = res;
       if (!Array.isArray(data)) throw new Error('RentCast returned something other than a list');
       all.push(...data);
       const t = Number(headers.get('x-total-count'));

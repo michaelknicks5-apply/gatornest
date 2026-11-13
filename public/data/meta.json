@@ -2,7 +2,7 @@
  "neverRun": true,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 1,
+  "used": 0,
   "lastFetch": null,
   "lastPages": 1,
   "budget": 45,
@@ -27,7 +27,5 @@
    "requests": 0
   }
  },
- "warnings": [
-  "rentcast fetch failed: 403 Forbidden from api.rentcast.io: {\"status\":403,\"error\":\"billing/subscription-inactive\",\"message\":\"The provided API key is not associated with an active API subscription. View subscription statu"
- ]
+ "warnings": []
 }
