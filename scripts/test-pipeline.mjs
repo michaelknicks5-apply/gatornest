@@ -8,6 +8,8 @@ import { fileURLToPath } from 'node:url';
 const repo = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'gn-test-'));
 fs.cpSync(path.join(repo, 'config'), path.join(tmp, 'config'), { recursive: true });
+// Pin the billing day so the test doesn't depend on the real config.
+{ const f = path.join(tmp, 'config/settings.json'); const c = JSON.parse(fs.readFileSync(f, 'utf8')); c.rentcastBillingDay = 1; fs.writeFileSync(f, JSON.stringify(c)); }
 fs.mkdirSync(path.join(tmp, 'public/data'), { recursive: true });
 fs.writeFileSync(path.join(tmp, 'public/data/listings.json'), '[]');
 fs.writeFileSync(path.join(tmp, 'public/data/meta.json'), '{"neverRun":true}');
