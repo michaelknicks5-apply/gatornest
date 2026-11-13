@@ -119,6 +119,13 @@ h2, h3, p { margin: 0; }
 .btn--danger { color: var(--red); }
 .btn--sm { padding: 8px 11px; font-size: 13.5px; border-radius: 12px; }
 .btn--block { width: 100%; }
+.btn--big { padding: 14px 16px; font-size: 16px; border-radius: 16px; }
+.llink { margin-top: 12px; }
+.llink__row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 4px; }
+.llink__form { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+.llink__form .num__box { flex: 1; }
+.tag.tag--link { background: var(--violet-soft); color: var(--violet); }
+.tag.tag--link.is-saved { background: var(--violet); color: #fff; }
 .linkbtn { float: right; display: inline-flex; align-items: center; gap: 4px; color: var(--violet); font-size: 13px; font-weight: 800; }
 .chip { display: inline-flex; align-items: center; gap: 6px; padding: 9px 13px; border-radius: 999px; border: 2px solid var(--line); background: var(--card); font-weight: 800; font-size: 13.5px; white-space: nowrap; flex: none; }
 .chip.is-on { background: var(--violet); border-color: var(--violet); color: #fff; }

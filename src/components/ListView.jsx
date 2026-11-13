@@ -2,6 +2,7 @@ import { useStore, getVisible, getListings, getLandmarks, selectListing, setUi, 
 import { unverifiedFor } from '../filters.js';
 import { Icon } from '../icons.jsx';
 import { Modal, Seg } from './ui.jsx';
+import { bestLink } from './ListingLink.jsx';
 import { money, miles, shortDate, tri, TYPE_LABEL, plural } from '../format.js';
 
 const SORTS = {
@@ -50,6 +51,7 @@ export function ListView() {
                 <span class="lcard__facts">{l.beds} bd · {l.baths ?? '?'} ba{l.sqft ? ` · ${l.sqft.toLocaleString()} sq ft` : ''} · {TYPE_LABEL[l.type] || l.type}</span>
                 <span class="lcard__facts"><Icon name="walk" size={14} /> {l.travel[anchor].est ? '~' : ''}{l.travel[anchor].walk.min} min to {anchorName} · {miles(l.travel[anchor].mi)}</span>
                 <div class="badges">
+                  {(() => { const b = bestLink(l); return <a class={'tag tag--link' + (b.saved ? ' is-saved' : '')} href={b.href} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{b.saved ? `Listing on ${b.label}` : 'Find listing'} ↗</a>; })()}
                   {l.deal?.label === 'good' && <span class="tag tag--deal-good">Good deal</span>}
                   {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
                   {l.track.status && l.track.status !== 'New' && <span class="tag">{l.track.status}</span>}

@@ -3,6 +3,7 @@ import { useStore, getListings, getLandmarks, selectListing, setUi, setTrack, se
 import { unverifiedFor } from '../filters.js';
 import { Icon, LandmarkBadge } from '../icons.jsx';
 import { Modal, Seg, Num, copyText } from './ui.jsx';
+import { ListingLinkBlock } from './ListingLink.jsx';
 import { money, miles, shortDate, tri, TYPE_LABEL, STATUS_STEPS, phonePretty, plural } from '../format.js';
 
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
@@ -126,7 +127,6 @@ export function DetailSheet() {
   const sms = `sms:${phone ? '+1' + phone.slice(-10) : ''}${isIOS ? '&' : '?'}body=${encodeURIComponent(msg)}`;
   const mailto = l.contact?.email ? `mailto:${l.contact.email}?subject=${encodeURIComponent(l.address + ' for Aug 2027')}&body=${encodeURIComponent(msg)}` : null;
   const gq = `${l.lat},${l.lng}`;
-  const search = `https://www.google.com/search?q=${encodeURIComponent(`"${l.address}" Gainesville FL for rent`)}`;
   const share = async () => {
     const link = `${location.origin}${location.pathname}#l=${encodeURIComponent(l.id)}`;
     if (navigator.share && isIOS) { try { await navigator.share({ title: l.address, text: `${l.address}: ${money(l.price)}/mo`, url: link }); return; } catch { /* cancelled */ } }
@@ -169,6 +169,8 @@ export function DetailSheet() {
             <p class="split">{money(l.pp4)} each with 4 · {money(l.pp5)} each with 5</p>
             <h2 class="addr">{l.address}</h2>
             <p class="facts">{l.beds} bd · {l.baths ?? '?'} ba{l.sqft ? ` · ${l.sqft.toLocaleString()} sq ft` : ''} · {TYPE_LABEL[l.type] || l.type}{l.yearBuilt ? ` · Built ${l.yearBuilt}` : ''}</p>
+
+            <ListingLinkBlock l={l} />
 
             <div class="actions">
               <button type="button" class={'act' + (l.track.fav ? ' is-on' : '')} onClick={() => setTrack(l.id, { fav: !l.track.fav })}><Icon name="star" fill={!!l.track.fav} />{l.track.fav ? 'Saved' : 'Favorite'}</button>
@@ -222,7 +224,6 @@ export function DetailSheet() {
 
             <h3>Links</h3>
             <div class="links">
-              {l.url ? <a class="btn btn--sm" target="_blank" rel="noopener" href={l.url}><Icon name="external" size={16} />Original listing</a> : <a class="btn btn--sm" target="_blank" rel="noopener" href={search}><Icon name="external" size={16} />Search this address</a>}
               <a class="btn btn--sm" target="_blank" rel="noopener" href={`https://www.google.com/maps/search/?api=1&query=${gq}`}><Icon name="map" size={16} />Google Maps</a>
               <a class="btn btn--sm" target="_blank" rel="noopener" href={`https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${gq}`}><Icon name="photo" size={16} />Street View</a>
               <a class="btn btn--sm" target="_blank" rel="noopener" href={`https://www.google.com/maps/dir/?api=1&destination=${gq}`}><Icon name="route" size={16} />Directions</a>
