@@ -25,7 +25,7 @@ function PresetChip({ p, active, edited }) {
       onContextMenu={(e) => { e.preventDefault(); stop(); setUi({ panel: 'preset', editPresetId: p.id }); }}
       onClick={() => { if (!longFired.current) applyPreset(p.id); }}
       title="Tap to apply. Long-press to edit.">
-      <span class="pchip__emoji">{p.emoji}</span>{p.name}{active && edited && <span class="pchip__dot" title="Changed since applied" />}{p.alerts && <Icon name="bell" size={13} />}
+      {p.emoji && <span class="pchip__emoji">{p.emoji}</span>}{p.name}{active && edited && <span class="pchip__dot" title="Changed since applied" />}{p.alerts && <Icon name="bell" size={13} />}
     </button>
   );
 }
@@ -56,6 +56,7 @@ export function TopBar() {
       </div>
 
       <div class="presets" role="toolbar" aria-label="Saved filter presets">
+        <button type="button" class="pinfo" aria-label="What the presets do" title="What the presets do" onClick={() => setUi({ panel: 'presetInfo' })}><Icon name="info" size={20} /></button>
         {s.presets.map((p) => <PresetChip key={p.id} p={p} active={p.id === s.activePresetId} edited={edited} />)}
         {(edited || !active) && <button type="button" class="pchip pchip--save" onClick={() => setUi({ panel: 'preset', editPresetId: 'new' })}><Icon name="plus" size={15} />Save</button>}
       </div>

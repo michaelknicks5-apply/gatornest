@@ -119,7 +119,7 @@ export function MapView() {
     const { map, lmMarkers } = st.current;
     const keep = new Set();
     for (const lm of lms) {
-      const sig = [lm.lat, lm.lng, lm.name, lm.icon].join('|');
+      const sig = [lm.lat, lm.lng, lm.name, lm.icon, lm.offset].join('|');
       keep.add(lm.id);
       const cur = lmMarkers.get(lm.id);
       if (cur && cur.sig === sig) continue;
@@ -129,7 +129,8 @@ export function MapView() {
       el.className = 'lm' + (lm.primary ? ' lm--primary' : '');
       el.innerHTML = `<span class="lm__badge" style="background:${LANDMARK_COLORS[lm.icon] || LANDMARK_COLORS.pin}">${landmarkSvg(lm.icon)}</span><span class="lm__label">${lm.short || lm.name}</span>`;
       el.onclick = (e) => { e.stopPropagation(); toast(`${lm.name} · ${lm.address || ''}`); map.easeTo({ center: [lm.lng, lm.lat], duration: 500 }); };
-      const marker = new maplibregl.Marker({ element: el, anchor: 'center' }).setLngLat([lm.lng, lm.lat]).addTo(map);
+      // offset (pixels, from config) keeps landmarks that sit almost on top of each other apart
+      const marker = new maplibregl.Marker({ element: el, anchor: 'center', offset: lm.offset || [0, 0] }).setLngLat([lm.lng, lm.lat]).addTo(map);
       lmMarkers.set(lm.id, { marker, sig });
     }
     for (const [id, m] of lmMarkers) if (!keep.has(id)) { m.marker.remove(); lmMarkers.delete(id); }

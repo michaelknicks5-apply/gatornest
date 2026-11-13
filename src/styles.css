@@ -52,6 +52,8 @@ h2, h3, p { margin: 0; }
 .pchip.is-on { background: var(--pc); color: #fff; border-color: rgba(255, 255, 255, .55); }
 .pchip__emoji { font-size: 16px; }
 .pchip__dot { width: 7px; height: 7px; border-radius: 50%; background: #fff; }
+.pinfo { flex: none; width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; background: var(--card); color: var(--violet); box-shadow: var(--shadow-sm); }
+.pinfo:active { transform: scale(.94); }
 .pchip--save { color: var(--violet); border: 2.5px dashed var(--violet); background: var(--card); padding-left: 10px; }
 
 .status { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
@@ -159,6 +161,15 @@ textarea { width: 100%; background: var(--soft); border: 0; border-radius: 13px;
 .emoji { width: 42px; height: 42px; border-radius: 13px; background: var(--soft); font-size: 20px; text-align: center; border: 2.5px solid transparent; }
 .emoji.is-on { border-color: var(--violet); background: var(--violet-soft); }
 .emoji--in { font-size: 16px; outline: none; }
+.emoji--none { width: auto; padding: 0 12px; font-size: 13px; font-weight: 800; color: var(--muted); }
+.pdesc { margin: 6px 0 10px; padding-left: 18px; font-size: 14px; line-height: 1.45; font-weight: 700; }
+.pdesc li { margin: 3px 0; } .pdesc li::marker { color: var(--violet); }
+.pcard { border: 2px solid var(--line); border-radius: 18px; padding: 12px 14px 4px; margin: 10px 0; }
+.pcard.is-on { border-color: var(--pc); }
+.pcard header { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.pcard header b { font-size: 16px; font-weight: 900; margin-right: 2px; }
+.pcard__dot { width: 12px; height: 12px; border-radius: 50%; background: var(--pc); }
+.pcard .tag .ico { display: inline-block; }
 .swatch { width: 36px; height: 36px; border-radius: 50%; border: 3px solid var(--card); box-shadow: 0 0 0 2px var(--line); }
 .swatch.is-on { box-shadow: 0 0 0 3px var(--ink); }
 .icopick { padding: 3px; border-radius: 14px; border: 2.5px solid transparent; } .icopick.is-on { border-color: var(--violet); }

@@ -6,6 +6,8 @@ import { Modal, Seg, Switch, Section, Num, copyText } from './ui.jsx';
 import { geocode } from '../geocode.js';
 import { mapApi } from '../map/MapView.jsx';
 import { addressKey, slug } from '../../shared/address.js';
+import { describeFilters } from '../describe.js';
+import { sameFilters } from '../filters.js';
 import cfg from '../../config/settings.json';
 import { ago, plural } from '../format.js';
 
@@ -42,11 +44,14 @@ export function PresetEditor() {
       <label class="num"><span>Name</span><span class="num__box"><input type="text" maxLength={24} placeholder="Dream House" value={p.name} onInput={(e) => setP({ ...p, name: e.currentTarget.value })} /></span></label>
       <div class="lbl">Emoji</div>
       <div class="swatches">
+        <button type="button" class={'emoji emoji--none' + (!p.emoji ? ' is-on' : '')} onClick={() => setP({ ...p, emoji: '' })}>None</button>
         {EMOJI.map((e) => <button type="button" key={e} class={'emoji' + (p.emoji === e ? ' is-on' : '')} onClick={() => setP({ ...p, emoji: e })}>{e}</button>)}
         <input class="emoji emoji--in" aria-label="Custom emoji" maxLength={4} value={EMOJI.includes(p.emoji) ? '' : p.emoji} placeholder="…" onInput={(e) => e.currentTarget.value && setP({ ...p, emoji: e.currentTarget.value })} />
       </div>
       <div class="lbl">Color</div>
       <div class="swatches">{COLORS.map((c) => <button type="button" key={c} aria-label={c} class={'swatch' + (p.color === c ? ' is-on' : '')} style={{ background: c }} onClick={() => setP({ ...p, color: c })} />)}</div>
+      <div class="lbl">What it shows</div>
+      <ul class="pdesc">{describeFilters(p.filters, getLandmarks(s), s.settings.groupSize).map((t) => <li key={t}>{t}</li>)}</ul>
       <Switch on={p.alerts} onChange={(alerts) => setP({ ...p, alerts })} label="🔔 Push alerts" hint="Notify my phone when a new or price-dropped listing matches. After saving, tap Sync in Settings so the hourly job knows." />
       <Switch on={s.settings.defaultPresetId === p.id} onChange={(on) => setSettings({ defaultPresetId: on ? p.id : null })} label="Load this one when the app opens" />
       {!isNew && (
@@ -57,6 +62,38 @@ export function PresetEditor() {
           <button type="button" class="btn btn--block btn--danger" onClick={() => { deletePreset(p.id); toast('Preset deleted'); close(); }}><Icon name="trash" size={17} />Delete</button>
         </div>
       )}
+    </Modal>
+  );
+}
+
+// ---------- what each preset does ----------
+export function PresetInfo() {
+  const s = useStore();
+  const lms = getLandmarks(s);
+  const close = () => setUi({ panel: null });
+  return (
+    <Modal title="Presets" sub="One tap applies every filter in a preset" onClose={close}
+      footer={<button type="button" class="btn btn--block" onClick={() => setUi({ panel: 'preset', editPresetId: 'new' })}><Icon name="plus" size={17} />Save the current filters as a preset</button>}>
+      {s.presets.map((p) => {
+        const on = p.id === s.activePresetId;
+        return (
+          <article key={p.id} class={'pcard' + (on ? ' is-on' : '')} style={{ '--pc': p.color }}>
+            <header>
+              <span class="pcard__dot" />
+              <b>{p.emoji ? p.emoji + ' ' : ''}{p.name}</b>
+              {p.alerts && <span class="tag"><Icon name="bell" size={12} />&nbsp;Alerts on</span>}
+              {s.settings.defaultPresetId === p.id && <span class="tag">Opens by default</span>}
+              {on && <span class="tag tag--new">{sameFilters(p.filters, s.filters) ? 'On now' : 'On, with changes'}</span>}
+            </header>
+            <ul class="pdesc">{describeFilters(p.filters, lms, s.settings.groupSize).map((t) => <li key={t}>{t}</li>)}</ul>
+            <div class="row">
+              <button type="button" class="btn btn--sm btn--primary" onClick={() => { applyPreset(p.id); close(); }}>Use this</button>
+              <button type="button" class="btn btn--sm" onClick={() => setUi({ panel: 'preset', editPresetId: p.id })}><Icon name="edit" size={15} />Edit</button>
+            </div>
+          </article>
+        );
+      })}
+      <p class="muted small">Tip: long-press a preset chip on the map to edit, rename, share or delete it.</p>
     </Modal>
   );
 }

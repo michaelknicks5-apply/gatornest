@@ -26,7 +26,7 @@ export const STARTER_PRESETS = [
     filters: F({ types: ['house'], furnished: true, ppMax: 1100, lm: { deltachi: { mode: 'mi', max: 1.4 }, marston: { mode: 'mi', max: 1.5 }, macdintons: { mode: 'mi', max: 1.5 } } }) },
   { id: 'walkable', name: 'Walkable', emoji: '🚶', color: '#16A866', alerts: false, starter: true,
     filters: F({ lm: { deltachi: { mode: 'walk', max: 10 } } }) },
-  { id: 'widenet', name: 'Wide Net', emoji: '🎣', color: '#F59E0B', alerts: false, starter: true,
+  { id: 'widenet', name: 'Wide Search', emoji: '', color: '#F59E0B', alerts: false, starter: true,
     filters: F({ ppMax: 1250, lm: { deltachi: { mode: 'mi', max: 3 } } }) },
 ];
 
@@ -148,7 +148,7 @@ export function decodePreset(str) {
     if (!o || typeof o !== 'object' || typeof o.f !== 'object') return null;
     const filters = normalizeFilters({});
     for (const k of Object.keys(DEFAULT_FILTERS)) if (k in o.f) filters[k] = o.f[k];
-    return { id: 'p' + Date.now().toString(36), name: String(o.n || 'Shared preset').slice(0, 40), emoji: String(o.e || '📍').slice(0, 8), color: /^#[0-9a-f]{6}$/i.test(o.c) ? o.c : '#7B4DFF', alerts: false, filters };
+    return { id: 'p' + Date.now().toString(36), name: String(o.n || 'Shared preset').slice(0, 40), emoji: o.e == null ? '📍' : String(o.e).slice(0, 8), color: /^#[0-9a-f]{6}$/i.test(o.c) ? o.c : '#7B4DFF', alerts: false, filters };
   } catch {
     return null;
   }

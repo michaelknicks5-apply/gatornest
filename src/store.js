@@ -11,7 +11,9 @@ const ls = {
 const DEFAULT_SETTINGS = { groupSize: 4, budgetPP: 1100, theme: 'auto', dataMode: 'auto', rings: false, defaultPresetId: 'default', landmarks: null };
 
 const settings = { ...DEFAULT_SETTINGS, ...ls.get('settings', {}) };
-const presets = (ls.get('presets', null) || STARTER_PRESETS).map((p) => ({ ...p, filters: normalizeFilters(p.filters) }));
+const presets = (ls.get('presets', null) || STARTER_PRESETS).map((p) => ({ ...p, filters: normalizeFilters(p.filters) }))
+  // Renamed starter: Wide Net (🎣) became Wide Search (no emoji). Only touches an unedited copy.
+  .map((p) => (p.id === 'widenet' && p.name === 'Wide Net' && p.emoji === '🎣' ? { ...p, name: 'Wide Search', emoji: '' } : p));
 const startPreset = presets.find((p) => p.id === settings.defaultPresetId) || presets[0];
 
 let state = {
@@ -159,7 +161,7 @@ export function deletePreset(id) {
   if (state.activePresetId === id) setState({ activePresetId: null });
 }
 export function importPresets(list) {
-  const clean = list.filter((p) => p && p.name && p.filters).map((p, i) => ({ id: p.id || 'imp' + Date.now().toString(36) + i, name: String(p.name), emoji: p.emoji || '📍', color: p.color || '#7B4DFF', alerts: !!p.alerts, filters: normalizeFilters(p.filters) }));
+  const clean = list.filter((p) => p && p.name && p.filters).map((p, i) => ({ id: p.id || 'imp' + Date.now().toString(36) + i, name: String(p.name), emoji: p.emoji == null ? '📍' : String(p.emoji), color: p.color || '#7B4DFF', alerts: !!p.alerts, filters: normalizeFilters(p.filters) }));
   const byId = new Map(state.presets.map((p) => [p.id, p]));
   clean.forEach((p) => byId.set(p.id, p));
   savePresets([...byId.values()]);

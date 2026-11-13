@@ -5,7 +5,7 @@ import { TopBar, MapButtons } from './components/TopBar.jsx';
 import { FilterPanel } from './components/FilterPanel.jsx';
 import { DetailSheet } from './components/DetailSheet.jsx';
 import { ListView, Compare } from './components/ListView.jsx';
-import { PresetEditor, AddListing, Settings } from './components/Panels.jsx';
+import { PresetEditor, PresetInfo, AddListing, Settings } from './components/Panels.jsx';
 
 export function App() {
   const s = useStore();
@@ -52,6 +52,7 @@ export function App() {
       )}
       {s.ui.panel === 'filters' && <FilterPanel />}
       {s.ui.panel === 'preset' && <PresetEditor key={s.ui.editPresetId} />}
+      {s.ui.panel === 'presetInfo' && <PresetInfo />}
       {s.ui.panel === 'add' && <AddListing />}
       {s.ui.panel === 'settings' && <Settings />}
       {s.ui.panel === 'compare' && <Compare />}

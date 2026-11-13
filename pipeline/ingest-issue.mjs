@@ -46,7 +46,7 @@ function cleanFilters(f) {
 
 const summary = [];
 if (Array.isArray(payload.presets)) {
-  const presets = payload.presets.slice(0, 20).filter((x) => x && x.alerts === true && str(x.name, 40)).map((x) => ({ id: slug(str(x.id, 40) || x.name), name: str(x.name, 40), emoji: str(x.emoji, 8) || '📍', alerts: true, filters: cleanFilters(x.filters) }));
+  const presets = payload.presets.slice(0, 20).filter((x) => x && x.alerts === true && str(x.name, 40)).map((x) => ({ id: slug(str(x.id, 40) || x.name), name: str(x.name, 40), emoji: str(x.emoji, 8) ?? '', alerts: true, filters: cleanFilters(x.filters) }));
   writeJson(p('config/alert-presets.json'), presets);
   summary.push(`${presets.length} alert preset(s): ${presets.map((x) => x.name).join(', ') || 'none'}`);
 }
