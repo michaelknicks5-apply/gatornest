@@ -2,25 +2,26 @@
  "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 1,
-  "lastFetch": "2026-11-13T22:26:26.256Z",
+  "used": 2,
+  "lastFetch": "2026-11-14T17:08:16.245Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": "2026-11-14T14:17:39.295Z"
+  "nextFetch": null
  },
  "ors": {
   "day": "2026-11-14",
   "directions": 150
  },
- "lastRun": "2026-11-14T10:27:00.527Z",
- "lastFetch": "2026-11-13T22:26:26.256Z",
+ "lastRun": "2026-11-14T17:08:16.245Z",
+ "lastFetch": "2026-11-14T17:08:16.245Z",
  "counts": {
-  "active": 201,
-  "gone": 0
+  "active": 192,
+  "gone": 10
  },
  "sources": {
   "rentcast": {
-   "skipped": true
+   "count": 192,
+   "requests": 1
   },
   "manual": {
    "count": 0,

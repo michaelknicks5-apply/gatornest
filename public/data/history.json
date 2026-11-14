@@ -1,1 +1,87 @@
-[]
+[
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "price",
+  "id": "rc-1000-sw-9th-st",
+  "address": "1000 SW 9th St",
+  "from": 12600,
+  "price": 10350
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "new",
+  "id": "rc-5-nw-28th-ter",
+  "address": "5 NW 28th Ter",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-1922-nw-4th-ave",
+  "address": "1922 NW 4th Ave",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-2515-sw-35th-pl-unit-117",
+  "address": "2515 SW 35th Pl #117",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-2515-sw-35th-pl-unit-219",
+  "address": "2515 SW 35th Pl #219",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-507-nw-34th-ter",
+  "address": "507 NW 34th Ter",
+  "price": 1695
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-622-nw-3rd-ave-unit-6",
+  "address": "622 NW 3rd Ave #6",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-640-sw-5th-st",
+  "address": "640 SW 5th St",
+  "price": 3900
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-6686-sw-12th-ln",
+  "address": "6686 SW 12th Ln",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-753-nw-8th-st",
+  "address": "753 NW 8th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-834-sw-9th-st",
+  "address": "834 SW 9th St",
+  "price": 8400
+ },
+ {
+  "t": "2026-11-14T17:08:16.245Z",
+  "type": "gone",
+  "id": "rc-885-sw-6th-st",
+  "address": "885 SW 6th St",
+  "price": 4800
+ }
+]
