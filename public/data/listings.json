@@ -22617,6 +22617,11 @@
      "name": "Northwest 39th Avenue @ Northwest 19th Terrace",
      "mi": 0.46
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -22792,6 +22797,11 @@
      "name": "Family Dollar @ Northwest 34th Street",
      "mi": 0.38
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -22961,6 +22971,11 @@
      "name": "Capri Neighborhood",
      "mi": 0.32
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -23136,6 +23151,11 @@
      "name": "Hailey Forest Condominiums",
      "mi": 0.06
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -23311,6 +23331,11 @@
      "name": "Hailey Forest Condominiums",
      "mi": 0.11
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -23486,6 +23511,11 @@
      "name": "Gainesville Health and Fitness",
      "mi": 0.27
     }
+   },
+   "flood": {
+    "zone": "AE",
+    "subtype": null,
+    "highRisk": true
    }
   }
  },
@@ -23655,6 +23685,11 @@
      "name": "Alachua County Office of the State Attorney",
      "mi": 0.26
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -23830,6 +23865,11 @@
      "name": "Bus stop",
      "mi": 0.03
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -23999,6 +24039,11 @@
      "name": "Tire Kingdom @ Newberry Road",
      "mi": 0.2
     }
+   },
+   "flood": {
+    "zone": "A",
+    "subtype": null,
+    "highRisk": true
    }
   }
  },
@@ -24168,6 +24213,11 @@
      "name": "Tire Kingdom @ Newberry Road",
      "mi": 0.15
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -24337,6 +24387,11 @@
      "name": "Second Avenue Center Apartments",
      "mi": 0.23
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -24860,6 +24915,11 @@
      "name": "Dogwood Dog Park",
      "mi": 0.19
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -25209,6 +25269,11 @@
      "name": "Dogwood Dog Park",
      "mi": 0.18
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -25384,6 +25449,11 @@
      "name": "Sorrento",
      "mi": 0.07
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -25901,6 +25971,11 @@
      "name": "Campus Walk @ Southwest 9th Street",
      "mi": 0.18
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -26250,6 +26325,11 @@
      "name": "Lakewood Villas Apartments",
      "mi": 0.17
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -26425,6 +26505,11 @@
      "name": "Plaza Royale",
      "mi": 0.32
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -26600,6 +26685,11 @@
      "name": "Gordon Manor Neighborhood",
      "mi": 0.05
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -27297,6 +27387,11 @@
      "name": "West University Avenue @ Northwest 8th Street",
      "mi": 0.15
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -28162,6 +28257,11 @@
      "name": "West University Avenue @ Northwest 8th Street",
      "mi": 0.16
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -28505,6 +28605,11 @@
      "name": "West University Avenue @ Northwest 8th Street",
      "mi": 0.16
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -28674,6 +28779,11 @@
      "name": "West University Avenue @ Northwest 8th Street",
      "mi": 0.15
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -28849,6 +28959,11 @@
      "name": "FlixBus Gainesville",
      "mi": 0.3
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -29018,6 +29133,11 @@
      "name": "Campus Walk @ Southwest 9th Street",
      "mi": 0.24
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -29193,6 +29313,11 @@
      "name": "Oaks Mall",
      "mi": 0.12
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -29368,6 +29493,11 @@
      "name": "Oaks Mall",
      "mi": 0.12
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -29723,6 +29853,11 @@
      "name": "Treebecka Park Apartments",
      "mi": 0.18
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -29898,6 +30033,11 @@
      "name": "Treebecka Park Apartments",
      "mi": 0.16
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -30241,6 +30381,11 @@
      "name": "Bus stop",
      "mi": 0.23
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -30590,6 +30735,11 @@
      "name": "Rockwood Villas Apartments Northbound",
      "mi": 0.11
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -30765,6 +30915,11 @@
      "name": "West University Avenue @ Northwest 8th Street",
      "mi": 0.17
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -30940,6 +31095,11 @@
      "name": "Bus stop",
      "mi": 0.04
     }
+   },
+   "flood": {
+    "zone": "AE",
+    "subtype": null,
+    "highRisk": true
    }
   }
  },
@@ -31109,6 +31269,11 @@
      "name": "Bus stop",
      "mi": 0.27
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -31974,6 +32139,11 @@
      "name": "Alight Gainesville Apartments @ Northwest 12th Street",
      "mi": 0.23
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -32491,6 +32661,11 @@
      "name": "Rockwood Villas Apartments Northbound",
      "mi": 0.1
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -32660,6 +32835,11 @@
      "name": "Oxford Terrace Apartments",
      "mi": 0.05
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -33525,6 +33705,11 @@
      "name": "Oxford Terrace Apartments",
      "mi": 0.21
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -33874,6 +34059,11 @@
      "name": "Rockwood Villas Apartments",
      "mi": 0.04
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -34397,6 +34587,11 @@
      "name": "Campus Walk @ Southwest 9th Street",
      "mi": 0.02
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -34740,6 +34935,11 @@
      "name": "Southwest 7th Avenue @ Southwest 10th Street",
      "mi": 0.07
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -34915,6 +35115,11 @@
      "name": "Department of Children and Families",
      "mi": 0.27
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -35258,6 +35463,11 @@
      "name": "Alight Gainesville Apartments @ Northwest 12th Street",
      "mi": 0.15
     }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  }
