@@ -6,13 +6,13 @@
   "lastFetch": "2026-11-14T17:08:16.245Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": null
+  "nextFetch": "2026-11-15T08:55:31.216Z"
  },
  "ors": {
   "day": "2026-11-14",
   "directions": 150
  },
- "lastRun": "2026-11-14T17:08:16.245Z",
+ "lastRun": "2026-11-14T21:29:59.188Z",
  "lastFetch": "2026-11-14T17:08:16.245Z",
  "counts": {
   "active": 192,
@@ -20,8 +20,7 @@
  },
  "sources": {
   "rentcast": {
-   "count": 192,
-   "requests": 1
+   "skipped": true
   },
   "manual": {
    "count": 0,
