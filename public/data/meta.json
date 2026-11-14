@@ -9,10 +9,10 @@
   "nextFetch": "2026-11-14T14:17:39.295Z"
  },
  "ors": {
-  "day": "2026-11-13",
-  "directions": 201
+  "day": "2026-11-14",
+  "directions": 150
  },
- "lastRun": "2026-11-13T22:39:17.235Z",
+ "lastRun": "2026-11-14T02:27:38.919Z",
  "lastFetch": "2026-11-13T22:26:26.256Z",
  "counts": {
   "active": 201,
@@ -28,5 +28,8 @@
   }
  },
  "warnings": [],
- "notes": []
+ "notes": [
+  "FEMA flood lookup is not responding; flood zones will fill in on a later run",
+  "Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)"
+ ]
 }
