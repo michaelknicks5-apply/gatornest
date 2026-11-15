@@ -12,10 +12,10 @@
   "day": "2026-11-15",
   "directions": 150
  },
- "lastRun": "2026-11-15T21:49:48.779Z",
+ "lastRun": "2026-11-15T23:45:24.130Z",
  "lastFetch": "2026-11-15T09:26:15.810Z",
  "counts": {
-  "active": 219,
+  "active": 220,
   "gone": 10
  },
  "sources": {
