@@ -187,6 +187,14 @@ check('small Zillow price drift is ignored', read('listings.json').find((l) => l
 zImport(zsnap(new Date(Tz + 24 * H).toISOString(), [zrows[1]])); zMove();
 await quiet(() => run({ env, now: Tz + 24 * H + 5 * 60e3, pace: 0 }));
 check('house gone from a complete Zillow check turns off-market', read('listings.json').find((l) => l.id === zw.id).status === 'gone');
+// furnished section: tagged houses are furnished, the rest of a complete snapshot are not
+const zf = `# checked ${new Date(Tz + 30 * H).toISOString()}\n## 4bd found=2 groups=0\n` + [zrows[0], zrows[1]].map((r) => r.join('\t')).join('\n') + `\n## furnished found=1 groups=0\n` + zrows[0].join('\t') + '\n';
+check('furnished section imports', zImport(zf) === 0 && JSON.parse(fs.readFileSync(zOut, 'utf8')).listings.find((l) => l.zpid === '42736108').furnished === true && JSON.parse(fs.readFileSync(zOut, 'utf8')).listings.find((l) => l.zpid === '111').furnished === false);
+zMove();
+await quiet(() => run({ env, now: Tz + 30 * H + 5 * 60e3, pace: 0 }));
+ls = read('listings.json');
+check('Zillow furnished tag reaches the listing', ls.find((l) => l.id === zw.id).details.furnished === true);
+check('a RentCast listing gets Zillow\'s "not furnished"', by('1412').details.furnished === false);
 if (zBackup) fs.writeFileSync(zOut, zBackup); else fs.rmSync(zOut, { force: true });
 
 // --- test alert

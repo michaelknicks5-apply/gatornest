@@ -1,6 +1,6 @@
 import { useRef } from 'preact/hooks';
 import { useStore, setUi, applyPreset, getVisible, newSinceLastVisit, setFilters, getState } from '../store.js';
-import { countActive, sameFilters } from '../filters.js';
+import { countActive, sameFilters, unverifiedFor } from '../filters.js';
 import { Icon } from '../icons.jsx';
 import { ago, plural } from '../format.js';
 import { mapApi } from '../map/MapView.jsx';
@@ -34,6 +34,7 @@ export function TopBar() {
   const s = useStore();
   const visible = getVisible(s);
   const activeCount = visible.filter((l) => l.status !== 'gone').length;
+  const unconfirmed = s.filters.verifiedOnly ? 0 : visible.filter((l) => l.status !== 'gone' && unverifiedFor(l, s.filters).length).length;
   const nFilters = countActive(s.filters);
   const active = s.presets.find((p) => p.id === s.activePresetId);
   const edited = active && !sameFilters(active.filters, s.filters);
@@ -62,7 +63,7 @@ export function TopBar() {
       </div>
 
       <div class="status">
-        <span class="schip schip--count" onClick={() => setUi({ view: 'list' })}><b>{activeCount}</b> {activeCount === 1 ? 'house matches' : 'houses match'}</span>
+        <span class="schip schip--count" onClick={() => setUi({ view: 'list' })}><b>{activeCount}</b> {activeCount === 1 ? 'house matches' : 'houses match'}{unconfirmed > 0 && <span class="schip__sub"> · {unconfirmed} unconfirmed</span>}</span>
         {meta.lastRun && <span class="schip">Updated {ago(meta.lastFetch || meta.lastRun, s.now)}{left != null && <> · {plural(left, 'call')} left</>}</span>}
         {isFixture && <span class="schip schip--test">Test data</span>}
         {fresh > 0 && <button type="button" class="schip schip--new" onClick={() => setFilters({ fresh: 1 })}>{fresh} new since last visit</button>}

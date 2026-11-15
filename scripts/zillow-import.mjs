@@ -9,7 +9,9 @@
 //   ## 5plus found=22 groups=0
 //   ...
 // "found" is the "Found N properties" count Zillow reported for that search, and "groups" is how
-// many results in it were apartment groups (skipped). Rows + groups must equal found, so a
+// many results in it were apartment groups (skipped). A section whose name starts with "furnished"
+// is the same area searched with Zillow's furnished filter: its houses are tagged furnished, and when
+// the snapshot is complete every other house is recorded as not furnished (as Zillow's own filter shows it). Rows + groups must equal found, so a
 // transcription that dropped rows is caught and nothing is marked off-market from it.
 //
 // Usage: node scripts/zillow-import.mjs [snapshot.tsv]
@@ -58,6 +60,9 @@ for (const s of sections) {
   if (s.found >= 100) { complete = false; problems.push(`section ${s.name}: ${s.found} results is at Zillow's display cap; split the search`); }
 }
 
+const furnishedSections = sections.filter((s) => /^furnished/i.test(s.name));
+const furnishedIds = new Set(furnishedSections.flatMap((s) => s.rows.map((r) => r.zpid)));
+const furnishedKnown = furnishedSections.length > 0 && complete;
 const seen = new Set();
 const listings = [];
 let perRoom = 0;
@@ -71,12 +76,13 @@ for (const s of sections) {
       zpid: r.zpid, address: r.line1, zip: r.zip, price: r.price, beds: r.beds, baths: r.baths, sqft: r.sqft,
       type: TYPES[r.homeType] || 'house', complex: false, lat: r.lat, lng: r.lng,
       url: `https://www.zillow.com/homedetails/${slug}/${r.zpid}_zpid/`,
+      furnished: furnishedIds.has(r.zpid) ? true : furnishedKnown ? false : null,
     });
   }
 }
 
-const result = { checked, complete, count: listings.length, skippedPerRoom: perRoom, problems, listings };
+const result = { checked, complete, count: listings.length, furnished: listings.filter((l) => l.furnished).length, furnishedKnown, skippedPerRoom: perRoom, problems, listings };
 fs.writeFileSync(out, JSON.stringify(result, null, 1) + '\n');
-console.log(`zillow import: ${listings.length} listings, complete=${complete}${perRoom ? `, skipped ${perRoom} by-the-room` : ''}`);
+console.log(`zillow import: ${listings.length} listings (${result.furnished} furnished), complete=${complete}${perRoom ? `, skipped ${perRoom} by-the-room` : ''}`);
 for (const p of problems) console.log('  problem:', p);
 process.exit(problems.length ? 2 : 0);

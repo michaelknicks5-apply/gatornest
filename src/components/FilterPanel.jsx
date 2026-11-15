@@ -105,7 +105,7 @@ export function FilterPanel() {
           <input class="date" type="date" value={f.availBy || '2027-08-01'} disabled={!f.availBy} onInput={(e) => setFilters({ availBy: e.currentTarget.value || null })} />
         </div>
         <div class="row row--between"><span class="lbl">Lease length</span><Seg small value={f.leaseMax} options={[[null, 'Any'], [12, 'Up to 12 mo'], [10, 'Up to 10'], [6, 'Up to 6']]} onChange={set('leaseMax')} /></div>
-        <Switch on={f.verifiedOnly} onChange={set('verifiedOnly')} label="Verified only" hint="Off: a listing that doesn't say (furnished, pets, parking…) still shows, tagged Unverified" />
+        <Switch on={f.verifiedOnly} onChange={set('verifiedOnly')} label="Confirmed only" hint="On: hide listings that don't confirm your must-haves. Off: they still show, tagged Unverified" />
       </Section>
 
       <Section title="Freshness and status">

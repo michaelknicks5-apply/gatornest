@@ -60,6 +60,7 @@ h2, h3, p { margin: 0; }
 .schip { display: inline-flex; align-items: center; gap: 5px; padding: 5px 10px; border-radius: 999px; font-size: 12px; font-weight: 800; background: color-mix(in srgb, var(--card) 92%, transparent); color: var(--muted); box-shadow: var(--shadow-sm); backdrop-filter: blur(6px); }
 .schip b { color: var(--ink); }
 .schip--count { color: var(--ink); cursor: pointer; }
+.schip__sub { color: var(--amber); }
 .schip--test { background: #FFE9A8; color: #6B4E00; }
 .schip--new { background: var(--violet); color: #fff; }
 .schip--area { background: var(--violet-soft); color: var(--violet); }

@@ -34,6 +34,7 @@ export function applySource(state, name, incoming, { complete, now, events, chec
       cur.details = fillDetails(cur.details, inc.details);
       if (!cur.url && inc.url) cur.url = inc.url;
       if (inc.source === 'zillow' && inc.url) { cur.zillowUrl = inc.url; cur.zillowSeen = seenAt; }
+      if (inc.source === 'zillow' && inc.details?.furnished != null) cur.details = { ...cur.details, furnished: inc.details.furnished };
       if ((!cur.photos || !cur.photos.length) && inc.photos?.length) cur.photos = inc.photos;
       if (!cur.description && inc.description) cur.description = inc.description;
       continue;

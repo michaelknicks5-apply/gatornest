@@ -53,7 +53,7 @@ export function describeFilters(f, landmarks, groupSize = 4) {
   if (!f.furnished) mustLine = mustLine ? mustLine + '. Furnished optional' : 'Furnished optional';
   lines.push(mustLine);
   if (must.length && !f.verifiedOnly) lines.push('Listings that don’t say still show, tagged Unverified');
-  if (f.verifiedOnly) lines.push('Verified only: hides listings that don’t confirm the must-haves');
+  if (f.verifiedOnly) lines.push('Confirmed only: hides listings that don’t confirm the must-haves');
 
   // Freshness and the rest
   const other = [];

@@ -21,7 +21,7 @@ export default {
         id: 'zw-' + slug(key), key, source: 'zillow', sourceId: z.zpid,
         address: prettyAddress(z.address), city: 'Gainesville', state: 'FL', zip: z.zip, lat: z.lat, lng: z.lng,
         price: z.price, beds: z.beds, baths: z.baths, sqft: z.sqft, type: z.type, complex: !!z.complex, yearBuilt: null,
-        listedDate: null, details: { ...EMPTY_DETAILS }, description: null, photos: [], contact: null, url: z.url,
+        listedDate: null, details: { ...EMPTY_DETAILS, furnished: z.furnished ?? null }, description: null, photos: [], contact: null, url: z.url,
       };
     });
     // Only a validated, complete snapshot may mark Zillow-only listings off-market.
