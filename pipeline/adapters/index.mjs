@@ -5,5 +5,6 @@
 // Return null to skip a run (for example when a quota says wait).
 import rentcast from './rentcast.mjs';
 import manual from './manual.mjs';
+import zillow from './zillow.mjs';
 
-export default [rentcast, manual];
+export default [rentcast, zillow, manual];

@@ -39,7 +39,7 @@ export async function sendAlerts({ events, listings, landmarks, presets, ctx }) 
         const t = l.travel[anchor.id];
         const drop = e.type === 'price';
         await publish(topic, {
-          title: `${drop ? 'Price drop' : 'New'}: ${money(l.pp)}/pp · ${l.beds} bd · ${l.address}`,
+          title: `${drop ? 'Price drop' : e.type === 'initial' ? 'Found on Zillow' : 'New'}: ${money(l.pp)}/pp · ${l.beds} bd · ${l.address}`,
           message: `${money(l.price)}/mo${drop ? ` (was ${money(e.from)})` : ''} · ${l.beds} bd ${l.baths ?? '?'} ba · ${t.est ? '~' : ''}${t.walk.min} min walk to ${anchor.short || anchor.name}\nMatches ${names.join(', ')}`,
           click: link(l.id), tags: [drop ? 'chart_with_downwards_trend' : 'house'], priority: drop ? 3 : 4,
         });

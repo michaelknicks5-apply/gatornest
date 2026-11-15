@@ -88,6 +88,7 @@ function ActiveCheck({ l, s }) {
     return <p class="active active--gone">Off market: it dropped out of the RentCast check on {shortDate(l.goneSince)}. It stays on the map in red for 14 days.</p>;
   }
   if (l.source === 'manual') return <p class="active active--manual">Added by you. Status isn't checked automatically.</p>;
+  if (l.source === 'zillow') return <p class="active active--ok">✓ On Zillow as of the last check, {ago(l.lastSeen, s.now)}. Zillow is checked twice a day.</p>;
   if (l.isTest) return <p class="active active--ok">✓ Active (test listing)</p>;
   const lastPull = s.meta?.lastFetch;
   return <p class="active active--ok">✓ Active as of the last check, {ago(l.lastSeen || lastPull, s.now)}{s.meta?.rentcast?.nextFetch ? `. Next check ${new Date(s.meta.rentcast.nextFetch).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: '2-digit' })}` : ''}</p>;
@@ -171,6 +172,7 @@ export function DetailSheet() {
               {l.isNew && <span class="tag tag--new">New</span>}
               {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
               {l.source === 'manual' && <span class="tag">Added by you</span>}
+              {l.source === 'zillow' && <span class="tag tag--zillow">From Zillow</span>}
               {unv.length > 0 && <span class="tag tag--unv" title={unv.join(', ')}>Unverified: {unv.join(', ')}</span>}
             </div>
             <div class="price">

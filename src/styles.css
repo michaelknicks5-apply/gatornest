@@ -224,7 +224,7 @@ textarea { width: 100%; background: var(--soft); border: 0; border-radius: 13px;
 .nophoto { height: 96px; background: var(--soft); display: flex; align-items: center; justify-content: center; gap: 10px; color: var(--muted); font-size: 13px; }
 .badges { display: flex; flex-wrap: wrap; gap: 6px; }
 .tag { display: inline-flex; align-items: center; font-size: 11.5px; font-weight: 800; padding: 4px 8px; border-radius: 8px; background: var(--soft); color: var(--muted); line-height: 1.2; }
-.tag--test { background: #FFE9A8; color: #6B4E00; } .tag--new { background: var(--violet); color: #fff; } .tag--drop, .tag--deal-good { background: var(--green-soft); color: var(--green); }
+.tag--test { background: #FFE9A8; color: #6B4E00; } .tag--zillow { background: #E3EEFF; color: #1D5BD8; } .tag--new { background: var(--violet); color: #fff; } .tag--drop, .tag--deal-good { background: var(--green-soft); color: var(--green); }
 .tag--gone { background: #E5484D; color: #fff; } .tag--unv { background: var(--amber-soft); color: var(--amber); } .tag--deal-high { background: var(--red-soft); color: var(--red); }
 .tag--cmp { border: 1.5px dashed var(--violet); background: transparent; color: var(--violet); } .tag--cmp.is-on { background: var(--violet); color: #fff; border-style: solid; }
 .price { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; }

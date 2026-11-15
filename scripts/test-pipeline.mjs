@@ -154,6 +154,41 @@ ls = read('listings.json'); meta = read('meta.json');
 check('gone listing removed after the retention window', !by('2018'));
 check('new billing period resets the request count and fetches', meta.rentcast.used === 1 && meta.rentcast.periodStart.startsWith('2026-12-01'), `${meta.rentcast.used} since ${meta.rentcast.periodStart}`);
 
+// --- Zillow snapshot: fills links on RentCast listings, adds Zillow-only houses, marks them off-market when gone
+const zsnap = (checked, rows, found) => `# checked ${checked}\n## 4bd found=${found ?? rows.length} groups=0\n` + rows.map((r) => r.join('\t')).join('\n') + '\n';
+const zrows = [
+  ['42736108', '2156 NW 4th Pl', '32603', '4500', '4', '3', '3080', 'singleFamily', '29.655558', '-82.35338'],
+  ['111', '1412 NW 5th Ave', '32603', '3300', '4', '2', '', 'singleFamily', '29.6565', '-82.3405'],
+  ['222', '3800 SW 20th Ave Room 204-4', '32607', '500', '4', '4', '1225', 'condo', '29.6347', '-82.3797'],
+];
+const { execFileSync } = await import('node:child_process');
+const zImport = (txt) => { fs.writeFileSync(path.join(tmp, 'data-cache/zillow-snapshot.tsv'), txt); try { execFileSync('node', [path.join(repo, 'scripts/zillow-import.mjs'), path.join(tmp, 'data-cache/zillow-snapshot.tsv')], { env: { ...process.env }, stdio: 'pipe' }); return 0; } catch (e) { return e.status; } };
+fs.mkdirSync(path.join(tmp, 'data-cache'), { recursive: true });
+// the import script writes next to the repo root, so point it at the temp copy
+const zOut = path.join(repo, 'data-cache/zillow.json');
+const zBackup = fs.existsSync(zOut) ? fs.readFileSync(zOut) : null;
+const zMove = () => fs.renameSync(zOut, path.join(tmp, 'data-cache/zillow.json'));
+const Tz = T0 + 18 * 24 * H + H;
+check('snapshot with a dropped row is rejected', zImport(zsnap(new Date(Tz).toISOString(), zrows, 4)) === 2 && JSON.parse(fs.readFileSync(zOut, 'utf8')).complete === false);
+check('valid snapshot passes and drops the by-the-room listing', zImport(zsnap(new Date(Tz).toISOString(), zrows)) === 0 && JSON.parse(fs.readFileSync(zOut, 'utf8')).count === 2);
+zMove();
+calls.ntfy.length = 0;
+await quiet(() => run({ env, now: Tz + 10 * 60e3, pace: 0 }));
+ls = read('listings.json');
+const zw = ls.find((l) => l.address === '2156 NW 4th Pl');
+check('Zillow-only house is added with its link', zw && zw.source === 'zillow' && zw.url.endsWith('/42736108_zpid/') && zw.status === 'active', zw && zw.id);
+check('first Zillow import is not flagged as new', zw.imported === true);
+check('RentCast listing on Zillow too gets the Zillow link, no duplicate', by('1412').url?.includes('zillow.com') && ls.filter((l) => /^1412 NW 5th Ave/.test(l.address)).length === 1);
+check('lastSeen is when Zillow was checked, not the run time', zw.lastSeen === new Date(Tz).toISOString());
+// a few dollars of Zillow price drift is ignored; a real drop is recorded and alerts
+zImport(zsnap(new Date(Tz + 12 * H).toISOString(), [['42736108', '2156 NW 4th Pl', '32603', '4480', '4', '3', '3080', 'singleFamily', '29.655558', '-82.35338'], zrows[1]])); zMove();
+await quiet(() => run({ env, now: Tz + 12 * H + 5 * 60e3, pace: 0 }));
+check('small Zillow price drift is ignored', read('listings.json').find((l) => l.id === zw.id).priceHistory.length === 1);
+zImport(zsnap(new Date(Tz + 24 * H).toISOString(), [zrows[1]])); zMove();
+await quiet(() => run({ env, now: Tz + 24 * H + 5 * 60e3, pace: 0 }));
+check('house gone from a complete Zillow check turns off-market', read('listings.json').find((l) => l.id === zw.id).status === 'gone');
+if (zBackup) fs.writeFileSync(zOut, zBackup); else fs.rmSync(zOut, { force: true });
+
 // --- test alert
 calls.ntfy.length = 0;
 await quiet(() => run({ env, argv: ['--test-alert'], now: T0 }));

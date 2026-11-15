@@ -23,7 +23,7 @@ export function decorate(l, { groupSize = 4, landmarks = [], now = Date.now(), o
     ppsf: l.sqft ? l.price / l.sqft : null,
     bathRatio: l.beds && l.baths != null ? l.baths / l.beds : null,
     ageHours: (now - first) / H,
-    isNew: l.status !== 'gone' && now - first < 24 * H,
+    isNew: l.status !== 'gone' && !l.imported && now - first < 24 * H,
     dom: Math.max(0, Math.floor((now - new Date(l.listedDate || l.firstSeen || now).getTime()) / (24 * H))),
     drop, deal: l.enrich?.deal || null, flood: l.enrich?.flood || null, nearby: l.enrich?.nearby || null,
     track: track || {},

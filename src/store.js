@@ -131,7 +131,7 @@ export const quality = (l, s = state) => (l.status === 'gone' ? 'gone' : l.pp > 
 
 export function newSinceLastVisit(s = state) {
   if (!s.lastVisit) return 0;
-  return getListings(s).filter((l) => l.status !== 'gone' && new Date(l.firstSeen).getTime() > s.lastVisit).length;
+  return getListings(s).filter((l) => l.status !== 'gone' && !l.imported && new Date(l.firstSeen).getTime() > s.lastVisit).length;
 }
 export function markVisited() { ls.set('lastVisit', Date.now()); }
 

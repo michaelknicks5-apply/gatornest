@@ -41,9 +41,9 @@ export async function run({ env = process.env, argv = process.argv.slice(2), now
     try {
       const res = await adapter.fetch(ctx);
       if (!res) { sources[adapter.name] = { skipped: true }; continue; }
-      applySource(listings, adapter.name, res.listings, { complete: res.complete, now, events });
+      applySource(listings, adapter.name, res.listings, { complete: res.complete, now, events, checkedAt: res.checkedAt, priceNoise: adapter.priceNoise });
       sources[adapter.name] = { count: res.listings.length, requests: res.requests };
-      if (adapter.name !== 'manual') fetched = true;
+      if (adapter.name === 'rentcast') fetched = true;
     } catch (e) {
       ctx.warn(`Couldn't reach ${adapter.name === 'rentcast' ? 'RentCast' : adapter.name}, showing the last good listings`); // keep the last good data
       ctx.note(`${adapter.name}: ${String(e.message).slice(0, 200)}`);

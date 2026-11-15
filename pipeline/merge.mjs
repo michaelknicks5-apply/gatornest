@@ -8,8 +8,9 @@ function fillDetails(base, extra) {
 }
 
 // state: the listings array (mutated). Returns nothing; pushes events.
-export function applySource(state, name, incoming, { complete, now, events }) {
+export function applySource(state, name, incoming, { complete, now, events, checkedAt, priceNoise }) {
   const iso = new Date(now).toISOString();
+  const seenAt = checkedAt && !isNaN(Date.parse(checkedAt)) ? new Date(checkedAt).toISOString() : iso;
   // On a source's first import everything is "new" to us; date those by when they were listed instead.
   const initial = !state.some((l) => l.source === name);
   const byKey = new Map(state.map((l) => [l.key, l]));
@@ -20,7 +21,9 @@ export function applySource(state, name, incoming, { complete, now, events }) {
     const cur = byKey.get(inc.key);
     if (!cur) {
       const firstSeen = initial && inc.listedDate && Date.parse(inc.listedDate) < now ? new Date(inc.listedDate).toISOString() : iso;
-      const l = { ...inc, status: 'active', goneSince: null, firstSeen, lastSeen: iso, listedDate: inc.listedDate || iso, priceHistory: [{ date: iso, price: inc.price }], enrich: null };
+      // A source's first import with no listing dates: we don't know these are new, so don't flag them as new.
+      const imported = initial && !inc.listedDate;
+      const l = { ...inc, ...(imported ? { imported: true } : {}), status: 'active', goneSince: null, firstSeen, lastSeen: seenAt, listedDate: inc.listedDate || null, priceHistory: [{ date: iso, price: inc.price }], enrich: null };
       state.push(l);
       byKey.set(l.key, l);
       events.push({ t: iso, type: initial ? 'initial' : 'new', id: l.id, address: l.address, price: l.price });
@@ -30,6 +33,7 @@ export function applySource(state, name, incoming, { complete, now, events }) {
       // Same house from a second source: keep the first record, borrow whatever it was missing.
       cur.details = fillDetails(cur.details, inc.details);
       if (!cur.url && inc.url) cur.url = inc.url;
+      if (inc.source === 'zillow' && inc.url) { cur.zillowUrl = inc.url; cur.zillowSeen = seenAt; }
       if ((!cur.photos || !cur.photos.length) && inc.photos?.length) cur.photos = inc.photos;
       if (!cur.description && inc.description) cur.description = inc.description;
       continue;
@@ -38,7 +42,7 @@ export function applySource(state, name, incoming, { complete, now, events }) {
       cur.status = 'active'; cur.goneSince = null;
       events.push({ t: iso, type: 'back', id: cur.id, address: cur.address, price: inc.price });
     }
-    if (inc.price !== cur.price) {
+    if (inc.price !== cur.price && !(priceNoise && priceNoise(cur.price, inc.price))) {
       events.push({ t: iso, type: 'price', id: cur.id, address: cur.address, from: cur.price, price: inc.price });
       cur.priceHistory = [...(cur.priceHistory || []), { date: iso, price: inc.price }];
       cur.price = inc.price;
@@ -48,7 +52,7 @@ export function applySource(state, name, incoming, { complete, now, events }) {
     if (inc.url) cur.url = inc.url;
     if (inc.photos?.length) cur.photos = inc.photos;
     if (inc.description) cur.description = inc.description;
-    cur.lastSeen = iso;
+    cur.lastSeen = seenAt;
   }
   if (complete) {
     for (const l of state) {
