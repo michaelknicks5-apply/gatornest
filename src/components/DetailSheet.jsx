@@ -8,8 +8,21 @@ import { money, miles, shortDate, tri, TYPE_LABEL, STATUS_STEPS, phonePretty, pl
 
 const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
+// Google Maps Embed key (free, unlimited; restricted to this site). Injected at build from the
+// GOOGLE_MAPS_KEY repo secret. Without it, listings with no photos show a Street View link instead.
+const GMAPS_KEY = import.meta.env.VITE_GMAPS_KEY || '';
+
 function Carousel({ l }) {
   const [i, setI] = useState(0);
+  if (!l.photos.length && GMAPS_KEY) {
+    return (
+      <div class="carousel carousel--sv">
+        <iframe key={l.id} title={`Street View of ${l.address}`} loading="lazy" allowFullScreen referrerPolicy="strict-origin-when-cross-origin"
+          src={`https://www.google.com/maps/embed/v1/streetview?key=${encodeURIComponent(GMAPS_KEY)}&location=${l.lat},${l.lng}&fov=90`} />
+        <span class="carousel__count">Street View · drag to look around</span>
+      </div>
+    );
+  }
   if (!l.photos.length) {
     return (
       <div class="nophoto">

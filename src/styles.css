@@ -222,6 +222,8 @@ textarea { width: 100%; background: var(--soft); border: 0; border-radius: 13px;
 .carousel__track { display: flex; height: 100%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; touch-action: pan-x; }
 .carousel__track::-webkit-scrollbar { display: none; }
 .carousel__track img { flex: 0 0 100%; width: 100%; height: 100%; object-fit: cover; scroll-snap-align: start; }
+.carousel--sv iframe { display: block; width: 100%; height: 100%; border: 0; }
+.sheet.is-half .carousel--sv { height: 170px; }
 .carousel__count { position: absolute; left: 12px; bottom: 10px; background: rgba(20, 16, 40, .6); color: #fff; font-size: 12px; font-weight: 800; padding: 3px 9px; border-radius: 999px; }
 .nophoto { height: 96px; background: var(--soft); display: flex; align-items: center; justify-content: center; gap: 10px; color: var(--muted); font-size: 13px; }
 .badges { display: flex; flex-wrap: wrap; gap: 6px; }

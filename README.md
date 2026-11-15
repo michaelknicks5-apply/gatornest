@@ -48,6 +48,15 @@ RentCast's free Developer plan includes 50 requests a month and bills for extra 
 
 The app shows "Updated X min ago · Y calls left" on the map, and Settings shows the next scheduled pull.
 
+## Street View pictures
+
+Neither RentCast nor the Zillow connector provides listing photos, so a listing with no photos shows an interactive Google Street View of its address. It uses the Maps Embed API, which Google offers at no charge with unlimited use; it still needs a key and a Google Cloud billing account.
+
+1. console.cloud.google.com → create a project → set up billing (a card is required; the Embed API itself is free).
+2. APIs & Services → Library → enable **Maps Embed API**.
+3. APIs & Services → Credentials → Create credentials → API key. Edit it: Application restrictions **Websites**, add `https://michaelknicks5-apply.github.io/*`; API restrictions **Restrict key** → Maps Embed API.
+4. Add the key as the repo secret `GOOGLE_MAPS_KEY`. The next build puts it in the site (a browser key is visible by design; the website restriction is what protects it).
+
 ## Zillow check
 
 RentCast misses about half of the 4+ bedroom houses near campus that are on Zillow (often landlords who post only on Zillow). A scheduled Claude task, **GatorNest Zillow check** (7:43 AM and 6:43 PM ET), fills the gap:
