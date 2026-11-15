@@ -48,6 +48,18 @@ RentCast's free Developer plan includes 50 requests a month and bills for extra 
 
 The app shows "Updated X min ago · Y calls left" on the map, and Settings shows the next scheduled pull.
 
+## Zillow check
+
+RentCast misses about half of the 4+ bedroom houses near campus that are on Zillow (often landlords who post only on Zillow). A scheduled Claude task, **GatorNest Zillow check** (7:43 AM and 6:43 PM ET), fills the gap:
+
+1. It runs two searches through the Zillow connector (4 bedrooms, and 5+) inside a 4-mile circle around campus.
+2. It writes `data-cache/zillow-snapshot.tsv`, and `scripts/zillow-import.mjs` validates it: each section's rows must add up to the count Zillow reported, so a dropped row is caught.
+3. It commits the snapshot and starts the refresh workflow.
+
+On every hourly run, the `zillow` adapter adds Zillow-only houses with their Zillow links, gives RentCast listings that are also on Zillow their Zillow link, and marks Zillow-only houses off-market when a complete check no longer has them. Price wiggles of a few dollars are ignored, and by-the-room listings are skipped. If the check stops running for 2 days, the map shows a warning chip.
+
+Zillow listing data ends up in this public repo; that was a deliberate choice.
+
 ## Add a landmark
 
 Edit `config/landmarks.json`:
@@ -60,7 +72,7 @@ Icons: `dx`, `house`, `wave`, `golf`, `book`, `pint`, `pin`. On the next run eve
 
 ## Add a new data source
 
-Sources are adapters in `pipeline/adapters/`. Write a module and add it to `pipeline/adapters/index.mjs`:
+Sources are adapters in `pipeline/adapters/` (today: `rentcast`, `zillow`, `manual`). Write a module and add it to `pipeline/adapters/index.mjs`:
 
 ```js
 export default {
