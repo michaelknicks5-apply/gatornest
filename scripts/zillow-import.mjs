@@ -20,7 +20,8 @@ import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const src = process.argv[2] || path.join(root, 'data-cache/zillow-snapshot.tsv');
 const out = path.join(root, 'data-cache/zillow.json');
-const TYPES = { singleFamily: 'house', townhome: 'townhouse', condo: 'condo', multiFamily: 'duplex' };
+// Zillow calls a unit in a small building an "apartment"; big complexes come back as groups and are skipped.
+const TYPES = { singleFamily: 'house', townhome: 'townhouse', condo: 'condo', multiFamily: 'duplex', apartment: 'apartment' };
 
 const text = fs.readFileSync(src, 'utf8');
 let checked = null;
@@ -68,7 +69,7 @@ for (const s of sections) {
     const slug = `${r.line1.replace(/#/g, '').trim()} Gainesville FL ${r.zip}`.replace(/[^A-Za-z0-9]+/g, '-');
     listings.push({
       zpid: r.zpid, address: r.line1, zip: r.zip, price: r.price, beds: r.beds, baths: r.baths, sqft: r.sqft,
-      type: TYPES[r.homeType] || 'house', complex: r.homeType === 'apartment', lat: r.lat, lng: r.lng,
+      type: TYPES[r.homeType] || 'house', complex: false, lat: r.lat, lng: r.lng,
       url: `https://www.zillow.com/homedetails/${slug}/${r.zpid}_zpid/`,
     });
   }

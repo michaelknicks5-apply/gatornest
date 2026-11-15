@@ -52,7 +52,7 @@ The app shows "Updated X min ago · Y calls left" on the map, and Settings shows
 
 RentCast misses about half of the 4+ bedroom houses near campus that are on Zillow (often landlords who post only on Zillow). A scheduled Claude task, **GatorNest Zillow check** (7:43 AM and 6:43 PM ET), fills the gap:
 
-1. It runs two searches through the Zillow connector (4 bedrooms, and 5+) inside a 4-mile circle around campus.
+1. It runs two searches through the Zillow connector (4 bedrooms, and 5+; houses, townhomes, condos, duplexes and single apartment units) inside a 4-mile circle around campus. Big complexes come back as groups and are skipped.
 2. It writes `data-cache/zillow-snapshot.tsv`, and `scripts/zillow-import.mjs` validates it: each section's rows must add up to the count Zillow reported, so a dropped row is caught.
 3. It commits the snapshot and starts the refresh workflow.
 
