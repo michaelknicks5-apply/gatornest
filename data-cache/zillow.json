@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-15T12:45:16Z",
+ "checked": "2026-11-15T23:44:00Z",
  "complete": true,
  "count": 74,
  "furnished": 9,
@@ -20,6 +20,21 @@
    "lat": 29.645258,
    "lng": -82.330185,
    "url": "https://www.zillow.com/homedetails/516-SW-7th-Pl-Gainesville-FL-32601/460590188_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42716121",
+   "address": "224 NW 28th St",
+   "zip": "32607",
+   "price": 3400,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 1976,
+   "type": "house",
+   "complex": false,
+   "lat": 29.65486,
+   "lng": -82.36481,
+   "url": "https://www.zillow.com/homedetails/224-NW-28th-St-Gainesville-FL-32607/42716121_zpid/",
    "furnished": false
   },
   {
@@ -176,7 +191,7 @@
    "zpid": "42736597",
    "address": "2015 NW 7th Pl",
    "zip": "32603",
-   "price": 5625,
+   "price": 5579,
    "beds": 4,
    "baths": 3,
    "sqft": 1980,
@@ -623,21 +638,6 @@
    "furnished": false
   },
   {
-   "zpid": "42715948",
-   "address": "701 SW 28th St",
-   "zip": "32607",
-   "price": 3600,
-   "beds": 4,
-   "baths": 2,
-   "sqft": 1292,
-   "type": "house",
-   "complex": false,
-   "lat": 29.646017,
-   "lng": -82.36389,
-   "url": "https://www.zillow.com/homedetails/701-SW-28th-St-Gainesville-FL-32607/42715948_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42716360",
    "address": "729 NW 34th St",
    "zip": "32607",
@@ -971,7 +971,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 7624,
+   "price": 7707,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -1016,7 +1016,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 10464,
+   "price": 10412,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
