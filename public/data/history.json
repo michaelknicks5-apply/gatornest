@@ -97,5 +97,111 @@
   "id": "zw-3678-ne-1st-ter-unit-f441e5c20",
   "address": "3678 NE 1st Ter #F441e5c20",
   "price": 2350
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-2515-sw-35th-pl-unit-117",
+  "address": "2515 SW 35th Pl #117",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-753-nw-8th-st",
+  "address": "753 NW 8th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-2515-sw-35th-pl-unit-219",
+  "address": "2515 SW 35th Pl #219",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-834-sw-9th-st",
+  "address": "834 SW 9th St",
+  "price": 8400
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-640-sw-5th-st",
+  "address": "640 SW 5th St",
+  "price": 3900
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-622-nw-3rd-ave-unit-6",
+  "address": "622 NW 3rd Ave #6",
+  "price": 3750
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "new",
+  "id": "rc-1109-ne-5th-pl",
+  "address": "1109 NE 5th Pl",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "back",
+  "id": "rc-885-sw-6th-st",
+  "address": "885 SW 6th St",
+  "price": 4800
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "price",
+  "id": "rc-2510-ne-9th-st",
+  "address": "2510 NE 9th St",
+  "from": 1549,
+  "price": 1575
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-1012-sw-3rd-ave",
+  "address": "1012 SW 3rd Ave",
+  "price": 4400
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-1102-nw-3rd-ave-unit-downstairs",
+  "address": "1102 NW 3rd Ave #Downstairs",
+  "price": 2000
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-15-nw-26th-st",
+  "address": "15 NW 26th St",
+  "price": 3700
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-324-sw-5th-ave",
+  "address": "324 SW 5th Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-4000-sw-23rd-st-unit-6-305",
+  "address": "4000 SW 23rd St #6-305",
+  "price": 1850
+ },
+ {
+  "t": "2026-11-15T09:26:15.810Z",
+  "type": "gone",
+  "id": "rc-4025-sw-20th-dr",
+  "address": "4025 SW 20th Dr",
+  "price": 1500
  }
 ]
