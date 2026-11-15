@@ -203,5 +203,12 @@
   "id": "rc-4025-sw-20th-dr",
   "address": "4025 SW 20th Dr",
   "price": 1500
+ },
+ {
+  "t": "2026-11-15T12:45:45.736Z",
+  "type": "gone",
+  "id": "zw-949-sw-13th-st",
+  "address": "949 SW 13th St",
+  "price": 5383
  }
 ]
