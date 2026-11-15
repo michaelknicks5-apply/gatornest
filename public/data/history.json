@@ -83,5 +83,19 @@
   "id": "rc-885-sw-6th-st",
   "address": "885 SW 6th St",
   "price": 4800
+ },
+ {
+  "t": "2026-11-15T00:43:43.440Z",
+  "type": "new",
+  "id": "zw-401-413-nw-19th-st-unit-4b-4ba-1722sqft",
+  "address": "401-413 NW 19th St #4B-4Ba-1722Sqft",
+  "price": 4560
+ },
+ {
+  "t": "2026-11-15T00:43:43.440Z",
+  "type": "new",
+  "id": "zw-3678-ne-1st-ter-unit-f441e5c20",
+  "address": "3678 NE 1st Ter #F441e5c20",
+  "price": 2350
  }
 ]
