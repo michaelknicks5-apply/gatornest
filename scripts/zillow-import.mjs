@@ -70,7 +70,7 @@ for (const s of sections) {
   for (const r of s.rows) {
     if (seen.has(r.zpid)) continue;
     seen.add(r.zpid);
-    if (r.price / r.beds < 300) { perRoom += 1; continue; } // a by-the-room listing priced per bed
+    if (r.price / r.beds < 400) { perRoom += 1; continue; } // a by-the-room listing priced per bed (see PER_BED_MAX)
     const slug = `${r.line1.replace(/#/g, '').trim()} Gainesville FL ${r.zip}`.replace(/[^A-Za-z0-9]+/g, '-');
     listings.push({
       zpid: r.zpid, address: r.line1, zip: r.zip, price: r.price, beds: r.beds, baths: r.baths, sqft: r.sqft,

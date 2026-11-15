@@ -103,7 +103,7 @@ export function MapView() {
       if (isCluster) sig = 'c' + it.properties.point_count + '|' + it.properties.minPP;
       else {
         l = it.properties.l;
-        sig = [quality(l, state), Math.round(l.pp), l.isNew, !!l.track.fav, state.ui.selectedId === l.id, l.track.status || ''].join('|');
+        sig = [quality(l, state), Math.round(l.pp), l.isNew, !!l.track.fav, state.ui.selectedId === l.id, l.track.status || '', l.details.furnished === true].join('|');
       }
       const cur = markers.get(id);
       if (cur && cur.sig === sig) { cur.marker.setLngLat([lng, lat]); continue; }
@@ -123,7 +123,7 @@ export function MapView() {
         const q = quality(l, state);
         const sel = state.ui.selectedId === l.id;
         el.className = `pin pin--${q}${l.isNew ? ' is-new' : ''}${sel ? ' is-selected' : ''}${l.track.status === 'Passed' ? ' is-passed' : ''}`;
-        el.innerHTML = `<span class="pin__in">${l.isNew ? '<span class="pin__ring"></span>' : ''}<span class="pin__body">${l.track.fav ? '<i>★</i>' : ''}${l.status === 'gone' ? 'Off market' : `${money(l.pp)}<small>/pp</small>`}</span></span>`;
+        el.innerHTML = `<span class="pin__in">${l.isNew ? '<span class="pin__ring"></span>' : ''}<span class="pin__body">${l.track.fav ? '<i>★</i>' : ''}${l.details.furnished === true ? '<b class="pin__furn" title="Furnished">🛋️</b>' : ''}${l.status === 'gone' ? 'Off market' : `${money(l.pp)}<small>/pp</small>`}</span></span>`;
         el.setAttribute('aria-label', `${l.address}, ${money(l.pp)} per person`);
         el.onclick = (e) => { e.stopPropagation(); selectListing(l.id); };
       }

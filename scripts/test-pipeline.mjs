@@ -93,7 +93,7 @@ check('one RentCast request spent and counted', calls.rentcast === 1 && meta.ren
 check('directions shown in caps', by('1716').address === '1716 NW 3rd Avenue', by('1716').address);
 check('first import is dated by listing date, not marked new', by('1716').firstSeen === '2026-11-01T00:00:00.000Z' && read('history.json').length === 0);
 check('address normalized into a stable id', !!ls.find((l) => l.id === 'rc-1716-nw-3rd-ave'), ls.map((l) => l.id).join(' '));
-check('units dedupe separately and 3 units at one address flag a complex', ls.filter((l) => l.complex).length === 3);
+check('units dedupe separately and 3 units at one address flag a complex', ls.filter((l) => l.complex).length >= 3 && ls.filter((l) => /1710 SW 35th/.test(l.address)).every((l) => l.complex));
 check('unknown details stay null (unverified)', by('1716').details.furnished === null && by('1716').details.parking === null);
 check('contact carried through', by('1716').contact.phone === '3525550100');
 check('routed travel times for every landmark', Object.keys(by('1716').enrich.travel).length === 6 && by('1716').enrich.travel.deltachi.walk.min > 0 && !by('1716').enrich.travel.deltachi.est, JSON.stringify(by('1716').enrich.travel.deltachi));
@@ -105,6 +105,8 @@ check('route shapes written for nearby listings', fs.existsSync(path.join(tmp, '
 check('first run sends one summary push, not a flood', calls.ntfy.length === 1 && /match your alerts/.test(calls.ntfy[0].title) && calls.ntfy[0].topic === 'secret-topic', calls.ntfy[0]?.title);
 check('meta ready for the app', meta.neverRun === false && meta.counts.active === 7 && !!meta.lastFetch);
 
+{ const { flagComplexes } = await import('../pipeline/merge.mjs'); const t = [{ key: 'a', status: 'active', price: 660, beds: 4 }, { key: 'b', status: 'active', price: 2000, beds: 4 }]; flagComplexes(t);
+  check('a 4-bed "unit" at $660/mo is treated as per-bed and hidden with complexes', t[0].complex && t[0].perBed && !t[1].complex); }
 // --- an hour later: quota says wait, nothing is spent, nothing re-enriched
 const before = { ...calls, ntfy: calls.ntfy.length };
 await quiet(() => run({ env, now: T0 + H, pace: 0 }));

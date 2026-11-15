@@ -4,7 +4,7 @@ export const HOUSE_TYPES = ['house', 'townhouse', 'duplex', 'condo'];
 
 export const DEFAULT_FILTERS = {
   // Money
-  rentMin: null, rentMax: null, ppMax: 1100, utilIncl: false, netIncl: false, deal: 'any', dropped: false,
+  rentMin: null, rentMax: null, ppMax: null, utilIncl: false, netIncl: false, deal: 'any', dropped: false,
   // Space
   bedsMin: 4, bedsMax: null, bathsMin: null, bathRatioMin: null, sqftMin: null, ppsfMax: null,
   types: [...HOUSE_TYPES], hideComplexes: true,
@@ -21,14 +21,25 @@ export const DEFAULT_FILTERS = {
 
 const F = (over) => ({ ...DEFAULT_FILTERS, ...over });
 
+// Starters stay loose on purpose: price and furnished show as pin color and badges instead of hiding
+// houses (pins over the budget in Settings turn gray; confirmed furnished houses get a sofa).
 export const STARTER_PRESETS = [
   { id: 'default', name: 'Default', emoji: '🏠', color: '#7B4DFF', alerts: true, starter: true,
-    filters: F({ types: ['house'], furnished: true, ppMax: 1100, lm: { deltachi: { mode: 'mi', max: 1.4 }, marston: { mode: 'mi', max: 1.5 }, macdintons: { mode: 'mi', max: 1.5 } } }) },
+    filters: F({ lm: { deltachi: { mode: 'mi', max: 1.5 } } }) },
   { id: 'walkable', name: 'Walkable', emoji: '🚶', color: '#16A866', alerts: false, starter: true,
-    filters: F({ lm: { deltachi: { mode: 'walk', max: 10 } } }) },
+    filters: F({ lm: { deltachi: { mode: 'walk', max: 15 } } }) },
   { id: 'widenet', name: 'Wide Search', emoji: '', color: '#F59E0B', alerts: false, starter: true,
-    filters: F({ ppMax: 1250, lm: { deltachi: { mode: 'mi', max: 3 } } }) },
+    filters: F({ lm: { deltachi: { mode: 'mi', max: 3 } } }) },
 ];
+
+// The first starters (Nov 13-14), used to upgrade copies saved on a phone that were never edited.
+const OLD_BASE = { ...DEFAULT_FILTERS, ppMax: 1100 };
+const old = (over) => ({ ...OLD_BASE, ...over, lm: { ...(over.lm || {}) } });
+export const OLD_STARTER_FILTERS = {
+  default: old({ types: ['house'], furnished: true, ppMax: 1100, lm: { deltachi: { mode: 'mi', max: 1.4 }, marston: { mode: 'mi', max: 1.5 }, macdintons: { mode: 'mi', max: 1.5 } } }),
+  walkable: old({ lm: { deltachi: { mode: 'walk', max: 10 } } }),
+  widenet: old({ ppMax: 1250, lm: { deltachi: { mode: 'mi', max: 3 } } }),
+};
 
 export const normalizeFilters = (f) => ({ ...DEFAULT_FILTERS, ...(f || {}), lm: { ...((f && f.lm) || {}) } });
 

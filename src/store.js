@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'preact/hooks';
 import baseLandmarks from '../config/landmarks.json';
 import { decorate as sharedDecorate } from '../shared/decorate.js';
-import { STARTER_PRESETS, normalizeFilters, matches, decodePreset } from './filters.js';
+import { STARTER_PRESETS, OLD_STARTER_FILTERS, normalizeFilters, matches, decodePreset } from './filters.js';
 
 const ls = {
   get(k, d) { try { const v = localStorage.getItem('gn.' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
@@ -11,7 +11,11 @@ const ls = {
 const DEFAULT_SETTINGS = { groupSize: 4, budgetPP: 1100, theme: 'auto', dataMode: 'auto', rings: false, defaultPresetId: 'default', landmarks: null };
 
 const settings = { ...DEFAULT_SETTINGS, ...ls.get('settings', {}) };
-const presets = (ls.get('presets', null) || STARTER_PRESETS).map((p) => ({ ...p, filters: normalizeFilters(p.filters) }))
+const sameJSON = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+const presets = (ls.get('presets', null) || STARTER_PRESETS)
+  // Starters were loosened on Nov 14; an unedited saved copy of an old starter gets the new filters.
+  .map((p) => (OLD_STARTER_FILTERS[p.id] && sameJSON(p.filters, OLD_STARTER_FILTERS[p.id]) ? { ...p, filters: STARTER_PRESETS.find((x) => x.id === p.id).filters } : p))
+  .map((p) => ({ ...p, filters: normalizeFilters(p.filters) }))
   // Renamed starter: Wide Net (🎣) became Wide Search (no emoji). Only touches an unedited copy.
   .map((p) => (p.id === 'widenet' && p.name === 'Wide Net' && p.emoji === '🎣' ? { ...p, name: 'Wide Search', emoji: '' } : p));
 const startPreset = presets.find((p) => p.id === settings.defaultPresetId) || presets[0];

@@ -172,7 +172,9 @@ export function DetailSheet() {
               {l.isNew && <span class="tag tag--new">New</span>}
               {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
               {l.source === 'manual' && <span class="tag">Added by you</span>}
+              {l.perBed && <span class="tag tag--unv">Priced per bed</span>}
               {l.source === 'zillow' && <span class="tag tag--zillow">From Zillow</span>}
+              {l.details.furnished === true && <span class="tag tag--deal-good">🛋️ Furnished</span>}
               {unv.length > 0 && <span class="tag tag--unv" title={unv.join(', ')}>Unverified: {unv.join(', ')}</span>}
             </div>
             <div class="price">

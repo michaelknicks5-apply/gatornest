@@ -66,7 +66,12 @@ export function applySource(state, name, incoming, { complete, now, events, chec
 }
 
 // Mark big complexes: three or more units listed at one street address.
+// Under this much rent per bedroom, a "whole unit" price is really a per-bed student-complex rate.
+// (The cheapest real 4-bedroom house near campus rents for about $500 a bedroom.)
+export const PER_BED_MAX = 400;
+
 export function flagComplexes(state) {
+  for (const l of state) if (l.price > 0 && l.beds > 0 && l.price / l.beds < PER_BED_MAX) { l.complex = true; l.perBed = true; }
   const count = new Map();
   const base = (l) => l.key.split(' unit ')[0];
   for (const l of state) if (l.status === 'active') count.set(base(l), (count.get(base(l)) || 0) + 1);

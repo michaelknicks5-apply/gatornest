@@ -52,6 +52,7 @@ export function ListView() {
                 <span class="lcard__facts"><Icon name="walk" size={14} /> {l.travel[anchor].est ? '~' : ''}{l.travel[anchor].walk.min} min to {anchorName} · {miles(l.travel[anchor].mi)}</span>
                 <div class="badges">
                   {(() => { const b = bestLink(l); return <a class={'tag tag--link' + (b.saved ? ' is-saved' : '')} href={b.href} target="_blank" rel="noopener" onClick={(e) => e.stopPropagation()}>{b.saved ? `Listing on ${b.label}` : 'Look up address'} ↗</a>; })()}
+                  {l.details.furnished === true && <span class="tag tag--deal-good">🛋️ Furnished</span>}
                   {l.deal?.label === 'good' && <span class="tag tag--deal-good">Good deal</span>}
                   {l.drop && <span class="tag tag--drop">Dropped {money(l.drop.from - l.drop.to)}</span>}
                   {l.track.status && l.track.status !== 'New' && <span class="tag">{l.track.status}</span>}

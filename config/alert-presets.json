@@ -7,7 +7,7 @@
   "filters": {
    "rentMin": null,
    "rentMax": null,
-   "ppMax": 1100,
+   "ppMax": 1300,
    "utilIncl": false,
    "netIncl": false,
    "deal": "any",
@@ -19,26 +19,21 @@
    "sqftMin": null,
    "ppsfMax": null,
    "types": [
-    "house"
+    "house",
+    "townhouse",
+    "duplex",
+    "condo"
    ],
    "hideComplexes": true,
    "lm": {
     "deltachi": {
-     "mode": "mi",
-     "max": 1.4
-    },
-    "marston": {
-     "mode": "mi",
-     "max": 1.5
-    },
-    "macdintons": {
      "mode": "mi",
      "max": 1.5
     }
    },
    "area": null,
    "hideFlood": false,
-   "furnished": true,
+   "furnished": false,
    "pets": false,
    "dogs": false,
    "parkingMin": null,
