@@ -519,7 +519,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-1022-nw-4th-ave",
@@ -12213,7 +12214,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-2601-sw-archer-rd-unit-a304",
@@ -12231,7 +12233,7 @@
   "baths": 2,
   "sqft": 1177,
   "type": "condo",
-  "complex": false,
+  "complex": true,
   "yearBuilt": null,
   "listedDate": "2026-11-12T00:00:00.000Z",
   "details": {
@@ -12387,7 +12389,8 @@
      "mi": 0.06
     }
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-2619-nw-2nd-ave",
@@ -13799,7 +13802,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-2818-sw-14th-dr",
@@ -16997,7 +17001,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-3705-sw-27th-st-unit-221",
@@ -17899,7 +17904,7 @@
   "baths": 4,
   "sqft": 1225,
   "type": "condo",
-  "complex": false,
+  "complex": true,
   "yearBuilt": 1996,
   "listedDate": "2026-06-03T00:00:00.000Z",
   "details": {
@@ -18061,7 +18066,8 @@
      "mi": 0.07
     }
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-390-sw-7th-pl",
@@ -18767,7 +18773,8 @@
      "mi": 0.12
     }
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-394-sw-7th-pl",
@@ -19485,7 +19492,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-4000-sw-23rd-st-unit-6-305",
@@ -29765,7 +29773,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-727-nw-4th-ave",
@@ -32779,7 +32788,7 @@
   "baths": 1.5,
   "sqft": 972,
   "type": "condo",
-  "complex": false,
+  "complex": true,
   "yearBuilt": null,
   "listedDate": "2025-11-07T00:00:00.000Z",
   "details": {
@@ -32935,7 +32944,8 @@
      "mi": 0.03
     }
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-914-sw-8th-ave-unit-57",
@@ -32953,7 +32963,7 @@
   "baths": 1.5,
   "sqft": 972,
   "type": "condo",
-  "complex": false,
+  "complex": true,
   "yearBuilt": 1969,
   "listedDate": "2026-08-14T00:00:00.000Z",
   "details": {
@@ -33115,7 +33125,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-915-nw-11th-ave",
@@ -33463,7 +33474,8 @@
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
    }
-  }
+  },
+  "perBed": true
  },
  {
   "id": "rc-925-ne-20th-ave",
