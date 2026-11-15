@@ -1,7 +1,9 @@
 {
- "checked": "2026-11-15T00:43:17Z",
+ "checked": "2026-11-15T00:48:03Z",
  "complete": true,
- "count": 74,
+ "count": 75,
+ "furnished": 10,
+ "furnishedKnown": true,
  "skippedPerRoom": 3,
  "problems": [],
  "listings": [
@@ -17,7 +19,8 @@
    "complex": false,
    "lat": 29.645258,
    "lng": -82.330185,
-   "url": "https://www.zillow.com/homedetails/516-SW-7th-Pl-Gainesville-FL-32601/460590188_zpid/"
+   "url": "https://www.zillow.com/homedetails/516-SW-7th-Pl-Gainesville-FL-32601/460590188_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736375",
@@ -31,7 +34,8 @@
    "complex": false,
    "lat": 29.657305,
    "lng": -82.341415,
-   "url": "https://www.zillow.com/homedetails/1429-NW-7th-Ave-Gainesville-FL-32603/42736375_zpid/"
+   "url": "https://www.zillow.com/homedetails/1429-NW-7th-Ave-Gainesville-FL-32603/42736375_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716709",
@@ -45,7 +49,8 @@
    "complex": false,
    "lat": 29.652,
    "lng": -82.3867,
-   "url": "https://www.zillow.com/homedetails/5-SW-41st-St-Gainesville-FL-32607/42716709_zpid/"
+   "url": "https://www.zillow.com/homedetails/5-SW-41st-St-Gainesville-FL-32607/42716709_zpid/",
+   "furnished": false
   },
   {
    "zpid": "464120358",
@@ -59,7 +64,8 @@
    "complex": false,
    "lat": 29.662945,
    "lng": -82.32798,
-   "url": "https://www.zillow.com/homedetails/296-NW-12th-Ave-Gainesville-FL-32601/464120358_zpid/"
+   "url": "https://www.zillow.com/homedetails/296-NW-12th-Ave-Gainesville-FL-32601/464120358_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42735635",
@@ -73,7 +79,8 @@
    "complex": false,
    "lat": 29.655243,
    "lng": -82.33332,
-   "url": "https://www.zillow.com/homedetails/812-NW-4th-Pl-Gainesville-FL-32601/42735635_zpid/"
+   "url": "https://www.zillow.com/homedetails/812-NW-4th-Pl-Gainesville-FL-32601/42735635_zpid/",
+   "furnished": false
   },
   {
    "zpid": "446260303",
@@ -87,7 +94,8 @@
    "complex": false,
    "lat": 29.647131,
    "lng": -82.329575,
-   "url": "https://www.zillow.com/homedetails/510-SW-5th-St-Gainesville-FL-32601/446260303_zpid/"
+   "url": "https://www.zillow.com/homedetails/510-SW-5th-St-Gainesville-FL-32601/446260303_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42715770",
@@ -101,7 +109,8 @@
    "complex": false,
    "lat": 29.651773,
    "lng": -82.36126,
-   "url": "https://www.zillow.com/homedetails/7-SW-26th-St-Gainesville-FL-32607/42715770_zpid/"
+   "url": "https://www.zillow.com/homedetails/7-SW-26th-St-Gainesville-FL-32607/42715770_zpid/",
+   "furnished": false
   },
   {
    "zpid": "82033255",
@@ -115,7 +124,8 @@
    "complex": false,
    "lat": 29.658958,
    "lng": -82.3326,
-   "url": "https://www.zillow.com/homedetails/753-NW-8th-St-Gainesville-FL-32601/82033255_zpid/"
+   "url": "https://www.zillow.com/homedetails/753-NW-8th-St-Gainesville-FL-32601/82033255_zpid/",
+   "furnished": false
   },
   {
    "zpid": "103021010",
@@ -129,7 +139,8 @@
    "complex": false,
    "lat": 29.654636,
    "lng": -82.33326,
-   "url": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/"
+   "url": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/",
+   "furnished": false
   },
   {
    "zpid": "460628438",
@@ -143,7 +154,8 @@
    "complex": false,
    "lat": 29.653913,
    "lng": -82.32895,
-   "url": "https://www.zillow.com/homedetails/420-NW-3rd-Ave-Gainesville-FL-32601/460628438_zpid/"
+   "url": "https://www.zillow.com/homedetails/420-NW-3rd-Ave-Gainesville-FL-32601/460628438_zpid/",
+   "furnished": false
   },
   {
    "zpid": "466201581",
@@ -157,7 +169,8 @@
    "complex": false,
    "lat": 29.645262,
    "lng": -82.32885,
-   "url": "https://www.zillow.com/homedetails/394-SW-7th-Pl-Gainesville-FL-32601/466201581_zpid/"
+   "url": "https://www.zillow.com/homedetails/394-SW-7th-Pl-Gainesville-FL-32601/466201581_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736597",
@@ -171,7 +184,8 @@
    "complex": false,
    "lat": 29.658684,
    "lng": -82.350334,
-   "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/"
+   "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/",
+   "furnished": true
   },
   {
    "zpid": "466201582",
@@ -185,7 +199,8 @@
    "complex": false,
    "lat": 29.645262,
    "lng": -82.32882,
-   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/"
+   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465853772",
@@ -199,7 +214,8 @@
    "complex": false,
    "lat": 29.64369,
    "lng": -82.33116,
-   "url": "https://www.zillow.com/homedetails/879-SW-6th-St-Gainesville-FL-32601/465853772_zpid/"
+   "url": "https://www.zillow.com/homedetails/879-SW-6th-St-Gainesville-FL-32601/465853772_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42735664",
@@ -213,7 +229,8 @@
    "complex": false,
    "lat": 29.654087,
    "lng": -82.334404,
-   "url": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/"
+   "url": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465853770",
@@ -227,7 +244,8 @@
    "complex": false,
    "lat": 29.64376,
    "lng": -82.33118,
-   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/"
+   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465853778",
@@ -241,7 +259,8 @@
    "complex": false,
    "lat": 29.643667,
    "lng": -82.33116,
-   "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/"
+   "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465853771",
@@ -255,7 +274,8 @@
    "complex": false,
    "lat": 29.643635,
    "lng": -82.331154,
-   "url": "https://www.zillow.com/homedetails/893-SW-6th-St-Gainesville-FL-32601/465853771_zpid/"
+   "url": "https://www.zillow.com/homedetails/893-SW-6th-St-Gainesville-FL-32601/465853771_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2066867451",
@@ -269,7 +289,8 @@
    "complex": false,
    "lat": 29.646103,
    "lng": -82.329605,
-   "url": "https://www.zillow.com/homedetails/640-SW-5th-St-Gainesville-FL-32601/2066867451_zpid/"
+   "url": "https://www.zillow.com/homedetails/640-SW-5th-St-Gainesville-FL-32601/2066867451_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2118436977",
@@ -283,7 +304,8 @@
    "complex": false,
    "lat": 29.654356,
    "lng": -82.33585,
-   "url": "https://www.zillow.com/homedetails/313-NW-11th-St-Gainesville-FL-32601/2118436977_zpid/"
+   "url": "https://www.zillow.com/homedetails/313-NW-11th-St-Gainesville-FL-32601/2118436977_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42735774",
@@ -297,7 +319,8 @@
    "complex": false,
    "lat": 29.65467,
    "lng": -82.33578,
-   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/"
+   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465858154",
@@ -311,7 +334,8 @@
    "complex": false,
    "lat": 29.655716,
    "lng": -82.33601,
-   "url": "https://www.zillow.com/homedetails/1095-NW-5th-Ave-Gainesville-FL-32601/465858154_zpid/"
+   "url": "https://www.zillow.com/homedetails/1095-NW-5th-Ave-Gainesville-FL-32601/465858154_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42731388",
@@ -325,7 +349,8 @@
    "complex": false,
    "lat": 29.664139,
    "lng": -82.32753,
-   "url": "https://www.zillow.com/homedetails/224-NW-13th-Ave-Gainesville-FL-32601/42731388_zpid/"
+   "url": "https://www.zillow.com/homedetails/224-NW-13th-Ave-Gainesville-FL-32601/42731388_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736675",
@@ -339,7 +364,8 @@
    "complex": false,
    "lat": 29.642334,
    "lng": -82.339,
-   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/"
+   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42735719",
@@ -353,7 +379,8 @@
    "complex": false,
    "lat": 29.658648,
    "lng": -82.33339,
-   "url": "https://www.zillow.com/homedetails/814-NW-7th-Pl-Gainesville-FL-32601/42735719_zpid/"
+   "url": "https://www.zillow.com/homedetails/814-NW-7th-Pl-Gainesville-FL-32601/42735719_zpid/",
+   "furnished": false
   },
   {
    "zpid": "465856447",
@@ -367,7 +394,8 @@
    "complex": false,
    "lat": 29.655836,
    "lng": -82.3323,
-   "url": "https://www.zillow.com/homedetails/518-NW-7th-Ter-Gainesville-FL-32601/465856447_zpid/"
+   "url": "https://www.zillow.com/homedetails/518-NW-7th-Ter-Gainesville-FL-32601/465856447_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42715893",
@@ -381,7 +409,8 @@
    "complex": false,
    "lat": 29.64917,
    "lng": -82.36295,
-   "url": "https://www.zillow.com/homedetails/318-SW-27th-St-Gainesville-FL-32607/42715893_zpid/"
+   "url": "https://www.zillow.com/homedetails/318-SW-27th-St-Gainesville-FL-32607/42715893_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42736108",
@@ -395,7 +424,8 @@
    "complex": false,
    "lat": 29.655558,
    "lng": -82.35338,
-   "url": "https://www.zillow.com/homedetails/2156-NW-4th-Pl-Gainesville-FL-32603/42736108_zpid/"
+   "url": "https://www.zillow.com/homedetails/2156-NW-4th-Pl-Gainesville-FL-32603/42736108_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42716056",
@@ -409,7 +439,8 @@
    "complex": false,
    "lat": 29.652512,
    "lng": -82.369545,
-   "url": "https://www.zillow.com/homedetails/3126-W-University-Ave-Gainesville-FL-32607/42716056_zpid/"
+   "url": "https://www.zillow.com/homedetails/3126-W-University-Ave-Gainesville-FL-32607/42716056_zpid/",
+   "furnished": false
   },
   {
    "zpid": "138114296",
@@ -423,7 +454,8 @@
    "complex": false,
    "lat": 29.647335,
    "lng": -82.33577,
-   "url": "https://www.zillow.com/homedetails/1015-SW-5th-Ave-Gainesville-FL-32601/138114296_zpid/"
+   "url": "https://www.zillow.com/homedetails/1015-SW-5th-Ave-Gainesville-FL-32601/138114296_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42708940",
@@ -437,7 +469,8 @@
    "complex": false,
    "lat": 29.69799,
    "lng": -82.37154,
-   "url": "https://www.zillow.com/homedetails/4708-NW-33rd-Ter-Gainesville-FL-32605/42708940_zpid/"
+   "url": "https://www.zillow.com/homedetails/4708-NW-33rd-Ter-Gainesville-FL-32605/42708940_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42724882",
@@ -451,7 +484,8 @@
    "complex": false,
    "lat": 29.613556,
    "lng": -82.36725,
-   "url": "https://www.zillow.com/homedetails/2971-SW-40th-Ave-Gainesville-FL-32608/42724882_zpid/"
+   "url": "https://www.zillow.com/homedetails/2971-SW-40th-Ave-Gainesville-FL-32608/42724882_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42731149",
@@ -465,7 +499,8 @@
    "complex": false,
    "lat": 29.660639,
    "lng": -82.331116,
-   "url": "https://www.zillow.com/homedetails/602-NW-9th-Ave-Gainesville-FL-32601/42731149_zpid/"
+   "url": "https://www.zillow.com/homedetails/602-NW-9th-Ave-Gainesville-FL-32601/42731149_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42715763",
@@ -479,7 +514,8 @@
    "complex": false,
    "lat": 29.65063,
    "lng": -82.35928,
-   "url": "https://www.zillow.com/homedetails/2398-SW-2nd-Ave-Gainesville-FL-32607/42715763_zpid/"
+   "url": "https://www.zillow.com/homedetails/2398-SW-2nd-Ave-Gainesville-FL-32607/42715763_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736740",
@@ -493,7 +529,8 @@
    "complex": false,
    "lat": 29.640764,
    "lng": -82.336655,
-   "url": "https://www.zillow.com/homedetails/1079-SW-11th-Ter-Gainesville-FL-32601/42736740_zpid/"
+   "url": "https://www.zillow.com/homedetails/1079-SW-11th-Ter-Gainesville-FL-32601/42736740_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42713308",
@@ -507,7 +544,8 @@
    "complex": false,
    "lat": 29.665022,
    "lng": -82.40404,
-   "url": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/"
+   "url": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716772",
@@ -521,7 +559,8 @@
    "complex": false,
    "lat": 29.6511,
    "lng": -82.38447,
-   "url": "https://www.zillow.com/homedetails/3951-SW-1st-Ave-Gainesville-FL-32607/42716772_zpid/"
+   "url": "https://www.zillow.com/homedetails/3951-SW-1st-Ave-Gainesville-FL-32607/42716772_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42724297",
@@ -535,7 +574,8 @@
    "complex": false,
    "lat": 29.61283,
    "lng": -82.3552,
-   "url": "https://www.zillow.com/homedetails/2253-SW-41st-Ln-Gainesville-FL-32608/42724297_zpid/"
+   "url": "https://www.zillow.com/homedetails/2253-SW-41st-Ln-Gainesville-FL-32608/42724297_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2057827261",
@@ -549,7 +589,8 @@
    "complex": false,
    "lat": 29.609076,
    "lng": -82.398254,
-   "url": "https://www.zillow.com/homedetails/5166-SW-48th-Ln-Gainesville-FL-32608/2057827261_zpid/"
+   "url": "https://www.zillow.com/homedetails/5166-SW-48th-Ln-Gainesville-FL-32608/2057827261_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2057567075",
@@ -563,7 +604,8 @@
    "complex": false,
    "lat": 29.60908,
    "lng": -82.39792,
-   "url": "https://www.zillow.com/homedetails/5124-SW-48th-Ln-Gainesville-FL-32608/2057567075_zpid/"
+   "url": "https://www.zillow.com/homedetails/5124-SW-48th-Ln-Gainesville-FL-32608/2057567075_zpid/",
+   "furnished": false
   },
   {
    "zpid": "338514813",
@@ -577,7 +619,8 @@
    "complex": false,
    "lat": 29.60935,
    "lng": -82.39813,
-   "url": "https://www.zillow.com/homedetails/5147-SW-47th-Ln-Gainesville-FL-32608/338514813_zpid/"
+   "url": "https://www.zillow.com/homedetails/5147-SW-47th-Ln-Gainesville-FL-32608/338514813_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42730707",
@@ -591,7 +634,8 @@
    "complex": false,
    "lat": 29.663216,
    "lng": -82.3533,
-   "url": "https://www.zillow.com/homedetails/1111-NW-22nd-St-Gainesville-FL-32603/42730707_zpid/"
+   "url": "https://www.zillow.com/homedetails/1111-NW-22nd-St-Gainesville-FL-32603/42730707_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42715948",
@@ -605,7 +649,8 @@
    "complex": false,
    "lat": 29.646017,
    "lng": -82.36389,
-   "url": "https://www.zillow.com/homedetails/701-SW-28th-St-Gainesville-FL-32607/42715948_zpid/"
+   "url": "https://www.zillow.com/homedetails/701-SW-28th-St-Gainesville-FL-32607/42715948_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716360",
@@ -619,7 +664,8 @@
    "complex": false,
    "lat": 29.658663,
    "lng": -82.37209,
-   "url": "https://www.zillow.com/homedetails/729-NW-34th-St-Gainesville-FL-32607/42716360_zpid/"
+   "url": "https://www.zillow.com/homedetails/729-NW-34th-St-Gainesville-FL-32607/42716360_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42713354",
@@ -633,7 +679,8 @@
    "complex": false,
    "lat": 29.672445,
    "lng": -82.40095,
-   "url": "https://www.zillow.com/homedetails/2110-NW-54th-Ter-Gainesville-FL-32605/42713354_zpid/"
+   "url": "https://www.zillow.com/homedetails/2110-NW-54th-Ter-Gainesville-FL-32605/42713354_zpid/",
+   "furnished": false
   },
   {
    "zpid": "58880085",
@@ -647,7 +694,8 @@
    "complex": false,
    "lat": 29.634401,
    "lng": -82.379524,
-   "url": "https://www.zillow.com/homedetails/3800-SW-20th-Ave-APT-501-Gainesville-FL-32607/58880085_zpid/"
+   "url": "https://www.zillow.com/homedetails/3800-SW-20th-Ave-APT-501-Gainesville-FL-32607/58880085_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2075698090",
@@ -661,7 +709,8 @@
    "complex": false,
    "lat": 29.653456,
    "lng": -82.32814,
-   "url": "https://www.zillow.com/homedetails/204-NW-3rd-St-Gainesville-FL-32601/2075698090_zpid/"
+   "url": "https://www.zillow.com/homedetails/204-NW-3rd-St-Gainesville-FL-32601/2075698090_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736359",
@@ -675,7 +724,8 @@
    "complex": false,
    "lat": 29.658516,
    "lng": -82.34011,
-   "url": "https://www.zillow.com/homedetails/1410-NW-7th-Rd-Gainesville-FL-32603/42736359_zpid/"
+   "url": "https://www.zillow.com/homedetails/1410-NW-7th-Rd-Gainesville-FL-32603/42736359_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716167",
@@ -689,7 +739,8 @@
    "complex": false,
    "lat": 29.653704,
    "lng": -82.36609,
-   "url": "https://www.zillow.com/homedetails/121-NW-29th-St-Gainesville-FL-32607/42716167_zpid/"
+   "url": "https://www.zillow.com/homedetails/121-NW-29th-St-Gainesville-FL-32607/42716167_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42709463",
@@ -703,7 +754,8 @@
    "complex": false,
    "lat": 29.677248,
    "lng": -82.37201,
-   "url": "https://www.zillow.com/homedetails/3330-NW-27th-Ave-Gainesville-FL-32605/42709463_zpid/"
+   "url": "https://www.zillow.com/homedetails/3330-NW-27th-Ave-Gainesville-FL-32605/42709463_zpid/",
+   "furnished": false
   },
   {
    "zpid": "440003509",
@@ -717,7 +769,8 @@
    "complex": false,
    "lat": 29.654425,
    "lng": -82.34782,
-   "url": "https://www.zillow.com/homedetails/401-413-NW-19th-St-4B-4Ba-1722Sqft-Gainesville-FL-32603/440003509_zpid/"
+   "url": "https://www.zillow.com/homedetails/401-413-NW-19th-St-4B-4Ba-1722Sqft-Gainesville-FL-32603/440003509_zpid/",
+   "furnished": false
   },
   {
    "zpid": "460994940",
@@ -731,7 +784,8 @@
    "complex": false,
    "lat": 29.686373,
    "lng": -82.32278,
-   "url": "https://www.zillow.com/homedetails/3678-NE-1st-Ter-F441e5c20-Gainesville-FL-32609/460994940_zpid/"
+   "url": "https://www.zillow.com/homedetails/3678-NE-1st-Ter-F441e5c20-Gainesville-FL-32609/460994940_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736721",
@@ -745,7 +799,8 @@
    "complex": false,
    "lat": 29.644186,
    "lng": -82.33384,
-   "url": "https://www.zillow.com/homedetails/824-SW-9th-St-Gainesville-FL-32601/42736721_zpid/"
+   "url": "https://www.zillow.com/homedetails/824-SW-9th-St-Gainesville-FL-32601/42736721_zpid/",
+   "furnished": false
   },
   {
    "zpid": "138116466",
@@ -759,7 +814,8 @@
    "complex": false,
    "lat": 29.644531,
    "lng": -82.3343,
-   "url": "https://www.zillow.com/homedetails/918-SW-8th-Ln-Gainesville-FL-32601/138116466_zpid/"
+   "url": "https://www.zillow.com/homedetails/918-SW-8th-Ln-Gainesville-FL-32601/138116466_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42715676",
@@ -773,7 +829,8 @@
    "complex": false,
    "lat": 29.650946,
    "lng": -82.35672,
-   "url": "https://www.zillow.com/homedetails/111-SW-23rd-Ter-Gainesville-FL-32607/42715676_zpid/"
+   "url": "https://www.zillow.com/homedetails/111-SW-23rd-Ter-Gainesville-FL-32607/42715676_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42714383",
@@ -787,7 +844,8 @@
    "complex": false,
    "lat": 29.660204,
    "lng": -82.38587,
-   "url": "https://www.zillow.com/homedetails/4025-NW-9th-Ct-Gainesville-FL-32605/42714383_zpid/"
+   "url": "https://www.zillow.com/homedetails/4025-NW-9th-Ct-Gainesville-FL-32605/42714383_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42715852",
@@ -801,7 +859,8 @@
    "complex": false,
    "lat": 29.653194,
    "lng": -82.36263,
-   "url": "https://www.zillow.com/homedetails/2635-NW-2nd-Ave-Gainesville-FL-32607/42715852_zpid/"
+   "url": "https://www.zillow.com/homedetails/2635-NW-2nd-Ave-Gainesville-FL-32607/42715852_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2067602658",
@@ -815,7 +874,8 @@
    "complex": false,
    "lat": 29.646152,
    "lng": -82.33086,
-   "url": "https://www.zillow.com/homedetails/537-SW-6th-Pl-Gainesville-FL-32601/2067602658_zpid/"
+   "url": "https://www.zillow.com/homedetails/537-SW-6th-Pl-Gainesville-FL-32601/2067602658_zpid/",
+   "furnished": false
   },
   {
    "zpid": "252153591",
@@ -829,7 +889,8 @@
    "complex": false,
    "lat": 29.653425,
    "lng": -82.335266,
-   "url": "https://www.zillow.com/homedetails/136-NW-10th-St-Gainesville-FL-32601/252153591_zpid/"
+   "url": "https://www.zillow.com/homedetails/136-NW-10th-St-Gainesville-FL-32601/252153591_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42724561",
@@ -843,7 +904,8 @@
    "complex": false,
    "lat": 29.61451,
    "lng": -82.370514,
-   "url": "https://www.zillow.com/homedetails/3232-SW-42nd-Pl-Gainesville-FL-32608/42724561_zpid/"
+   "url": "https://www.zillow.com/homedetails/3232-SW-42nd-Pl-Gainesville-FL-32608/42724561_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2067161909",
@@ -857,7 +919,8 @@
    "complex": false,
    "lat": 29.643908,
    "lng": -82.330345,
-   "url": "https://www.zillow.com/homedetails/873-SW-5th-Ter-Gainesville-FL-32601/2067161909_zpid/"
+   "url": "https://www.zillow.com/homedetails/873-SW-5th-Ter-Gainesville-FL-32601/2067161909_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2100315567",
@@ -871,7 +934,8 @@
    "complex": false,
    "lat": 29.660048,
    "lng": -82.33745,
-   "url": "https://www.zillow.com/homedetails/1205-NW-9th-Ave-Gainesville-FL-32601/2100315567_zpid/"
+   "url": "https://www.zillow.com/homedetails/1205-NW-9th-Ave-Gainesville-FL-32601/2100315567_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42736719",
@@ -885,7 +949,8 @@
    "complex": false,
    "lat": 29.643913,
    "lng": -82.33387,
-   "url": "https://www.zillow.com/homedetails/834-SW-9th-St-Gainesville-FL-32601/42736719_zpid/"
+   "url": "https://www.zillow.com/homedetails/834-SW-9th-St-Gainesville-FL-32601/42736719_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716420",
@@ -899,7 +964,8 @@
    "complex": false,
    "lat": 29.656002,
    "lng": -82.37686,
-   "url": "https://www.zillow.com/homedetails/528-NW-36th-St-Gainesville-FL-32607/42716420_zpid/"
+   "url": "https://www.zillow.com/homedetails/528-NW-36th-St-Gainesville-FL-32607/42716420_zpid/",
+   "furnished": false
   },
   {
    "zpid": "250765538",
@@ -913,7 +979,8 @@
    "complex": false,
    "lat": 29.659014,
    "lng": -82.33385,
-   "url": "https://www.zillow.com/homedetails/765-NW-9th-St-Gainesville-FL-32601/250765538_zpid/"
+   "url": "https://www.zillow.com/homedetails/765-NW-9th-St-Gainesville-FL-32601/250765538_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2103319997",
@@ -927,7 +994,8 @@
    "complex": false,
    "lat": 29.650543,
    "lng": -82.33439,
-   "url": "https://www.zillow.com/homedetails/926-SW-2nd-Ave-Gainesville-FL-32601/2103319997_zpid/"
+   "url": "https://www.zillow.com/homedetails/926-SW-2nd-Ave-Gainesville-FL-32601/2103319997_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42736771",
@@ -941,7 +1009,8 @@
    "complex": false,
    "lat": 29.64219,
    "lng": -82.33341,
-   "url": "https://www.zillow.com/homedetails/1000-SW-9th-St-Gainesville-FL-32601/42736771_zpid/"
+   "url": "https://www.zillow.com/homedetails/1000-SW-9th-St-Gainesville-FL-32601/42736771_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42734772",
@@ -955,7 +1024,8 @@
    "complex": false,
    "lat": 29.65804,
    "lng": -82.321556,
-   "url": "https://www.zillow.com/homedetails/406-NE-7th-Ave-Gainesville-FL-32601/42734772_zpid/"
+   "url": "https://www.zillow.com/homedetails/406-NE-7th-Ave-Gainesville-FL-32601/42734772_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42736522",
@@ -969,7 +1039,8 @@
    "complex": false,
    "lat": 29.657875,
    "lng": -82.34883,
-   "url": "https://www.zillow.com/homedetails/1929-NW-7th-Ln-Gainesville-FL-32603/42736522_zpid/"
+   "url": "https://www.zillow.com/homedetails/1929-NW-7th-Ln-Gainesville-FL-32603/42736522_zpid/",
+   "furnished": true
   },
   {
    "zpid": "463021026",
@@ -983,7 +1054,8 @@
    "complex": false,
    "lat": 29.651989,
    "lng": -82.36308,
-   "url": "https://www.zillow.com/homedetails/2710-W-University-Ave-Gainesville-FL-32607/463021026_zpid/"
+   "url": "https://www.zillow.com/homedetails/2710-W-University-Ave-Gainesville-FL-32607/463021026_zpid/",
+   "furnished": false
   },
   {
    "zpid": "2059852752",
@@ -997,7 +1069,8 @@
    "complex": false,
    "lat": 29.607296,
    "lng": -82.39348,
-   "url": "https://www.zillow.com/homedetails/5133-SW-47th-Ln-Gainesville-FL-32608/2059852752_zpid/"
+   "url": "https://www.zillow.com/homedetails/5133-SW-47th-Ln-Gainesville-FL-32608/2059852752_zpid/",
+   "furnished": false
   },
   {
    "zpid": "350567834",
@@ -1011,7 +1084,8 @@
    "complex": false,
    "lat": 29.661154,
    "lng": -82.35331,
-   "url": "https://www.zillow.com/homedetails/925-NW-22nd-St-3-Gainesville-FL-32603/350567834_zpid/"
+   "url": "https://www.zillow.com/homedetails/925-NW-22nd-St-3-Gainesville-FL-32603/350567834_zpid/",
+   "furnished": false
   },
   {
    "zpid": "138114727",
@@ -1025,7 +1099,8 @@
    "complex": false,
    "lat": 29.652874,
    "lng": -82.33311,
-   "url": "https://www.zillow.com/homedetails/20-NW-8th-St-Gainesville-FL-32601/138114727_zpid/"
+   "url": "https://www.zillow.com/homedetails/20-NW-8th-St-Gainesville-FL-32601/138114727_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42716426",
@@ -1039,7 +1114,23 @@
    "complex": false,
    "lat": 29.655434,
    "lng": -82.37849,
-   "url": "https://www.zillow.com/homedetails/508-NW-36th-Dr-Gainesville-FL-32607/42716426_zpid/"
+   "url": "https://www.zillow.com/homedetails/508-NW-36th-Dr-Gainesville-FL-32607/42716426_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "2091972270",
+   "address": "3921 SW 34th St APT 105",
+   "zip": "32608",
+   "price": 2300,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1312,
+   "type": "apartment",
+   "complex": false,
+   "lat": 29.617155,
+   "lng": -82.371254,
+   "url": "https://www.zillow.com/homedetails/3921-SW-34th-St-APT-105-Gainesville-FL-32608/2091972270_zpid/",
+   "furnished": true
   }
  ]
 }
