@@ -14,7 +14,7 @@ export default {
     const snap = readJson(p('data-cache/zillow.json'), null);
     if (!snap || !snap.listings) return null;
     const age = ctx.now - Date.parse(snap.checked);
-    if (age > 3 * 24 * 3600e3) ctx.note(`The Zillow check last ran ${Math.round(age / 86400e3)} days ago`);
+    if (age > 2 * 24 * 3600e3) ctx.warn(`Zillow hasn't been checked in ${Math.round(age / 86400e3)} days`);
     const listings = snap.listings.map((z) => {
       const key = addressKey(z.address);
       return {
