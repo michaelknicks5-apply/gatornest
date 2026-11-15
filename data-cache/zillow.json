@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-15T00:35:00Z",
+ "checked": "2026-11-15T00:43:17Z",
  "complete": true,
- "count": 70,
- "skippedPerRoom": 1,
+ "count": 74,
+ "skippedPerRoom": 3,
  "problems": [],
  "listings": [
   {
@@ -636,6 +636,34 @@
    "url": "https://www.zillow.com/homedetails/2110-NW-54th-Ter-Gainesville-FL-32605/42713354_zpid/"
   },
   {
+   "zpid": "58880085",
+   "address": "3800 SW 20th Ave APT 501",
+   "zip": "32607",
+   "price": 1600,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1225,
+   "type": "apartment",
+   "complex": false,
+   "lat": 29.634401,
+   "lng": -82.379524,
+   "url": "https://www.zillow.com/homedetails/3800-SW-20th-Ave-APT-501-Gainesville-FL-32607/58880085_zpid/"
+  },
+  {
+   "zpid": "2075698090",
+   "address": "204 NW 3rd St",
+   "zip": "32601",
+   "price": 2400,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 1420,
+   "type": "duplex",
+   "complex": false,
+   "lat": 29.653456,
+   "lng": -82.32814,
+   "url": "https://www.zillow.com/homedetails/204-NW-3rd-St-Gainesville-FL-32601/2075698090_zpid/"
+  },
+  {
    "zpid": "42736359",
    "address": "1410 NW 7th Rd",
    "zip": "32603",
@@ -678,6 +706,34 @@
    "url": "https://www.zillow.com/homedetails/3330-NW-27th-Ave-Gainesville-FL-32605/42709463_zpid/"
   },
   {
+   "zpid": "440003509",
+   "address": "401-413 NW 19th St #4B-4Ba-1722Sqft",
+   "zip": "32603",
+   "price": 4560,
+   "beds": 4,
+   "baths": 5,
+   "sqft": 1722,
+   "type": "apartment",
+   "complex": false,
+   "lat": 29.654425,
+   "lng": -82.34782,
+   "url": "https://www.zillow.com/homedetails/401-413-NW-19th-St-4B-4Ba-1722Sqft-Gainesville-FL-32603/440003509_zpid/"
+  },
+  {
+   "zpid": "460994940",
+   "address": "3678 NE 1st Ter #F441e5c20",
+   "zip": "32609",
+   "price": 2350,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 1910,
+   "type": "apartment",
+   "complex": false,
+   "lat": 29.686373,
+   "lng": -82.32278,
+   "url": "https://www.zillow.com/homedetails/3678-NE-1st-Ter-F441e5c20-Gainesville-FL-32609/460994940_zpid/"
+  },
+  {
    "zpid": "42736721",
    "address": "824 SW 9th St",
    "zip": "32601",
@@ -690,20 +746,6 @@
    "lat": 29.644186,
    "lng": -82.33384,
    "url": "https://www.zillow.com/homedetails/824-SW-9th-St-Gainesville-FL-32601/42736721_zpid/"
-  },
-  {
-   "zpid": "2077341122",
-   "address": "622 NW 3rd Ave #7",
-   "zip": "32601",
-   "price": 3750,
-   "beds": 5,
-   "baths": 5,
-   "sqft": 1764,
-   "type": "townhouse",
-   "complex": false,
-   "lat": 29.654167,
-   "lng": -82.3316,
-   "url": "https://www.zillow.com/homedetails/622-NW-3rd-Ave-7-Gainesville-FL-32601/2077341122_zpid/"
   },
   {
    "zpid": "138116466",
@@ -956,6 +998,20 @@
    "lat": 29.607296,
    "lng": -82.39348,
    "url": "https://www.zillow.com/homedetails/5133-SW-47th-Ln-Gainesville-FL-32608/2059852752_zpid/"
+  },
+  {
+   "zpid": "350567834",
+   "address": "925 NW 22nd St #3",
+   "zip": "32603",
+   "price": 5990,
+   "beds": 5,
+   "baths": 3,
+   "sqft": 2979,
+   "type": "apartment",
+   "complex": false,
+   "lat": 29.661154,
+   "lng": -82.35331,
+   "url": "https://www.zillow.com/homedetails/925-NW-22nd-St-3-Gainesville-FL-32603/350567834_zpid/"
   },
   {
    "zpid": "138114727",
