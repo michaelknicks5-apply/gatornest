@@ -1754,6 +1754,11 @@
     "label": "good",
     "why": "$1,750 is 36% below about $2,725 for similar 4-bed listings.",
     "comps": 207
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
