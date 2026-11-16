@@ -224,5 +224,12 @@
   "id": "zw-949-sw-13th-st",
   "address": "949 SW 13th St",
   "price": 5277
+ },
+ {
+  "t": "2026-11-16T20:29:17.975Z",
+  "type": "gone",
+  "id": "rc-303-nw-34th-dr",
+  "address": "303 NW 34th Dr",
+  "price": 1750
  }
 ]
