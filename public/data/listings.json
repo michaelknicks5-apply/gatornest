@@ -34952,6 +34952,98 @@
     "label": "high",
     "why": "$3,200 is 15% above about $2,775 for similar 4-bed listings.",
     "comps": 210
+   },
+   "travel": {
+    "deltachi": {
+     "mi": 1.11,
+     "walk": {
+      "min": 29,
+      "mi": 1.53
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.54
+     },
+     "drive": {
+      "min": 9,
+      "mi": 1.78
+     }
+    },
+    "midtown": {
+     "mi": 0.26,
+     "walk": {
+      "min": 7,
+      "mi": 0.37
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.37
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.43
+     }
+    },
+    "cove": {
+     "mi": 0.94,
+     "walk": {
+      "min": 24,
+      "mi": 1.24
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.25
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.25
+     }
+    },
+    "bostick": {
+     "mi": 1.41,
+     "walk": {
+      "min": 33,
+      "mi": 1.7
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.74
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.73
+     }
+    },
+    "marston": {
+     "mi": 0.58,
+     "walk": {
+      "min": 13,
+      "mi": 0.7
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.73
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.06
+     }
+    },
+    "macdintons": {
+     "mi": 0.31,
+     "walk": {
+      "min": 8,
+      "mi": 0.43
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.43
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.51
+     }
+    }
    }
   }
  },
@@ -35034,6 +35126,98 @@
     "label": "fair",
     "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
     "comps": 210
+   },
+   "travel": {
+    "deltachi": {
+     "mi": 0.9,
+     "walk": {
+      "min": 23,
+      "mi": 1.2
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.21
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.46
+     }
+    },
+    "midtown": {
+     "mi": 0.11,
+     "walk": {
+      "min": 3,
+      "mi": 0.15
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.23
+     },
+     "drive": {
+      "min": 1,
+      "mi": 0.15
+     }
+    },
+    "cove": {
+     "mi": 0.73,
+     "walk": {
+      "min": 18,
+      "mi": 0.91
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.95
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.96
+     }
+    },
+    "bostick": {
+     "mi": 1.2,
+     "walk": {
+      "min": 27,
+      "mi": 1.38
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.41
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.41
+     }
+    },
+    "marston": {
+     "mi": 0.49,
+     "walk": {
+      "min": 12,
+      "mi": 0.61
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.64
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.64
+     }
+    },
+    "macdintons": {
+     "mi": 0.16,
+     "walk": {
+      "min": 4,
+      "mi": 0.19
+     },
+     "bike": {
+      "min": 1,
+      "mi": 0.19
+     },
+     "drive": {
+      "min": 1,
+      "mi": 0.19
+     }
+    }
    }
   }
  },
