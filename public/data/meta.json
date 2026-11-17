@@ -12,11 +12,11 @@
   "day": "2026-11-17",
   "directions": 150
  },
- "lastRun": "2026-11-17T22:24:18.030Z",
+ "lastRun": "2026-11-17T23:45:28.931Z",
  "lastFetch": "2026-11-17T12:45:44.340Z",
  "counts": {
-  "active": 222,
-  "gone": 10
+  "active": 223,
+  "gone": 11
  },
  "sources": {
   "rentcast": {

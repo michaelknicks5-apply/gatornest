@@ -253,5 +253,42 @@
   "id": "zw-1531-nw-6th-ave",
   "address": "1531 NW 6th Ave",
   "price": 3200
+ },
+ {
+  "t": "2026-11-17T23:45:28.931Z",
+  "type": "new",
+  "id": "zw-801-nw-4th-pl",
+  "address": "801 NW 4th Pl",
+  "price": 3950
+ },
+ {
+  "t": "2026-11-17T23:45:28.931Z",
+  "type": "new",
+  "id": "zw-631-nw-36th-dr",
+  "address": "631 NW 36th Dr",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-17T23:45:28.931Z",
+  "type": "price",
+  "id": "zw-926-sw-2nd-ave",
+  "address": "926 SW 2nd Ave",
+  "from": 7624,
+  "price": 6899
+ },
+ {
+  "t": "2026-11-17T23:45:28.931Z",
+  "type": "price",
+  "id": "zw-1929-nw-7th-ln",
+  "address": "1929 NW 7th Ln",
+  "from": 10464,
+  "price": 8315
+ },
+ {
+  "t": "2026-11-17T23:45:28.931Z",
+  "type": "gone",
+  "id": "zw-1429-nw-7th-ave",
+  "address": "1429 NW 7th Ave",
+  "price": 3300
  }
 ]
