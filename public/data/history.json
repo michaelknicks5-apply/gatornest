@@ -231,5 +231,27 @@
   "id": "rc-303-nw-34th-dr",
   "address": "303 NW 34th Dr",
   "price": 1750
+ },
+ {
+  "t": "2026-11-17T12:45:44.340Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3300,
+  "price": 3750
+ },
+ {
+  "t": "2026-11-17T12:45:44.340Z",
+  "type": "new",
+  "id": "zw-1740-nw-3rd-pl-unit-9",
+  "address": "1740 NW 3rd Pl APT 9",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-17T12:45:44.340Z",
+  "type": "new",
+  "id": "zw-1531-nw-6th-ave",
+  "address": "1531 NW 6th Ave",
+  "price": 3200
  }
 ]

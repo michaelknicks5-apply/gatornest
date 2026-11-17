@@ -2,28 +2,29 @@
  "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 5,
-  "lastFetch": "2026-11-16T20:29:17.975Z",
+  "used": 6,
+  "lastFetch": "2026-11-17T12:45:44.340Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": "2026-11-17T12:10:34.025Z"
+  "nextFetch": null
  },
  "ors": {
   "day": "2026-11-17",
-  "directions": 144
+  "directions": 150
  },
- "lastRun": "2026-11-17T03:54:08.135Z",
- "lastFetch": "2026-11-16T20:29:17.975Z",
+ "lastRun": "2026-11-17T12:45:44.340Z",
+ "lastFetch": "2026-11-17T12:45:44.340Z",
  "counts": {
-  "active": 220,
+  "active": 222,
   "gone": 10
  },
  "sources": {
   "rentcast": {
-   "skipped": true
+   "count": 193,
+   "requests": 1
   },
   "zillow": {
-   "count": 73,
+   "count": 75,
    "requests": 0
   },
   "manual": {
@@ -32,5 +33,7 @@
   }
  },
  "warnings": [],
- "notes": []
+ "notes": [
+  "Travel times will fill in next run (timed out after 25s: api.openrouteservice.org)"
+ ]
 }
