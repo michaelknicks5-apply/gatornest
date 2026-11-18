@@ -2,25 +2,26 @@
  "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 7,
-  "lastFetch": "2026-11-18T04:21:51.587Z",
+  "used": 8,
+  "lastFetch": "2026-11-18T21:56:59.605Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": "2026-11-18T20:02:20.229Z"
+  "nextFetch": null
  },
  "ors": {
   "day": "2026-11-18",
   "directions": 150
  },
- "lastRun": "2026-11-18T13:58:48.536Z",
- "lastFetch": "2026-11-18T04:21:51.587Z",
+ "lastRun": "2026-11-18T21:56:59.605Z",
+ "lastFetch": "2026-11-18T21:56:59.605Z",
  "counts": {
   "active": 219,
   "gone": 16
  },
  "sources": {
   "rentcast": {
-   "skipped": true
+   "count": 189,
+   "requests": 1
   },
   "zillow": {
    "count": 75,
