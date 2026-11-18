@@ -290,5 +290,71 @@
   "id": "zw-1429-nw-7th-ave",
   "address": "1429 NW 7th Ave",
   "price": 3300
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3750,
+  "price": 3300
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "new",
+  "id": "rc-1915-sw-42nd-ave",
+  "address": "1915 SW 42nd Ave",
+  "price": 1950
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "price",
+  "id": "rc-204-nw-3rd-st",
+  "address": "204 NW 3rd St",
+  "from": 2400,
+  "price": 2800
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "price",
+  "id": "rc-4342-sw-20th-ln",
+  "address": "4342 SW 20th Ln",
+  "from": 1750,
+  "price": 1650
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "gone",
+  "id": "rc-1109-ne-5th-pl",
+  "address": "1109 NE 5th Pl",
+  "price": 1750
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "gone",
+  "id": "rc-136-nw-10th-st",
+  "address": "136 NW 10th St",
+  "price": 4500
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "gone",
+  "id": "rc-7-sw-26th-st",
+  "address": "7 SW 26th St",
+  "price": 4000
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "gone",
+  "id": "rc-701-sw-28th-st",
+  "address": "701 SW 28th St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-18T04:21:51.587Z",
+  "type": "gone",
+  "id": "rc-727-nw-4th-ave",
+  "address": "727 NW 4th Ave",
+  "price": 1975
  }
 ]
