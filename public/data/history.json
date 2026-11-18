@@ -356,5 +356,41 @@
   "id": "rc-727-nw-4th-ave",
   "address": "727 NW 4th Ave",
   "price": 1975
+ },
+ {
+  "t": "2026-11-18T23:45:40.653Z",
+  "type": "new",
+  "id": "zw-835-sw-9th-st",
+  "address": "835 SW 9th St",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-18T23:45:40.653Z",
+  "type": "price",
+  "id": "zw-20-nw-8th-st",
+  "address": "20 NW 8th St",
+  "from": 8088,
+  "price": 7800
+ },
+ {
+  "t": "2026-11-18T23:45:40.653Z",
+  "type": "gone",
+  "id": "zw-2398-sw-2nd-ave",
+  "address": "2398 SW 2nd Ave",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-18T23:45:40.653Z",
+  "type": "gone",
+  "id": "zw-508-nw-36th-dr",
+  "address": "508 NW 36th Dr",
+  "price": 2400
+ },
+ {
+  "t": "2026-11-18T23:45:40.653Z",
+  "type": "gone",
+  "id": "zw-812-nw-4th-pl",
+  "address": "812 NW 4th Pl",
+  "price": 3000
  }
 ]
