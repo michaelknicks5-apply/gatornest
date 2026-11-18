@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17T23:45:00Z",
+ "checked": "2026-11-18T12:44:00Z",
  "complete": true,
  "count": 75,
  "furnished": 10,
@@ -68,21 +68,6 @@
    "furnished": false
   },
   {
-   "zpid": "2059620429",
-   "address": "801 NW 4th Pl",
-   "zip": "32601",
-   "price": 3950,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1800,
-   "type": "house",
-   "complex": false,
-   "lat": 29.655035,
-   "lng": -82.33294,
-   "url": "https://www.zillow.com/homedetails/801-NW-4th-Pl-Gainesville-FL-32601/2059620429_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42735635",
    "address": "812 NW 4th Pl",
    "zip": "32601",
@@ -98,6 +83,21 @@
    "furnished": false
   },
   {
+   "zpid": "2059620429",
+   "address": "801 NW 4th Pl",
+   "zip": "32601",
+   "price": 3950,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1800,
+   "type": "house",
+   "complex": false,
+   "lat": 29.655035,
+   "lng": -82.33294,
+   "url": "https://www.zillow.com/homedetails/801-NW-4th-Pl-Gainesville-FL-32601/2059620429_zpid/",
+   "furnished": false
+  },
+  {
    "zpid": "446260303",
    "address": "510 SW 5th St",
    "zip": "32601",
@@ -110,21 +110,6 @@
    "lat": 29.647131,
    "lng": -82.329575,
    "url": "https://www.zillow.com/homedetails/510-SW-5th-St-Gainesville-FL-32601/446260303_zpid/",
-   "furnished": false
-  },
-  {
-   "zpid": "82033255",
-   "address": "753 NW 8th St",
-   "zip": "32601",
-   "price": 2800,
-   "beds": 4,
-   "baths": 2,
-   "sqft": null,
-   "type": "house",
-   "complex": false,
-   "lat": 29.658958,
-   "lng": -82.3326,
-   "url": "https://www.zillow.com/homedetails/753-NW-8th-St-Gainesville-FL-32601/82033255_zpid/",
    "furnished": false
   },
   {
@@ -170,6 +155,21 @@
    "lat": 29.645262,
    "lng": -82.32885,
    "url": "https://www.zillow.com/homedetails/394-SW-7th-Pl-Gainesville-FL-32601/466201581_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "82033255",
+   "address": "753 NW 8th St",
+   "zip": "32601",
+   "price": 2800,
+   "beds": 4,
+   "baths": 2,
+   "sqft": null,
+   "type": "house",
+   "complex": false,
+   "lat": 29.658958,
+   "lng": -82.3326,
+   "url": "https://www.zillow.com/homedetails/753-NW-8th-St-Gainesville-FL-32601/82033255_zpid/",
    "furnished": false
   },
   {
@@ -338,21 +338,6 @@
    "furnished": false
   },
   {
-   "zpid": "42736675",
-   "address": "949 SW 13th St",
-   "zip": "32601",
-   "price": 5250,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 2152,
-   "type": "house",
-   "complex": false,
-   "lat": 29.642334,
-   "lng": -82.339,
-   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
-   "furnished": true
-  },
-  {
    "zpid": "42735719",
    "address": "814 NW 7th Pl",
    "zip": "32601",
@@ -383,10 +368,25 @@
    "furnished": false
   },
   {
+   "zpid": "42736675",
+   "address": "949 SW 13th St",
+   "zip": "32601",
+   "price": 5234,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 2152,
+   "type": "house",
+   "complex": false,
+   "lat": 29.642334,
+   "lng": -82.339,
+   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
+   "furnished": true
+  },
+  {
    "zpid": "42715893",
    "address": "318 SW 27th St",
    "zip": "32607",
-   "price": 5886,
+   "price": 5807,
    "beds": 4,
    "baths": 2,
    "sqft": 1614,
@@ -818,21 +818,6 @@
    "furnished": false
   },
   {
-   "zpid": "138116466",
-   "address": "918 SW 8th Ln",
-   "zip": "32601",
-   "price": 5250,
-   "beds": 6,
-   "baths": 2,
-   "sqft": 2200,
-   "type": "house",
-   "complex": false,
-   "lat": 29.644531,
-   "lng": -82.3343,
-   "url": "https://www.zillow.com/homedetails/918-SW-8th-Ln-Gainesville-FL-32601/138116466_zpid/",
-   "furnished": true
-  },
-  {
    "zpid": "42715676",
    "address": "111 SW 23rd Ter",
    "zip": "32607",
@@ -846,6 +831,21 @@
    "lng": -82.35672,
    "url": "https://www.zillow.com/homedetails/111-SW-23rd-Ter-Gainesville-FL-32607/42715676_zpid/",
    "furnished": false
+  },
+  {
+   "zpid": "138116466",
+   "address": "918 SW 8th Ln",
+   "zip": "32601",
+   "price": 5250,
+   "beds": 6,
+   "baths": 2,
+   "sqft": 2200,
+   "type": "house",
+   "complex": false,
+   "lat": 29.644531,
+   "lng": -82.3343,
+   "url": "https://www.zillow.com/homedetails/918-SW-8th-Ln-Gainesville-FL-32601/138116466_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42714383",
@@ -938,21 +938,6 @@
    "furnished": false
   },
   {
-   "zpid": "42736719",
-   "address": "834 SW 9th St",
-   "zip": "32601",
-   "price": 8400,
-   "beds": 6,
-   "baths": 7,
-   "sqft": 2673,
-   "type": "house",
-   "complex": false,
-   "lat": 29.643913,
-   "lng": -82.33387,
-   "url": "https://www.zillow.com/homedetails/834-SW-9th-St-Gainesville-FL-32601/42736719_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42716420",
    "address": "528 NW 36th St",
    "zip": "32607",
@@ -980,6 +965,21 @@
    "lat": 29.659014,
    "lng": -82.33385,
    "url": "https://www.zillow.com/homedetails/765-NW-9th-St-Gainesville-FL-32601/250765538_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42736719",
+   "address": "834 SW 9th St",
+   "zip": "32601",
+   "price": 8400,
+   "beds": 6,
+   "baths": 7,
+   "sqft": 2673,
+   "type": "house",
+   "complex": false,
+   "lat": 29.643913,
+   "lng": -82.33387,
+   "url": "https://www.zillow.com/homedetails/834-SW-9th-St-Gainesville-FL-32601/42736719_zpid/",
    "furnished": false
   },
   {
@@ -1016,7 +1016,7 @@
    "zpid": "42734772",
    "address": "406 NE 7th Ave",
    "zip": "32601",
-   "price": 12351,
+   "price": 12315,
    "beds": 5,
    "baths": 3,
    "sqft": 2992,
@@ -1031,7 +1031,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8315,
+   "price": 8401,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
