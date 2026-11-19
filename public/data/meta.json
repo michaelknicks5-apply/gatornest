@@ -12,7 +12,7 @@
   "day": "2026-11-19",
   "directions": 150
  },
- "lastRun": "2026-11-19T03:28:19.261Z",
+ "lastRun": "2026-11-19T12:45:23.849Z",
  "lastFetch": "2026-11-18T21:56:59.605Z",
  "counts": {
   "active": 217,
@@ -32,7 +32,5 @@
   }
  },
  "warnings": [],
- "notes": [
-  "Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)"
- ]
+ "notes": []
 }
