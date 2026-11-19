@@ -41,7 +41,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-02T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -215,7 +215,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -390,7 +390,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -572,7 +572,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -752,7 +752,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -926,7 +926,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1106,7 +1106,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1280,7 +1280,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1454,7 +1454,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1630,7 +1630,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1812,7 +1812,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-20T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1986,7 +1986,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2160,7 +2160,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-27T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2293,6 +2293,181 @@
   }
  },
  {
+  "id": "rc-1167-nw-50th-ter",
+  "key": "1167 nw 50th ter",
+  "source": "rentcast",
+  "sourceId": "1167-Nw-50th-Ter,-Gainesville,-FL-32605",
+  "address": "1167 NW 50th Ter",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32605",
+  "lat": 29.662952,
+  "lng": -82.396281,
+  "price": 2950,
+  "beds": 3,
+  "baths": 2.5,
+  "sqft": 2015,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 2007,
+  "listedDate": "2026-11-18T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Jenifer Bullard",
+   "office": "PEPINE PROPERTY MANAGEMENT, LLC",
+   "phone": "9048312405",
+   "email": "jenifer@pepinepropertymanagement.com",
+   "website": "http://pepinerealty.com"
+  },
+  "url": null,
+  "status": "active",
+  "goneSince": null,
+  "firstSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-19T21:34:32.817Z",
+    "price": 2950
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 2.64,
+     "walk": {
+      "min": 61,
+      "mi": 3.14
+     },
+     "bike": {
+      "min": 18,
+      "mi": 3.36
+     },
+     "drive": {
+      "min": 11,
+      "mi": 3.71
+     }
+    },
+    "midtown": {
+     "mi": 3.13,
+     "walk": {
+      "min": 70,
+      "mi": 3.62
+     },
+     "bike": {
+      "min": 21,
+      "mi": 3.81
+     },
+     "drive": {
+      "min": 11,
+      "mi": 3.93
+     }
+    },
+    "cove": {
+     "mi": 2.47,
+     "walk": {
+      "min": 56,
+      "mi": 2.89
+     },
+     "bike": {
+      "min": 16,
+      "mi": 2.97
+     },
+     "drive": {
+      "min": 9,
+      "mi": 3.18
+     }
+    },
+    "bostick": {
+     "mi": 2.07,
+     "walk": {
+      "min": 49,
+      "mi": 2.53
+     },
+     "bike": {
+      "min": 14,
+      "mi": 2.54
+     },
+     "drive": {
+      "min": 8,
+      "mi": 2.92
+     }
+    },
+    "marston": {
+     "mi": 3.32,
+     "walk": {
+      "min": 74,
+      "mi": 3.84
+     },
+     "bike": {
+      "min": 23,
+      "mi": 4.23
+     },
+     "drive": {
+      "min": 12,
+      "mi": 4.22
+     }
+    },
+    "macdintons": {
+     "mi": 3.13,
+     "walk": {
+      "min": 69,
+      "mi": 3.56
+     },
+     "bike": {
+      "min": 21,
+      "mi": 3.87
+     },
+     "drive": {
+      "min": 11,
+      "mi": 3.87
+     }
+    }
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.83
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.78
+    },
+    "gas": {
+     "name": "Circle K Gas Station",
+     "mi": 0.86
+    },
+    "bus": {
+     "name": "Newberry Road @ Northwest 8th Avenue",
+     "mi": 0.32
+    }
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": -0.475,
+    "label": "high",
+    "why": "$2,950 is 48% above about $2,000 for similar 3-bed listings.",
+    "comps": 192
+   }
+  }
+ },
+ {
   "id": "rc-1205-nw-9th-ave",
   "key": "1205 nw 9th ave",
   "source": "rentcast",
@@ -2334,7 +2509,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2510,7 +2685,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2690,7 +2865,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-21T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2866,7 +3041,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3040,7 +3215,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-23T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3214,7 +3389,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3388,7 +3563,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3562,7 +3737,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3742,7 +3917,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3916,7 +4091,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-09T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4090,7 +4265,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4270,7 +4445,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4452,7 +4627,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4632,7 +4807,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4814,7 +4989,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4994,7 +5169,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5174,7 +5349,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5348,7 +5523,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-21T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5528,7 +5703,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5708,7 +5883,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5888,7 +6063,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6021,186 +6196,6 @@
   }
  },
  {
-  "id": "rc-1617-nw-7th-pl",
-  "key": "1617 nw 7th pl",
-  "source": "rentcast",
-  "sourceId": "1617-Nw-7th-Pl,-Gainesville,-FL-32603",
-  "address": "1617 NW 7th Pl",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32603",
-  "lat": 29.658219,
-  "lng": -82.343726,
-  "price": 2250,
-  "beds": 3,
-  "baths": 1,
-  "sqft": 1398,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 1947,
-  "listedDate": "2026-09-07T00:00:00.000Z",
-  "details": {
-   "furnished": null,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": {
-   "name": "Courtney Davis",
-   "office": "ABSOLUTE REALTY GROUP, INC.",
-   "phone": "4074938329",
-   "email": "courtessa@aol.com",
-   "website": null
-  },
-  "url": null,
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-09-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 2250
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.15,
-     "walk": {
-      "min": 31,
-      "mi": 1.59
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.6
-     },
-     "drive": {
-      "min": 8,
-      "mi": 2.16
-     }
-    },
-    "midtown": {
-     "mi": 0.35,
-     "walk": {
-      "min": 8,
-      "mi": 0.43
-     },
-     "bike": {
-      "min": 3,
-      "mi": 0.43
-     },
-     "drive": {
-      "min": 3,
-      "mi": 0.5
-     }
-    },
-    "cove": {
-     "mi": 0.95,
-     "walk": {
-      "min": 25,
-      "mi": 1.3
-     },
-     "bike": {
-      "min": 8,
-      "mi": 1.47
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.45
-     }
-    },
-    "bostick": {
-     "mi": 1.41,
-     "walk": {
-      "min": 34,
-      "mi": 1.76
-     },
-     "bike": {
-      "min": 11,
-      "mi": 1.99
-     },
-     "drive": {
-      "min": 6,
-      "mi": 2.01
-     }
-    },
-    "marston": {
-     "mi": 0.7,
-     "walk": {
-      "min": 16,
-      "mi": 0.82
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.85
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.02
-     }
-    },
-    "macdintons": {
-     "mi": 0.41,
-     "walk": {
-      "min": 10,
-      "mi": 0.49
-     },
-     "bike": {
-      "min": 3,
-      "mi": 0.49
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.57
-     }
-    }
-   },
-   "deal": {
-    "estRent": 2000,
-    "pct": -0.125,
-    "label": "high",
-    "why": "$2,250 is 13% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.44
-    },
-    "gym": {
-     "name": "Orangetheory Fitness",
-     "mi": 0.47
-    },
-    "gas": {
-     "name": "GATE",
-     "mi": 0.28
-    },
-    "bus": {
-     "name": "Northwest 17th Street @ Northwest 7th Avenue",
-     "mi": 0.07
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   }
-  }
- },
- {
   "id": "rc-1620-nw-23rd-st",
   "key": "1620 nw 23rd st",
   "source": "rentcast",
@@ -6242,7 +6237,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6416,7 +6411,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-30T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6590,7 +6585,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2023-09-04T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6764,7 +6759,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6938,7 +6933,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7112,7 +7107,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7292,7 +7287,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7466,7 +7461,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-02-03T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7640,7 +7635,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-18T04:21:51.587Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-18T04:21:51.587Z",
@@ -7820,7 +7815,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8000,7 +7995,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8180,7 +8175,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8366,7 +8361,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8546,7 +8541,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8726,7 +8721,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8906,7 +8901,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9086,7 +9081,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9266,7 +9261,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9446,7 +9441,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9626,7 +9621,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9806,7 +9801,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9982,7 +9977,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10158,7 +10153,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10334,7 +10329,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10508,7 +10503,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10682,7 +10677,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10862,7 +10857,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-18T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11031,12 +11026,18 @@
   },
   "description": null,
   "photos": [],
-  "contact": null,
+  "contact": {
+   "name": "Jill Henry",
+   "office": "Coldwell Banker Realty",
+   "phone": "4079213419",
+   "email": "jillsellsseminole@gmail.com",
+   "website": "https://www.coldwellbankerhomes.com//fl/winter-park/office/winter-park/oid_1206/"
+  },
   "url": null,
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11210,7 +11211,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11388,7 +11389,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11568,7 +11569,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11742,7 +11743,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11885,7 +11886,7 @@
   "zip": "32608",
   "lat": 29.630103,
   "lng": -82.362561,
-  "price": 599,
+  "price": 699,
   "beds": 4,
   "baths": 2,
   "sqft": 188,
@@ -11916,11 +11917,15 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
     "price": 599
+   },
+   {
+    "date": "2026-11-19T21:34:32.817Z",
+    "price": 699
    }
   ],
   "enrich": {
@@ -12018,9 +12023,9 @@
    },
    "deal": {
     "estRent": 2775,
-    "pct": 0.784,
+    "pct": 0.748,
     "label": "good",
-    "why": "$599 is 78% below about $2,775 for similar 4-bed listings.",
+    "why": "$699 is 75% below about $2,775 for similar 4-bed listings.",
     "comps": 205
    },
    "nearby": {
@@ -12091,7 +12096,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12266,7 +12271,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12440,7 +12445,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12620,7 +12625,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12794,7 +12799,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12970,7 +12975,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13150,7 +13155,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-02T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13330,7 +13335,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13504,7 +13509,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13679,7 +13684,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13853,7 +13858,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-01-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14033,7 +14038,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-05T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14213,7 +14218,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14387,7 +14392,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14569,7 +14574,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14749,7 +14754,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14923,7 +14928,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15099,7 +15104,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15279,7 +15284,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15459,7 +15464,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15635,7 +15640,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15809,7 +15814,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15989,7 +15994,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16169,7 +16174,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16343,7 +16348,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16524,7 +16529,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16698,7 +16703,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16872,7 +16877,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17046,7 +17051,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17226,7 +17231,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17408,7 +17413,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-03T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17583,7 +17588,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17759,7 +17764,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17941,7 +17946,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18115,7 +18120,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18290,7 +18295,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18472,7 +18477,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18654,7 +18659,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18834,7 +18839,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-20T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19009,7 +19014,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19189,7 +19194,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19363,7 +19368,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-08-28T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19539,7 +19544,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19719,7 +19724,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19893,7 +19898,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20075,7 +20080,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-27T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20255,7 +20260,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20435,7 +20440,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-05T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20615,7 +20620,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-05-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20799,7 +20804,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-26T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20973,7 +20978,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21147,7 +21152,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21327,7 +21332,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21501,7 +21506,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21681,7 +21686,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21861,7 +21866,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-04T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22041,7 +22046,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22221,7 +22226,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-14T17:08:16.245Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-14T17:08:16.245Z",
@@ -22395,7 +22400,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22569,7 +22574,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22743,7 +22748,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22917,7 +22922,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23093,7 +23098,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-20T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23267,7 +23272,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23449,7 +23454,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23625,7 +23630,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23807,7 +23812,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-22T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23989,7 +23994,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24163,7 +24168,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24339,7 +24344,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24515,7 +24520,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24691,7 +24696,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24871,7 +24876,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25051,7 +25056,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25231,7 +25236,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25374,7 +25379,7 @@
   "zip": "32603",
   "lat": 29.656542,
   "lng": -82.341614,
-  "price": 1900,
+  "price": 2000,
   "beds": 3,
   "baths": 1,
   "sqft": 1208,
@@ -25411,11 +25416,15 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
     "price": 1900
+   },
+   {
+    "date": "2026-11-19T21:34:32.817Z",
+    "price": 2000
    }
   ],
   "enrich": {
@@ -25518,9 +25527,9 @@
    },
    "deal": {
     "estRent": 2000,
-    "pct": 0.05,
+    "pct": 0,
     "label": "fair",
-    "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
+    "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
     "comps": 192
    },
    "nearby": {
@@ -25585,7 +25594,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25767,7 +25776,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25941,7 +25950,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26115,7 +26124,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26289,7 +26298,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26463,7 +26472,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26637,7 +26646,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26811,7 +26820,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26985,7 +26994,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27161,7 +27170,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27335,7 +27344,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27515,7 +27524,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27689,7 +27698,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27871,7 +27880,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28051,7 +28060,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28231,7 +28240,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28411,7 +28420,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28585,7 +28594,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28759,7 +28768,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-01-16T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28940,7 +28949,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29116,7 +29125,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29292,7 +29301,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29468,7 +29477,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29644,7 +29653,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29818,7 +29827,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29992,7 +30001,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30168,7 +30177,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30342,7 +30351,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30518,7 +30527,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30692,7 +30701,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30868,7 +30877,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31042,7 +31051,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31218,7 +31227,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31394,7 +31403,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31570,7 +31579,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31746,7 +31755,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31928,7 +31937,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32102,7 +32111,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32278,7 +32287,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32459,7 +32468,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-14T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32634,7 +32643,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32808,7 +32817,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-11T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32989,7 +32998,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33163,7 +33172,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-29T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33339,7 +33348,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -39242,6 +39251,186 @@
     "bus": {
      "name": "Bus stop",
      "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   }
+  }
+ },
+ {
+  "id": "rc-1617-nw-7th-pl",
+  "key": "1617 nw 7th pl",
+  "source": "rentcast",
+  "sourceId": "1617-Nw-7th-Pl,-Gainesville,-FL-32603",
+  "address": "1617 NW 7th Pl",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.658219,
+  "lng": -82.343726,
+  "price": 2250,
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1398,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1947,
+  "listedDate": "2026-09-07T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Courtney Davis",
+   "office": "ABSOLUTE REALTY GROUP, INC.",
+   "phone": "4074938329",
+   "email": "courtessa@aol.com",
+   "website": null
+  },
+  "url": null,
+  "status": "gone",
+  "goneSince": "2026-11-19T21:34:32.817Z",
+  "firstSeen": "2026-09-07T00:00:00.000Z",
+  "lastSeen": "2026-11-18T21:56:59.605Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 2250
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.15,
+     "walk": {
+      "min": 31,
+      "mi": 1.59
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.6
+     },
+     "drive": {
+      "min": 8,
+      "mi": 2.16
+     }
+    },
+    "midtown": {
+     "mi": 0.35,
+     "walk": {
+      "min": 8,
+      "mi": 0.43
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.43
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.5
+     }
+    },
+    "cove": {
+     "mi": 0.95,
+     "walk": {
+      "min": 25,
+      "mi": 1.3
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.47
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.45
+     }
+    },
+    "bostick": {
+     "mi": 1.41,
+     "walk": {
+      "min": 34,
+      "mi": 1.76
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.99
+     },
+     "drive": {
+      "min": 6,
+      "mi": 2.01
+     }
+    },
+    "marston": {
+     "mi": 0.7,
+     "walk": {
+      "min": 16,
+      "mi": 0.82
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.85
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.02
+     }
+    },
+    "macdintons": {
+     "mi": 0.41,
+     "walk": {
+      "min": 10,
+      "mi": 0.49
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.49
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.57
+     }
+    }
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": -0.125,
+    "label": "high",
+    "why": "$2,250 is 13% above about $2,000 for similar 3-bed listings.",
+    "comps": 193
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.44
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.47
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.28
+    },
+    "bus": {
+     "name": "Northwest 17th Street @ Northwest 7th Avenue",
+     "mi": 0.07
     }
    },
    "flood": {

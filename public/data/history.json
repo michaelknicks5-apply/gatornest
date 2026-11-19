@@ -400,5 +400,35 @@
   "address": "949 SW 13th St",
   "from": 5383,
   "price": 5209
+ },
+ {
+  "t": "2026-11-19T21:34:32.817Z",
+  "type": "price",
+  "id": "rc-2601-sw-archer-rd",
+  "address": "2601 SW Archer Rd",
+  "from": 599,
+  "price": 699
+ },
+ {
+  "t": "2026-11-19T21:34:32.817Z",
+  "type": "price",
+  "id": "rc-615-nw-15th-st",
+  "address": "615 NW 15th St",
+  "from": 1900,
+  "price": 2000
+ },
+ {
+  "t": "2026-11-19T21:34:32.817Z",
+  "type": "new",
+  "id": "rc-1167-nw-50th-ter",
+  "address": "1167 NW 50th Ter",
+  "price": 2950
+ },
+ {
+  "t": "2026-11-19T21:34:32.817Z",
+  "type": "gone",
+  "id": "rc-1617-nw-7th-pl",
+  "address": "1617 NW 7th Pl",
+  "price": 2250
  }
 ]
