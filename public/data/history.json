@@ -437,5 +437,26 @@
   "id": "zw-1079-sw-11th-ter",
   "address": "1079 SW 11th Ter",
   "price": 3400
+ },
+ {
+  "t": "2026-11-20T20:20:10.756Z",
+  "type": "gone",
+  "id": "rc-1209-nw-4th-ave",
+  "address": "1209 NW 4th Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-20T20:20:10.756Z",
+  "type": "gone",
+  "id": "rc-4344-nw-25th-ter",
+  "address": "4344 NW 25th Ter",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-20T20:20:10.756Z",
+  "type": "gone",
+  "id": "rc-912-nw-3rd-ave",
+  "address": "912 NW 3rd Ave",
+  "price": 2500
  }
 ]

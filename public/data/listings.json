@@ -41,7 +41,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-02T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -215,7 +215,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -320,7 +320,7 @@
     "pct": 0.666,
     "label": "good",
     "why": "$669 is 67% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -390,7 +390,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -496,11 +496,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.691,
+    "estRent": 2775,
+    "pct": -0.676,
     "label": "high",
-    "why": "$4,650 is 69% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,650 is 68% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -572,7 +572,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -677,7 +677,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -752,7 +752,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -857,7 +857,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -926,7 +926,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1036,7 +1036,7 @@
     "pct": -0.4,
     "label": "high",
     "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -1106,7 +1106,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1211,7 +1211,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -1280,7 +1280,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1390,7 +1390,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -1454,7 +1454,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1560,11 +1560,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.942,
+    "estRent": 2775,
+    "pct": -0.924,
     "label": "high",
-    "why": "$5,340 is 94% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$5,340 is 92% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -1630,7 +1630,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1731,11 +1731,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.018,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -1812,7 +1812,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-20T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1917,7 +1917,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -1986,7 +1986,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2096,7 +2096,7 @@
     "pct": -0.5,
     "label": "high",
     "why": "$3,000 is 50% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -2160,7 +2160,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-27T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2270,7 +2270,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -2340,7 +2340,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-19T21:34:32.817Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-19T21:34:32.817Z",
@@ -2463,7 +2463,7 @@
     "pct": -0.475,
     "label": "high",
     "why": "$2,950 is 48% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "flood": {
     "zone": "X",
@@ -2514,7 +2514,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2649,180 +2649,6 @@
   "zillowSeen": "2026-11-20T12:44:00.000Z"
  },
  {
-  "id": "rc-1209-nw-4th-ave",
-  "key": "1209 nw 4th ave",
-  "source": "rentcast",
-  "sourceId": "1209-Nw-4th-Ave,-Gainesville,-FL-32601",
-  "address": "1209 NW 4th Ave",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32601",
-  "lat": 29.65437,
-  "lng": -82.337457,
-  "price": 2500,
-  "beds": 3,
-  "baths": 2,
-  "sqft": null,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": null,
-  "listedDate": "2026-10-29T00:00:00.000Z",
-  "details": {
-   "furnished": null,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": null,
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 2500
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.3,
-     "walk": {
-      "min": 32,
-      "mi": 1.68
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.74
-     },
-     "drive": {
-      "min": 9,
-      "mi": 2
-     }
-    },
-    "midtown": {
-     "mi": 0.48,
-     "walk": {
-      "min": 11,
-      "mi": 0.57
-     },
-     "bike": {
-      "min": 3,
-      "mi": 0.57
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.78
-     }
-    },
-    "cove": {
-     "mi": 1.22,
-     "walk": {
-      "min": 27,
-      "mi": 1.42
-     },
-     "bike": {
-      "min": 8,
-      "mi": 1.47
-     },
-     "drive": {
-      "min": 6,
-      "mi": 1.5
-     }
-    },
-    "bostick": {
-     "mi": 1.69,
-     "walk": {
-      "min": 36,
-      "mi": 1.89
-     },
-     "bike": {
-      "min": 10,
-      "mi": 1.94
-     },
-     "drive": {
-      "min": 7,
-      "mi": 1.95
-     }
-    },
-    "marston": {
-     "mi": 0.58,
-     "walk": {
-      "min": 14,
-      "mi": 0.74
-     },
-     "bike": {
-      "min": 4,
-      "mi": 0.76
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.86
-     }
-    },
-    "macdintons": {
-     "mi": 0.5,
-     "walk": {
-      "min": 12,
-      "mi": 0.63
-     },
-     "bike": {
-      "min": 3,
-      "mi": 0.63
-     },
-     "drive": {
-      "min": 3,
-      "mi": 0.74
-     }
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2000,
-    "pct": -0.25,
-    "label": "high",
-    "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.1
-    },
-    "gym": {
-     "name": "Orangetheory Fitness",
-     "mi": 0.18
-    },
-    "gas": {
-     "name": "GATE",
-     "mi": 0.18
-    },
-    "bus": {
-     "name": "Publix @ Northwest 13th Street and West University Avenue",
-     "mi": 0.11
-    }
-   }
-  }
- },
- {
   "id": "rc-121-nw-29th-st",
   "key": "121 nw 29th st",
   "source": "rentcast",
@@ -2870,7 +2696,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-21T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2971,11 +2797,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.091,
+    "estRent": 2775,
+    "pct": -0.081,
     "label": "high",
-    "why": "$3,000 is 9% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -3046,7 +2872,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3156,7 +2982,7 @@
     "pct": 0.005,
     "label": "fair",
     "why": "$1,990 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -3220,7 +3046,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-23T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3325,7 +3151,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -3394,7 +3220,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3504,7 +3330,7 @@
     "pct": -0.4,
     "label": "high",
     "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -3568,7 +3394,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3673,7 +3499,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -3742,7 +3568,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3852,7 +3678,7 @@
     "pct": -0.7,
     "label": "high",
     "why": "$3,400 is 70% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -3922,7 +3748,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4027,7 +3853,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -4096,7 +3922,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-09T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4201,7 +4027,7 @@
     "pct": 0.275,
     "label": "good",
     "why": "$1,450 is 28% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -4270,7 +4096,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4380,7 +4206,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -4450,7 +4276,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4551,11 +4377,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.309,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 31% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -4632,7 +4458,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4737,7 +4563,7 @@
     "pct": 0.163,
     "label": "good",
     "why": "$1,675 is 16% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -4812,7 +4638,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4922,7 +4748,7 @@
     "pct": 0.207,
     "label": "good",
     "why": "$2,200 is 21% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -4994,7 +4820,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5099,7 +4925,7 @@
     "pct": -0.05,
     "label": "fair",
     "why": "$2,100 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -5174,7 +5000,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5279,7 +5105,7 @@
     "pct": 0.135,
     "label": "good",
     "why": "$2,400 is 14% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -5354,7 +5180,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5459,7 +5285,7 @@
     "pct": 0.113,
     "label": "good",
     "why": "$1,775 is 11% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -5528,7 +5354,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-21T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5638,7 +5464,7 @@
     "pct": -0.5,
     "label": "high",
     "why": "$3,000 is 50% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -5708,7 +5534,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5813,7 +5639,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -5888,7 +5714,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5993,7 +5819,7 @@
     "pct": 0.053,
     "label": "fair",
     "why": "$1,895 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -6068,7 +5894,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6173,7 +5999,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -6242,7 +6068,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6352,7 +6178,7 @@
     "pct": -0.037,
     "label": "fair",
     "why": "$2,075 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -6416,7 +6242,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-30T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6590,7 +6416,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2023-09-04T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6700,7 +6526,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -6764,7 +6590,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6865,11 +6691,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.055,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -6938,7 +6764,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7043,7 +6869,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -7112,7 +6938,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7222,7 +7048,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -7292,7 +7118,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7402,7 +7228,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -7466,7 +7292,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-02-03T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7576,7 +7402,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -7640,7 +7466,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-18T04:21:51.587Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-18T04:21:51.587Z",
@@ -7768,7 +7594,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    }
   }
  },
@@ -7820,7 +7646,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7925,7 +7751,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -8000,7 +7826,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8105,7 +7931,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -8180,7 +8006,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8290,11 +8116,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.018,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -8366,7 +8192,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8471,7 +8297,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -8546,7 +8372,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8651,7 +8477,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -8726,7 +8552,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8831,7 +8657,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -8906,7 +8732,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9011,7 +8837,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -9086,7 +8912,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9191,7 +9017,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -9266,7 +9092,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9371,7 +9197,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -9446,7 +9272,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9551,7 +9377,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -9626,7 +9452,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9731,7 +9557,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -9806,7 +9632,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9911,7 +9737,7 @@
     "pct": 0.117,
     "label": "good",
     "why": "$2,450 is 12% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -9982,7 +9808,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10092,7 +9918,7 @@
     "pct": 0.117,
     "label": "good",
     "why": "$2,450 is 12% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -10158,7 +9984,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10259,11 +10085,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.055,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -10334,7 +10160,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10439,7 +10265,7 @@
     "pct": 0.1,
     "label": "good",
     "why": "$1,800 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -10508,7 +10334,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10613,7 +10439,7 @@
     "pct": 0.1,
     "label": "good",
     "why": "$1,800 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -10682,7 +10508,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10792,7 +10618,7 @@
     "pct": 0.203,
     "label": "good",
     "why": "$1,595 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -10862,7 +10688,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-18T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10967,7 +10793,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11042,7 +10868,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11147,7 +10973,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11216,7 +11042,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11325,7 +11151,7 @@
     "pct": 0.213,
     "label": "good",
     "why": "$1,575 is 21% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11394,7 +11220,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11499,7 +11325,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11574,7 +11400,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11679,7 +11505,7 @@
     "pct": 0.3,
     "label": "good",
     "why": "$1,400 is 30% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11748,7 +11574,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11853,7 +11679,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -11922,7 +11748,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12031,7 +11857,7 @@
     "pct": 0.748,
     "label": "good",
     "why": "$699 is 75% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -12101,7 +11927,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12211,7 +12037,7 @@
     "pct": 0.533,
     "label": "good",
     "why": "$1,295 is 53% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -12276,7 +12102,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12386,7 +12212,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -12450,7 +12276,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12555,7 +12381,7 @@
     "pct": -0.65,
     "label": "high",
     "why": "$3,300 is 65% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -12630,7 +12456,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12736,11 +12562,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.009,
+    "estRent": 2775,
+    "pct": 0,
     "label": "fair",
-    "why": "$2,775 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,775 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -12804,7 +12630,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12914,7 +12740,7 @@
     "pct": -0.212,
     "label": "high",
     "why": "$5,000 is 21% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -12980,7 +12806,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13085,7 +12911,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -13160,7 +12986,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-02T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13270,7 +13096,7 @@
     "pct": 0.325,
     "label": "good",
     "why": "$1,350 is 33% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -13340,7 +13166,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13445,7 +13271,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -13514,7 +13340,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13619,7 +13445,7 @@
     "pct": 0.676,
     "label": "good",
     "why": "$649 is 68% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -13689,7 +13515,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13794,7 +13620,7 @@
     "pct": 0.182,
     "label": "good",
     "why": "$1,636 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -13863,7 +13689,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-01-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13973,7 +13799,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -14043,7 +13869,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-05T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14153,7 +13979,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -14223,7 +14049,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14324,11 +14150,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.127,
+    "estRent": 2775,
+    "pct": -0.117,
     "label": "high",
-    "why": "$3,100 is 13% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,100 is 12% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -14397,7 +14223,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14503,11 +14329,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.018,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -14579,7 +14405,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14684,7 +14510,7 @@
     "pct": -0.1,
     "label": "high",
     "why": "$2,200 is 10% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -14759,7 +14585,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14864,7 +14690,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -14933,7 +14759,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15038,7 +14864,7 @@
     "pct": 0.176,
     "label": "good",
     "why": "$3,400 is 18% below about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -15109,7 +14935,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15219,7 +15045,7 @@
     "pct": -0.475,
     "label": "high",
     "why": "$2,950 is 48% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -15289,7 +15115,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15394,7 +15220,7 @@
     "pct": -0.2,
     "label": "high",
     "why": "$2,400 is 20% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -15469,7 +15295,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15579,7 +15405,7 @@
     "pct": 0.207,
     "label": "good",
     "why": "$2,200 is 21% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -15645,7 +15471,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15755,7 +15581,7 @@
     "pct": -0.875,
     "label": "high",
     "why": "$3,750 is 88% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -15819,7 +15645,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15929,7 +15755,7 @@
     "pct": 0.301,
     "label": "good",
     "why": "$1,399 is 30% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -15999,7 +15825,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16104,7 +15930,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -16179,7 +16005,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16284,7 +16110,7 @@
     "pct": 0.01,
     "label": "fair",
     "why": "$1,980 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -16353,7 +16179,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16458,7 +16284,7 @@
     "pct": 0.802,
     "label": "good",
     "why": "$549 is 80% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -16534,7 +16360,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16639,7 +16465,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -16708,7 +16534,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16813,7 +16639,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -16882,7 +16708,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16987,7 +16813,7 @@
     "pct": 0.313,
     "label": "good",
     "why": "$1,375 is 31% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -17056,7 +16882,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17166,7 +16992,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -17236,7 +17062,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17346,7 +17172,7 @@
     "pct": 0.369,
     "label": "good",
     "why": "$1,750 is 37% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -17418,7 +17244,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-03T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17528,7 +17354,7 @@
     "pct": 0.82,
     "label": "good",
     "why": "$500 is 82% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -17593,7 +17419,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17694,11 +17520,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.382,
+    "estRent": 2775,
+    "pct": -0.369,
     "label": "high",
-    "why": "$3,800 is 38% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,800 is 37% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -17769,7 +17595,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17879,7 +17705,7 @@
     "pct": 0.171,
     "label": "good",
     "why": "$2,300 is 17% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -17951,7 +17777,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18056,7 +17882,7 @@
     "pct": 0.423,
     "label": "good",
     "why": "$1,600 is 42% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -18125,7 +17951,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18235,7 +18061,7 @@
     "pct": 0.802,
     "label": "good",
     "why": "$550 is 80% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -18300,7 +18126,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18401,11 +18227,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.382,
+    "estRent": 2775,
+    "pct": -0.369,
     "label": "high",
-    "why": "$3,800 is 38% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,800 is 37% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -18482,7 +18308,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18583,11 +18409,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.236,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 24% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -18664,7 +18490,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18774,7 +18600,7 @@
     "pct": 0.279,
     "label": "good",
     "why": "$2,000 is 28% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -18844,7 +18670,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-20T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18949,7 +18775,7 @@
     "pct": 0.775,
     "label": "good",
     "why": "$625 is 77% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -19019,7 +18845,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19125,11 +18951,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.658,
+    "estRent": 2775,
+    "pct": -0.643,
     "label": "high",
-    "why": "$4,560 is 66% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,560 is 64% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -19199,7 +19025,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19304,7 +19130,7 @@
     "pct": -0.325,
     "label": "high",
     "why": "$2,650 is 33% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -19373,7 +19199,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-08-28T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19549,7 +19375,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19659,7 +19485,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -19729,7 +19555,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19839,7 +19665,7 @@
     "pct": -0.237,
     "label": "high",
     "why": "$2,475 is 24% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -19903,7 +19729,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20004,11 +19830,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -1.182,
+    "estRent": 2775,
+    "pct": -1.162,
     "label": "high",
-    "why": "$6,000 is 118% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$6,000 is 116% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -20085,7 +19911,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-27T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20190,7 +20016,7 @@
     "pct": -0.025,
     "label": "fair",
     "why": "$2,050 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -20265,7 +20091,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20370,7 +20196,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -20445,7 +20271,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-05T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20550,7 +20376,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -20625,7 +20451,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-05-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20739,7 +20565,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -20758,186 +20584,6 @@
      "name": "Forest Park",
      "mi": 0.06
     }
-   }
-  }
- },
- {
-  "id": "rc-4344-nw-25th-ter",
-  "key": "4344 nw 25th ter",
-  "source": "rentcast",
-  "sourceId": "4344-Nw-25th-Ter,-Gainesville,-FL-32605",
-  "address": "4344 NW 25th Ter",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32605",
-  "lat": 29.694633,
-  "lng": -82.360431,
-  "price": 1900,
-  "beds": 3,
-  "baths": 2,
-  "sqft": 1116,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 1979,
-  "listedDate": "2026-08-26T00:00:00.000Z",
-  "details": {
-   "furnished": null,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": {
-   "name": "Justin Nelson",
-   "office": "CORNERSTONE MANAGEMENT SERVICES",
-   "phone": "3527450724",
-   "email": "justin@cmsflorida.com",
-   "website": "https://www.facebook.com/beardedrealtorgnv"
-  },
-  "url": null,
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-08-26T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 1900
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 3.36,
-     "walk": {
-      "min": 94,
-      "mi": 4.85
-     },
-     "bike": {
-      "min": 28,
-      "mi": 5.15
-     },
-     "drive": {
-      "min": 17,
-      "mi": 5.17
-     }
-    },
-    "midtown": {
-     "mi": 2.99,
-     "walk": {
-      "min": 84,
-      "mi": 4.37
-     },
-     "bike": {
-      "min": 29,
-      "mi": 5.26
-     },
-     "drive": {
-      "min": 17,
-      "mi": 5.44
-     }
-    },
-    "cove": {
-     "mi": 3,
-     "walk": {
-      "min": 85,
-      "mi": 4.41
-     },
-     "bike": {
-      "min": 25,
-      "mi": 4.72
-     },
-     "drive": {
-      "min": 14,
-      "mi": 4.65
-     }
-    },
-    "bostick": {
-     "mi": 3.1,
-     "walk": {
-      "min": 84,
-      "mi": 4.34
-     },
-     "bike": {
-      "min": 23,
-      "mi": 4.34
-     },
-     "drive": {
-      "min": 14,
-      "mi": 4.38
-     }
-    },
-    "marston": {
-     "mi": 3.37,
-     "walk": {
-      "min": 92,
-      "mi": 4.75
-     },
-     "bike": {
-      "min": 30,
-      "mi": 5.67
-     },
-     "drive": {
-      "min": 17,
-      "mi": 5.73
-     }
-    },
-    "macdintons": {
-     "mi": 3.04,
-     "walk": {
-      "min": 85,
-      "mi": 4.41
-     },
-     "bike": {
-      "min": 29,
-      "mi": 5.32
-     },
-     "drive": {
-      "min": 16,
-      "mi": 5.38
-     }
-    }
-   },
-   "deal": {
-    "estRent": 2000,
-    "pct": 0.05,
-    "label": "fair",
-    "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 1.28
-    },
-    "gym": {
-     "name": "Gym",
-     "mi": 1.32
-    },
-    "gas": {
-     "name": "Texico",
-     "mi": 0.69
-    },
-    "bus": {
-     "name": "Walnut Creek Neighborhood",
-     "mi": 0.41
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
    }
   }
  },
@@ -20983,7 +20629,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21093,7 +20739,7 @@
     "pct": -0.05,
     "label": "fair",
     "why": "$2,100 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -21157,7 +20803,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21262,7 +20908,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -21337,7 +20983,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21442,7 +21088,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -21511,7 +21157,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21616,7 +21262,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -21691,7 +21337,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21796,7 +21442,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -21871,7 +21517,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-04T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21976,7 +21622,7 @@
     "pct": -0.137,
     "label": "high",
     "why": "$2,275 is 14% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -22051,7 +21697,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22156,7 +21802,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -22231,7 +21877,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-14T17:08:16.245Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-14T17:08:16.245Z",
@@ -22359,7 +22005,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    }
   }
  },
@@ -22405,7 +22051,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22506,11 +22152,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.673,
+    "estRent": 2775,
+    "pct": -0.658,
     "label": "high",
-    "why": "$4,600 is 67% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,600 is 66% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -22579,7 +22225,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22684,7 +22330,7 @@
     "pct": 0.118,
     "label": "good",
     "why": "$1,765 is 12% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -22753,7 +22399,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22858,7 +22504,7 @@
     "pct": 0.118,
     "label": "good",
     "why": "$1,765 is 12% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -22927,7 +22573,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23028,11 +22674,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.418,
+    "estRent": 2775,
+    "pct": -0.405,
     "label": "high",
-    "why": "$3,900 is 42% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,900 is 41% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -23103,7 +22749,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-20T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23213,7 +22859,7 @@
     "pct": -0.05,
     "label": "fair",
     "why": "$2,100 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -23277,7 +22923,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23387,7 +23033,7 @@
     "pct": 0.135,
     "label": "good",
     "why": "$2,400 is 14% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -23459,7 +23105,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23564,7 +23210,7 @@
     "pct": 0.067,
     "label": "fair",
     "why": "$2,590 is in line with about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -23635,7 +23281,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23741,11 +23387,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.309,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 31% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -23817,7 +23463,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-22T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23922,7 +23568,7 @@
     "pct": 0.063,
     "label": "fair",
     "why": "$2,600 is in line with about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -23999,7 +23645,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24104,7 +23750,7 @@
     "pct": -0.175,
     "label": "high",
     "why": "$2,350 is 18% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -24173,7 +23819,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24279,11 +23925,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.309,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 31% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -24349,7 +23995,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24525,7 +24171,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24630,7 +24276,7 @@
     "pct": -0.212,
     "label": "high",
     "why": "$5,000 is 21% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -24701,7 +24347,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24811,7 +24457,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -24881,7 +24527,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24986,7 +24632,7 @@
     "pct": 0.128,
     "label": "good",
     "why": "$1,745 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -25061,7 +24707,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25166,7 +24812,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -25241,7 +24887,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25346,7 +24992,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -25421,7 +25067,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25535,7 +25181,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -25599,7 +25245,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25713,11 +25359,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -25781,7 +25427,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25887,11 +25533,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -25955,7 +25601,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26056,11 +25702,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -26129,7 +25775,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26235,11 +25881,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -26303,7 +25949,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26409,11 +26055,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -26477,7 +26123,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26583,11 +26229,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -26651,7 +26297,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26761,7 +26407,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -26825,7 +26471,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26930,7 +26576,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -26999,7 +26645,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27109,7 +26755,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -27175,7 +26821,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27276,11 +26922,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -27349,7 +26995,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27450,11 +27096,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.2,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 20% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -27529,7 +27175,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27634,7 +27280,7 @@
     "pct": 0.213,
     "label": "good",
     "why": "$1,575 is 21% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -27703,7 +27349,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27804,11 +27450,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.418,
+    "estRent": 2775,
+    "pct": -0.405,
     "label": "high",
-    "why": "$3,900 is 42% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,900 is 41% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -27885,7 +27531,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27990,7 +27636,7 @@
     "pct": 0.235,
     "label": "good",
     "why": "$1,530 is 24% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28065,7 +27711,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28170,7 +27816,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28245,7 +27891,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28355,7 +28001,7 @@
     "pct": 0.325,
     "label": "good",
     "why": "$1,350 is 33% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28425,7 +28071,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28530,7 +28176,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28599,7 +28245,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28704,7 +28350,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28773,7 +28419,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-01-16T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28878,7 +28524,7 @@
     "pct": 0.663,
     "label": "good",
     "why": "$675 is 66% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -28954,7 +28600,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29059,7 +28705,7 @@
     "pct": 0.099,
     "label": "good",
     "why": "$2,500 is 10% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -29130,7 +28776,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29231,11 +28877,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.018,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -29306,7 +28952,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29416,7 +29062,7 @@
     "pct": -0.018,
     "label": "fair",
     "why": "$4,200 is in line with about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -29482,7 +29128,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29588,11 +29234,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.309,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 31% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -29658,7 +29304,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29768,7 +29414,7 @@
     "pct": -0.7,
     "label": "high",
     "why": "$3,400 is 70% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -29832,7 +29478,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29942,7 +29588,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -30006,7 +29652,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30107,11 +29753,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.236,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 24% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -30182,7 +29828,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30292,7 +29938,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -30356,7 +30002,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30532,7 +30178,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30637,7 +30283,7 @@
     "pct": 0.15,
     "label": "good",
     "why": "$1,700 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -30706,7 +30352,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30882,7 +30528,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30992,7 +30638,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -31056,7 +30702,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31162,11 +30808,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.745,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 75% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -31232,7 +30878,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31342,7 +30988,7 @@
     "pct": -0.152,
     "label": "high",
     "why": "$4,750 is 15% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -31408,7 +31054,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31514,11 +31160,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.745,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 75% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -31584,7 +31230,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31685,11 +31331,11 @@
     }
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.745,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 75% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -31760,7 +31406,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31866,11 +31512,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.745,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 75% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -31942,7 +31588,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32047,7 +31693,7 @@
     "pct": 0.103,
     "label": "good",
     "why": "$1,795 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -32073,182 +31719,6 @@
     "highRisk": false
    }
   }
- },
- {
-  "id": "rc-912-nw-3rd-ave",
-  "key": "912 nw 3rd ave",
-  "source": "rentcast",
-  "sourceId": "912-Nw-3rd-Ave,-Gainesville,-FL-32601",
-  "address": "912 NW 3rd Ave",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32601",
-  "lat": 29.654077,
-  "lng": -82.334405,
-  "price": 2500,
-  "beds": 4,
-  "baths": 2,
-  "sqft": 1410,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 1938,
-  "listedDate": "2026-11-06T00:00:00.000Z",
-  "details": {
-   "furnished": false,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/",
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 2500
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.46,
-     "walk": {
-      "min": 35,
-      "mi": 1.81
-     },
-     "bike": {
-      "min": 10,
-      "mi": 1.88
-     },
-     "drive": {
-      "min": 9,
-      "mi": 2.1
-     }
-    },
-    "midtown": {
-     "mi": 0.66,
-     "walk": {
-      "min": 14,
-      "mi": 0.7
-     },
-     "bike": {
-      "min": 4,
-      "mi": 0.71
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.87
-     }
-    },
-    "cove": {
-     "mi": 1.39,
-     "walk": {
-      "min": 30,
-      "mi": 1.56
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.61
-     },
-     "drive": {
-      "min": 7,
-      "mi": 1.6
-     }
-    },
-    "bostick": {
-     "mi": 1.87,
-     "walk": {
-      "min": 39,
-      "mi": 2.02
-     },
-     "bike": {
-      "min": 11,
-      "mi": 2.07
-     },
-     "drive": {
-      "min": 8,
-      "mi": 2.05
-     }
-    },
-    "marston": {
-     "mi": 0.7,
-     "walk": {
-      "min": 17,
-      "mi": 0.88
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.89
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.97
-     }
-    },
-    "macdintons": {
-     "mi": 0.68,
-     "walk": {
-      "min": 15,
-      "mi": 0.76
-     },
-     "bike": {
-      "min": 4,
-      "mi": 0.76
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.84
-     }
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2775,
-    "pct": 0.099,
-    "label": "good",
-    "why": "$2,500 is 10% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.27
-    },
-    "gym": {
-     "name": "Orangetheory Fitness",
-     "mi": 0.32
-    },
-    "gas": {
-     "name": "Refresh",
-     "mi": 0.18
-    },
-    "bus": {
-     "name": "West University Avenue @ Northwest 10th Street",
-     "mi": 0.14
-    }
-   }
-  },
-  "zillowUrl": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/",
-  "zillowSeen": "2026-11-17T12:44:40.000Z"
  },
  {
   "id": "rc-914-sw-8th-ave-unit-51",
@@ -32292,7 +31762,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32402,7 +31872,7 @@
     "pct": 0.762,
     "label": "good",
     "why": "$660 is 76% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -32473,7 +31943,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-14T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32578,7 +32048,7 @@
     "pct": 0.533,
     "label": "good",
     "why": "$1,295 is 53% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -32648,7 +32118,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32758,7 +32228,7 @@
     "pct": 0.268,
     "label": "good",
     "why": "$1,465 is 27% below about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -32822,7 +32292,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-11T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32927,7 +32397,7 @@
     "pct": 0.64,
     "label": "good",
     "why": "$1,000 is 64% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    },
    "nearby": {
     "publix": {
@@ -33003,7 +32473,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33108,7 +32578,7 @@
     "pct": 0.003,
     "label": "fair",
     "why": "$1,995 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -33177,7 +32647,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-29T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33287,7 +32757,7 @@
     "pct": -0.452,
     "label": "high",
     "why": "$5,990 is 45% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -33353,7 +32823,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "lastSeen": "2026-11-20T20:20:10.756Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33458,7 +32928,7 @@
     "pct": -0.1,
     "label": "high",
     "why": "$2,200 is 10% above about $2,000 for similar 3-bed listings.",
-    "comps": 191
+    "comps": 188
    },
    "nearby": {
     "publix": {
@@ -33652,11 +33122,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.6,
+    "estRent": 2775,
+    "pct": -0.586,
     "label": "high",
-    "why": "$4,400 is 60% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -33831,7 +33301,7 @@
     "pct": -0.515,
     "label": "high",
     "why": "$6,250 is 52% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    }
   }
  },
@@ -33909,11 +33379,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.164,
+    "estRent": 2775,
+    "pct": -0.153,
     "label": "high",
-    "why": "$3,200 is 16% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,200 is 15% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "travel": {
     "deltachi": {
@@ -34083,11 +33553,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.055,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    },
    "travel": {
     "deltachi": {
@@ -34358,7 +33828,7 @@
     "pct": -1.016,
     "label": "high",
     "why": "$8,315 is 102% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    }
   }
  },
@@ -34708,11 +34178,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -1.045,
+    "estRent": 2775,
+    "pct": -1.027,
     "label": "high",
-    "why": "$5,625 is 105% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$5,625 is 103% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -34883,11 +34353,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.636,
+    "estRent": 2775,
+    "pct": -0.622,
     "label": "high",
-    "why": "$4,500 is 64% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,500 is 62% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -35057,11 +34527,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.236,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 24% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -35407,11 +34877,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.4,
+    "estRent": 2775,
+    "pct": -0.387,
     "label": "high",
-    "why": "$3,850 is 40% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,850 is 39% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -35586,7 +35056,7 @@
     "pct": 0.279,
     "label": "good",
     "why": "$2,000 is 28% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    }
   }
  },
@@ -35757,11 +35227,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.164,
+    "estRent": 2775,
+    "pct": -0.153,
     "label": "high",
-    "why": "$3,200 is 16% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,200 is 15% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -35932,11 +35402,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -1.12,
+    "estRent": 2775,
+    "pct": -1.101,
     "label": "high",
-    "why": "$5,830 is 112% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$5,830 is 110% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -36110,7 +35580,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$2,350 is 15% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    }
   }
  },
@@ -36280,11 +35750,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.658,
+    "estRent": 2775,
+    "pct": -0.643,
     "label": "high",
-    "why": "$4,560 is 66% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$4,560 is 64% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -36459,7 +35929,7 @@
     "pct": -1.999,
     "label": "high",
     "why": "$12,372 is 200% above about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    }
   }
  },
@@ -36634,7 +36104,7 @@
     "pct": 0.045,
     "label": "fair",
     "why": "$2,650 is in line with about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    }
   }
  },
@@ -36805,11 +36275,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.091,
+    "estRent": 2775,
+    "pct": -0.081,
     "label": "high",
-    "why": "$3,000 is 9% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -36984,7 +36454,7 @@
     "pct": 0.321,
     "label": "good",
     "why": "$2,800 is 32% below about $4,125 for similar 5-bed listings.",
-    "comps": 95
+    "comps": 94
    }
   }
  },
@@ -37155,11 +36625,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.027,
     "label": "fair",
-    "why": "$2,850 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,850 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -37333,7 +36803,7 @@
     "pct": 0.315,
     "label": "good",
     "why": "$1,900 is 32% below about $2,775 for similar 4-bed listings.",
-    "comps": 204
+    "comps": 201
    }
   }
  },
@@ -37503,11 +36973,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.436,
+    "estRent": 2775,
+    "pct": -0.423,
     "label": "high",
-    "why": "$3,950 is 44% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$3,950 is 42% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -37677,11 +37147,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.055,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -38210,11 +37680,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2750,
-    "pct": -0.894,
+    "estRent": 2775,
+    "pct": -0.877,
     "label": "high",
-    "why": "$5,209 is 89% above about $2,750 for similar 4-bed listings.",
-    "comps": 204
+    "why": "$5,209 is 88% above about $2,775 for similar 4-bed listings.",
+    "comps": 201
    }
   }
  },
@@ -38365,7 +37835,7 @@
     "pct": -0.586,
     "label": "high",
     "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "nearby": {
     "publix": {
@@ -38539,7 +38009,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -38731,12 +38201,186 @@
     "pct": 0.369,
     "label": "good",
     "why": "$1,750 is 37% below about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "flood": {
     "zone": "X",
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
+   }
+  }
+ },
+ {
+  "id": "rc-1209-nw-4th-ave",
+  "key": "1209 nw 4th ave",
+  "source": "rentcast",
+  "sourceId": "1209-Nw-4th-Ave,-Gainesville,-FL-32601",
+  "address": "1209 NW 4th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.65437,
+  "lng": -82.337457,
+  "price": 2500,
+  "beds": 3,
+  "baths": 2,
+  "sqft": null,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": null,
+  "listedDate": "2026-10-29T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": null,
+  "status": "gone",
+  "goneSince": "2026-11-20T20:20:10.756Z",
+  "firstSeen": "2026-10-29T00:00:00.000Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 2500
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.3,
+     "walk": {
+      "min": 32,
+      "mi": 1.68
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.74
+     },
+     "drive": {
+      "min": 9,
+      "mi": 2
+     }
+    },
+    "midtown": {
+     "mi": 0.48,
+     "walk": {
+      "min": 11,
+      "mi": 0.57
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.57
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.78
+     }
+    },
+    "cove": {
+     "mi": 1.22,
+     "walk": {
+      "min": 27,
+      "mi": 1.42
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.47
+     },
+     "drive": {
+      "min": 6,
+      "mi": 1.5
+     }
+    },
+    "bostick": {
+     "mi": 1.69,
+     "walk": {
+      "min": 36,
+      "mi": 1.89
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.94
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.95
+     }
+    },
+    "marston": {
+     "mi": 0.58,
+     "walk": {
+      "min": 14,
+      "mi": 0.74
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.76
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.86
+     }
+    },
+    "macdintons": {
+     "mi": 0.5,
+     "walk": {
+      "min": 12,
+      "mi": 0.63
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.63
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.74
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": -0.25,
+    "label": "high",
+    "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
+    "comps": 189
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.1
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.18
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "Publix @ Northwest 13th Street and West University Avenue",
+     "mi": 0.11
+    }
    }
   }
  },
@@ -38892,7 +38536,7 @@
     "pct": -0.091,
     "label": "high",
     "why": "$4,500 is 9% above about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 95
    },
    "nearby": {
     "publix": {
@@ -39063,7 +38707,7 @@
     "pct": -0.333,
     "label": "high",
     "why": "$3,700 is 33% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "nearby": {
     "publix": {
@@ -39243,7 +38887,7 @@
     "pct": -0.125,
     "label": "high",
     "why": "$2,250 is 13% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -39417,7 +39061,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -39597,7 +39241,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -39777,7 +39421,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -39957,7 +39601,7 @@
     "pct": 0.333,
     "label": "good",
     "why": "$1,850 is 33% below about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "nearby": {
     "publix": {
@@ -40137,7 +39781,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -40155,6 +39799,186 @@
     "bus": {
      "name": "Southwest 23rd Street @ Williston Road",
      "mi": 0.31
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   }
+  }
+ },
+ {
+  "id": "rc-4344-nw-25th-ter",
+  "key": "4344 nw 25th ter",
+  "source": "rentcast",
+  "sourceId": "4344-Nw-25th-Ter,-Gainesville,-FL-32605",
+  "address": "4344 NW 25th Ter",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32605",
+  "lat": 29.694633,
+  "lng": -82.360431,
+  "price": 1900,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1116,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1979,
+  "listedDate": "2026-08-26T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Justin Nelson",
+   "office": "CORNERSTONE MANAGEMENT SERVICES",
+   "phone": "3527450724",
+   "email": "justin@cmsflorida.com",
+   "website": "https://www.facebook.com/beardedrealtorgnv"
+  },
+  "url": null,
+  "status": "gone",
+  "goneSince": "2026-11-20T20:20:10.756Z",
+  "firstSeen": "2026-08-26T00:00:00.000Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 1900
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 3.36,
+     "walk": {
+      "min": 94,
+      "mi": 4.85
+     },
+     "bike": {
+      "min": 28,
+      "mi": 5.15
+     },
+     "drive": {
+      "min": 17,
+      "mi": 5.17
+     }
+    },
+    "midtown": {
+     "mi": 2.99,
+     "walk": {
+      "min": 84,
+      "mi": 4.37
+     },
+     "bike": {
+      "min": 29,
+      "mi": 5.26
+     },
+     "drive": {
+      "min": 17,
+      "mi": 5.44
+     }
+    },
+    "cove": {
+     "mi": 3,
+     "walk": {
+      "min": 85,
+      "mi": 4.41
+     },
+     "bike": {
+      "min": 25,
+      "mi": 4.72
+     },
+     "drive": {
+      "min": 14,
+      "mi": 4.65
+     }
+    },
+    "bostick": {
+     "mi": 3.1,
+     "walk": {
+      "min": 84,
+      "mi": 4.34
+     },
+     "bike": {
+      "min": 23,
+      "mi": 4.34
+     },
+     "drive": {
+      "min": 14,
+      "mi": 4.38
+     }
+    },
+    "marston": {
+     "mi": 3.37,
+     "walk": {
+      "min": 92,
+      "mi": 4.75
+     },
+     "bike": {
+      "min": 30,
+      "mi": 5.67
+     },
+     "drive": {
+      "min": 17,
+      "mi": 5.73
+     }
+    },
+    "macdintons": {
+     "mi": 3.04,
+     "walk": {
+      "min": 85,
+      "mi": 4.41
+     },
+     "bike": {
+      "min": 29,
+      "mi": 5.32
+     },
+     "drive": {
+      "min": 16,
+      "mi": 5.38
+     }
+    }
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": 0.05,
+    "label": "fair",
+    "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
+    "comps": 189
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.28
+    },
+    "gym": {
+     "name": "Gym",
+     "mi": 1.32
+    },
+    "gas": {
+     "name": "Texico",
+     "mi": 0.69
+    },
+    "bus": {
+     "name": "Walnut Creek Neighborhood",
+     "mi": 0.41
     }
    },
    "flood": {
@@ -40317,7 +40141,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -40405,7 +40229,7 @@
     "pct": -0.009,
     "label": "fair",
     "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "travel": {
     "deltachi": {
@@ -40676,7 +40500,7 @@
     "pct": -0.441,
     "label": "high",
     "why": "$4,000 is 44% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "nearby": {
     "publix": {
@@ -40858,7 +40682,7 @@
     "pct": -0.297,
     "label": "high",
     "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "nearby": {
     "publix": {
@@ -41035,7 +40859,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 189
    },
    "nearby": {
     "publix": {
@@ -41061,6 +40885,182 @@
     "highRisk": false
    }
   }
+ },
+ {
+  "id": "rc-912-nw-3rd-ave",
+  "key": "912 nw 3rd ave",
+  "source": "rentcast",
+  "sourceId": "912-Nw-3rd-Ave,-Gainesville,-FL-32601",
+  "address": "912 NW 3rd Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.654077,
+  "lng": -82.334405,
+  "price": 2500,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1410,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1938,
+  "listedDate": "2026-11-06T00:00:00.000Z",
+  "details": {
+   "furnished": false,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/",
+  "status": "gone",
+  "goneSince": "2026-11-20T20:20:10.756Z",
+  "firstSeen": "2026-11-06T00:00:00.000Z",
+  "lastSeen": "2026-11-19T21:34:32.817Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 2500
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.46,
+     "walk": {
+      "min": 35,
+      "mi": 1.81
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.88
+     },
+     "drive": {
+      "min": 9,
+      "mi": 2.1
+     }
+    },
+    "midtown": {
+     "mi": 0.66,
+     "walk": {
+      "min": 14,
+      "mi": 0.7
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.71
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.87
+     }
+    },
+    "cove": {
+     "mi": 1.39,
+     "walk": {
+      "min": 30,
+      "mi": 1.56
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.61
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.6
+     }
+    },
+    "bostick": {
+     "mi": 1.87,
+     "walk": {
+      "min": 39,
+      "mi": 2.02
+     },
+     "bike": {
+      "min": 11,
+      "mi": 2.07
+     },
+     "drive": {
+      "min": 8,
+      "mi": 2.05
+     }
+    },
+    "marston": {
+     "mi": 0.7,
+     "walk": {
+      "min": 17,
+      "mi": 0.88
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.89
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.97
+     }
+    },
+    "macdintons": {
+     "mi": 0.68,
+     "walk": {
+      "min": 15,
+      "mi": 0.76
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.76
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.84
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2775,
+    "pct": 0.099,
+    "label": "good",
+    "why": "$2,500 is 10% below about $2,775 for similar 4-bed listings.",
+    "comps": 202
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.27
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.32
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.18
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 10th Street",
+     "mi": 0.14
+    }
+   }
+  },
+  "zillowUrl": "https://www.zillow.com/homedetails/912-NW-3rd-Ave-Gainesville-FL-32601/42735664_zpid/",
+  "zillowSeen": "2026-11-17T12:44:40.000Z"
  },
  {
   "id": "zw-1079-sw-11th-ter",
@@ -41233,7 +41233,7 @@
     "pct": -0.225,
     "label": "high",
     "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    }
   }
  },
@@ -41403,7 +41403,7 @@
     "pct": -0.189,
     "label": "high",
     "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    },
    "flood": {
     "zone": "X",
@@ -41583,7 +41583,7 @@
     "pct": -0.009,
     "label": "fair",
     "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    }
   }
  },
@@ -41758,7 +41758,7 @@
     "pct": 0.418,
     "label": "good",
     "why": "$2,400 is 42% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 95
    }
   }
  },
@@ -41933,7 +41933,7 @@
     "pct": -0.081,
     "label": "high",
     "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
-    "comps": 205
+    "comps": 202
    }
   }
  }
