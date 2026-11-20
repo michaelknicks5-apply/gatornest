@@ -458,5 +458,61 @@
   "id": "rc-912-nw-3rd-ave",
   "address": "912 NW 3rd Ave",
   "price": 2500
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-305-nw-8th-st",
+  "address": "305 NW 8th St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-1740-nw-3rd-pl-unit-2",
+  "address": "1740 NW 3rd Pl APT 2",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-1113-nw-5th-ave",
+  "address": "1113 NW 5th Ave",
+  "price": 3000
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-3035-w-university-ave",
+  "address": "3035 W University Ave",
+  "price": 3800
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-414-nw-34th-st",
+  "address": "414 NW 34th St",
+  "price": 2900
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-3106-w-university-ave",
+  "address": "3106 W University Ave",
+  "price": 3500
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "new",
+  "id": "zw-121-sw-32nd-st",
+  "address": "121 SW 32nd St",
+  "price": 4000
+ },
+ {
+  "t": "2026-11-20T23:45:05.168Z",
+  "type": "gone",
+  "id": "zw-1740-nw-3rd-pl-unit-9",
+  "address": "1740 NW 3rd Pl APT 9",
+  "price": 2900
  }
 ]
