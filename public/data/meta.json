@@ -10,9 +10,9 @@
  },
  "ors": {
   "day": "2026-11-20",
-  "directions": 144
+  "directions": 150
  },
- "lastRun": "2026-11-20T03:16:05.508Z",
+ "lastRun": "2026-11-20T11:50:18.168Z",
  "lastFetch": "2026-11-19T21:34:32.817Z",
  "counts": {
   "active": 217,
