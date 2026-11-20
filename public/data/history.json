@@ -430,5 +430,12 @@
   "id": "rc-1617-nw-7th-pl",
   "address": "1617 NW 7th Pl",
   "price": 2250
+ },
+ {
+  "t": "2026-11-20T12:45:16.375Z",
+  "type": "gone",
+  "id": "zw-1079-sw-11th-ter",
+  "address": "1079 SW 11th Ter",
+  "price": 3400
  }
 ]

@@ -12,18 +12,18 @@
   "day": "2026-11-20",
   "directions": 150
  },
- "lastRun": "2026-11-20T11:50:18.168Z",
+ "lastRun": "2026-11-20T12:45:16.375Z",
  "lastFetch": "2026-11-19T21:34:32.817Z",
  "counts": {
-  "active": 217,
-  "gone": 20
+  "active": 216,
+  "gone": 21
  },
  "sources": {
   "rentcast": {
    "skipped": true
   },
   "zillow": {
-   "count": 72,
+   "count": 70,
    "requests": 0
   },
   "manual": {
