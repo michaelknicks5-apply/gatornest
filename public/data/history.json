@@ -514,5 +514,98 @@
   "id": "zw-1740-nw-3rd-pl-unit-9",
   "address": "1740 NW 3rd Pl APT 9",
   "price": 2900
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-2245-nw-16th-ter",
+  "address": "2245 NW 16th Ter",
+  "price": 1545
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-2712-nw-1st-ave",
+  "address": "2712 NW 1st Ave",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-1102-nw-3rd-ave-unit-2",
+  "address": "1102 NW 3rd Ave #2",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "price",
+  "id": "rc-1810-nw-23rd-blvd-unit-188",
+  "address": "1810 NW 23rd Blvd #188",
+  "from": 1650,
+  "price": 1575
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-716-nw-2nd-ave",
+  "address": "716 NW 2nd Ave",
+  "price": 1895
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-927-nw-5th-ave",
+  "address": "927 NW 5th Ave",
+  "price": 2500
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "price",
+  "id": "rc-2601-sw-archer-rd",
+  "address": "2601 SW Archer Rd",
+  "from": 699,
+  "price": 599
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-403-nw-25th-st",
+  "address": "403 NW 25th St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "new",
+  "id": "rc-3110-sw-1st-ave",
+  "address": "3110 SW 1st Ave",
+  "price": 2300
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "gone",
+  "id": "rc-1038-ne-21st-ave",
+  "address": "1038 NE 21st Ave",
+  "price": 1900
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "gone",
+  "id": "rc-121-nw-29th-st",
+  "address": "121 NW 29th St",
+  "price": 3000
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "gone",
+  "id": "zw-1531-nw-6th-ave",
+  "address": "1531 NW 6th Ave",
+  "price": 3200
+ },
+ {
+  "t": "2026-11-21T12:46:05.211Z",
+  "type": "gone",
+  "id": "zw-918-sw-8th-ln",
+  "address": "918 SW 8th Ln",
+  "price": 5250
  }
 ]
