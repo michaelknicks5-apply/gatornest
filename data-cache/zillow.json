@@ -1,27 +1,12 @@
 {
- "checked": "2026-11-21T12:45:00Z",
+ "checked": "2026-11-21T23:43:35Z",
  "complete": true,
- "count": 74,
+ "count": 72,
  "furnished": 10,
  "furnishedKnown": true,
  "skippedPerRoom": 3,
  "problems": [],
  "listings": [
-  {
-   "zpid": "42716121",
-   "address": "224 NW 28th St",
-   "zip": "32607",
-   "price": 3400,
-   "beds": 4,
-   "baths": 2,
-   "sqft": 1976,
-   "type": "house",
-   "complex": false,
-   "lat": 29.65486,
-   "lng": -82.36481,
-   "url": "https://www.zillow.com/homedetails/224-NW-28th-St-Gainesville-FL-32607/42716121_zpid/",
-   "furnished": false
-  },
   {
    "zpid": "42716709",
    "address": "5 SW 41st St",
@@ -173,21 +158,6 @@
    "furnished": false
   },
   {
-   "zpid": "465853778",
-   "address": "885 SW 6th St",
-   "zip": "32601",
-   "price": 4800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1584,
-   "type": "house",
-   "complex": false,
-   "lat": 29.643667,
-   "lng": -82.33116,
-   "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "465853770",
    "address": "861 SW 6th St",
    "zip": "32601",
@@ -200,6 +170,21 @@
    "lat": 29.64376,
    "lng": -82.33118,
    "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "465853778",
+   "address": "885 SW 6th St",
+   "zip": "32601",
+   "price": 4800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1584,
+   "type": "house",
+   "complex": false,
+   "lat": 29.643667,
+   "lng": -82.33116,
+   "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
    "furnished": false
   },
   {
@@ -251,7 +236,7 @@
    "zpid": "42736597",
    "address": "2015 NW 7th Pl",
    "zip": "32603",
-   "price": 5493,
+   "price": 5386,
    "beds": 4,
    "baths": 3,
    "sqft": 1980,
@@ -261,6 +246,21 @@
    "lng": -82.350334,
    "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/",
    "furnished": true
+  },
+  {
+   "zpid": "42735774",
+   "address": "1022 NW 4th Ave",
+   "zip": "32601",
+   "price": 4650,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 1306,
+   "type": "house",
+   "complex": false,
+   "lat": 29.65467,
+   "lng": -82.33578,
+   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
+   "furnished": false
   },
   {
    "zpid": "466201582",
@@ -293,21 +293,6 @@
    "furnished": false
   },
   {
-   "zpid": "42735774",
-   "address": "1022 NW 4th Ave",
-   "zip": "32601",
-   "price": 4650,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1306,
-   "type": "house",
-   "complex": false,
-   "lat": 29.65467,
-   "lng": -82.33578,
-   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "465858154",
    "address": "1095 NW 5th Ave",
    "zip": "32601",
@@ -326,7 +311,7 @@
    "zpid": "42736675",
    "address": "949 SW 13th St",
    "zip": "32601",
-   "price": 5159,
+   "price": 5172,
    "beds": 4,
    "baths": 3,
    "sqft": 2152,
@@ -441,21 +426,6 @@
    "lng": -82.336395,
    "url": "https://www.zillow.com/homedetails/1113-NW-5th-Ave-Gainesville-FL-32601/42735764_zpid/",
    "furnished": true
-  },
-  {
-   "zpid": "42716056",
-   "address": "3126 W University Ave",
-   "zip": "32607",
-   "price": 3200,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1650,
-   "type": "house",
-   "complex": false,
-   "lat": 29.652512,
-   "lng": -82.369545,
-   "url": "https://www.zillow.com/homedetails/3126-W-University-Ave-Gainesville-FL-32607/42716056_zpid/",
-   "furnished": false
   },
   {
    "zpid": "42708940",
@@ -956,7 +926,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6781,
+   "price": 6592,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -986,7 +956,7 @@
    "zpid": "42734772",
    "address": "406 NE 7th Ave",
    "zip": "32601",
-   "price": 12237,
+   "price": 12244,
    "beds": 5,
    "baths": 3,
    "sqft": 2992,
