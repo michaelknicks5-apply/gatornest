@@ -607,5 +607,35 @@
   "id": "zw-918-sw-8th-ln",
   "address": "918 SW 8th Ln",
   "price": 5250
+ },
+ {
+  "t": "2026-11-21T23:44:37.254Z",
+  "type": "price",
+  "id": "zw-2015-nw-7th-pl",
+  "address": "2015 NW 7th Pl",
+  "from": 5625,
+  "price": 5386
+ },
+ {
+  "t": "2026-11-21T23:44:37.254Z",
+  "type": "price",
+  "id": "zw-926-sw-2nd-ave",
+  "address": "926 SW 2nd Ave",
+  "from": 6899,
+  "price": 6592
+ },
+ {
+  "t": "2026-11-21T23:44:37.254Z",
+  "type": "gone",
+  "id": "zw-224-nw-28th-st",
+  "address": "224 NW 28th St",
+  "price": 3400
+ },
+ {
+  "t": "2026-11-21T23:44:37.254Z",
+  "type": "gone",
+  "id": "zw-3126-w-university-ave",
+  "address": "3126 W University Ave",
+  "price": 3200
  }
 ]
