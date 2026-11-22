@@ -637,5 +637,26 @@
   "id": "zw-3126-w-university-ave",
   "address": "3126 W University Ave",
   "price": 3200
+ },
+ {
+  "t": "2026-11-22T23:44:50.930Z",
+  "type": "new",
+  "id": "zw-3028-nw-2nd-ave",
+  "address": "3028 NW 2nd Ave",
+  "price": 2000
+ },
+ {
+  "t": "2026-11-22T23:44:50.930Z",
+  "type": "new",
+  "id": "zw-900-nw-22nd-st",
+  "address": "900 NW 22nd St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-22T23:44:50.930Z",
+  "type": "gone",
+  "id": "zw-2971-sw-40th-ave",
+  "address": "2971 SW 40th Ave",
+  "price": 2000
  }
 ]
