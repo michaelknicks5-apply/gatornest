@@ -1,7 +1,7 @@
 {
- "checked": "2026-11-21T23:43:35Z",
+ "checked": "2026-11-22T12:45:10Z",
  "complete": true,
- "count": 72,
+ "count": 71,
  "furnished": 10,
  "furnishedKnown": true,
  "skippedPerRoom": 3,
@@ -158,21 +158,6 @@
    "furnished": false
   },
   {
-   "zpid": "465853770",
-   "address": "861 SW 6th St",
-   "zip": "32601",
-   "price": 4800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1584,
-   "type": "house",
-   "complex": false,
-   "lat": 29.64376,
-   "lng": -82.33118,
-   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "465853778",
    "address": "885 SW 6th St",
    "zip": "32601",
@@ -185,6 +170,21 @@
    "lat": 29.643667,
    "lng": -82.33116,
    "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "465853770",
+   "address": "861 SW 6th St",
+   "zip": "32601",
+   "price": 4800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1584,
+   "type": "house",
+   "complex": false,
+   "lat": 29.64376,
+   "lng": -82.33118,
+   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
    "furnished": false
   },
   {
@@ -248,21 +248,6 @@
    "furnished": true
   },
   {
-   "zpid": "42735774",
-   "address": "1022 NW 4th Ave",
-   "zip": "32601",
-   "price": 4650,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1306,
-   "type": "house",
-   "complex": false,
-   "lat": 29.65467,
-   "lng": -82.33578,
-   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "466201582",
    "address": "390 SW 7th Pl",
    "zip": "32601",
@@ -275,6 +260,21 @@
    "lat": 29.645262,
    "lng": -82.32882,
    "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42735774",
+   "address": "1022 NW 4th Ave",
+   "zip": "32601",
+   "price": 4650,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 1306,
+   "type": "house",
+   "complex": false,
+   "lat": 29.65467,
+   "lng": -82.33578,
+   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
    "furnished": false
   },
   {
@@ -560,21 +560,6 @@
    "lat": 29.654976,
    "lng": -82.37268,
    "url": "https://www.zillow.com/homedetails/414-NW-34th-St-Gainesville-FL-32607/42716184_zpid/",
-   "furnished": false
-  },
-  {
-   "zpid": "42713308",
-   "address": "1326 NW 57th St",
-   "zip": "32605",
-   "price": 3600,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 2986,
-   "type": "house",
-   "complex": false,
-   "lat": 29.665022,
-   "lng": -82.40404,
-   "url": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
    "furnished": false
   },
   {
@@ -926,7 +911,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6592,
+   "price": 6658,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -986,7 +971,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8200,
+   "price": 8166,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
