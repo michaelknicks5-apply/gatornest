@@ -2,25 +2,26 @@
  "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 12,
-  "lastFetch": "2026-11-22T11:34:25.963Z",
+  "used": 13,
+  "lastFetch": "2026-11-23T09:05:35.582Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": "2026-11-23T02:29:45.176Z"
+  "nextFetch": null
  },
  "ors": {
   "day": "2026-11-23",
   "directions": 150
  },
- "lastRun": "2026-11-23T00:54:10.722Z",
- "lastFetch": "2026-11-22T11:34:25.963Z",
+ "lastRun": "2026-11-23T09:05:35.582Z",
+ "lastFetch": "2026-11-23T09:05:35.582Z",
  "counts": {
-  "active": 221,
-  "gone": 32
+  "active": 220,
+  "gone": 34
  },
  "sources": {
   "rentcast": {
-   "skipped": true
+   "count": 196,
+   "requests": 1
   },
   "zillow": {
    "count": 72,
@@ -32,7 +33,5 @@
   }
  },
  "warnings": [],
- "notes": [
-  "Route drawing hit the OpenRouteService daily limit; more tomorrow (tapping a time still draws it)"
- ]
+ "notes": []
 }

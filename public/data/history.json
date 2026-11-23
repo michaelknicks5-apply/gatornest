@@ -658,5 +658,34 @@
   "id": "zw-2971-sw-40th-ave",
   "address": "2971 SW 40th Ave",
   "price": 2000
+ },
+ {
+  "t": "2026-11-23T09:05:35.582Z",
+  "type": "new",
+  "id": "rc-100-castle-dr",
+  "address": "100 Castle Dr",
+  "price": 1299
+ },
+ {
+  "t": "2026-11-23T09:05:35.582Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3300,
+  "price": 3750
+ },
+ {
+  "t": "2026-11-23T09:05:35.582Z",
+  "type": "gone",
+  "id": "rc-1111-nw-22nd-st",
+  "address": "1111 NW 22nd St",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-23T09:05:35.582Z",
+  "type": "gone",
+  "id": "rc-1324-nw-16th-ave-unit-26",
+  "address": "1324 NW 16th Ave #26",
+  "price": 1450
  }
 ]
