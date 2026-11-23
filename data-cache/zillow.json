@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-22T23:43:44Z",
+ "checked": "2026-11-23T12:45:15Z",
  "complete": true,
- "count": 72,
- "furnished": 10,
+ "count": 71,
+ "furnished": 9,
  "furnishedKnown": true,
  "skippedPerRoom": 3,
  "problems": [],
@@ -248,21 +248,6 @@
    "furnished": true
   },
   {
-   "zpid": "466201582",
-   "address": "390 SW 7th Pl",
-   "zip": "32601",
-   "price": 3800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1600,
-   "type": "house",
-   "complex": false,
-   "lat": 29.645262,
-   "lng": -82.32882,
-   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42735774",
    "address": "1022 NW 4th Ave",
    "zip": "32601",
@@ -275,6 +260,21 @@
    "lat": 29.65467,
    "lng": -82.33578,
    "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "466201582",
+   "address": "390 SW 7th Pl",
+   "zip": "32601",
+   "price": 3800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1600,
+   "type": "house",
+   "complex": false,
+   "lat": 29.645262,
+   "lng": -82.32882,
+   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
    "furnished": false
   },
   {
@@ -306,21 +306,6 @@
    "lng": -82.33601,
    "url": "https://www.zillow.com/homedetails/1095-NW-5th-Ave-Gainesville-FL-32601/465858154_zpid/",
    "furnished": false
-  },
-  {
-   "zpid": "42736675",
-   "address": "949 SW 13th St",
-   "zip": "32601",
-   "price": 5191,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 2152,
-   "type": "house",
-   "complex": false,
-   "lat": 29.642334,
-   "lng": -82.339,
-   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
-   "furnished": true
   },
   {
    "zpid": "42735719",
@@ -371,7 +356,7 @@
    "zpid": "42715893",
    "address": "318 SW 27th St",
    "zip": "32607",
-   "price": 5790,
+   "price": 5762,
    "beds": 4,
    "baths": 2,
    "sqft": 1614,
@@ -396,6 +381,21 @@
    "lng": -82.330185,
    "url": "https://www.zillow.com/homedetails/516-SW-7th-Pl-Gainesville-FL-32601/460590188_zpid/",
    "furnished": false
+  },
+  {
+   "zpid": "42736675",
+   "address": "949 SW 13th St",
+   "zip": "32601",
+   "price": 5191,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 2152,
+   "type": "house",
+   "complex": false,
+   "lat": 29.642334,
+   "lng": -82.339,
+   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
+   "furnished": true
   },
   {
    "zpid": "2091630775",
@@ -501,21 +501,6 @@
    "lng": -82.331116,
    "url": "https://www.zillow.com/homedetails/602-NW-9th-Ave-Gainesville-FL-32601/42731149_zpid/",
    "furnished": false
-  },
-  {
-   "zpid": "42736108",
-   "address": "2156 NW 4th Pl",
-   "zip": "32603",
-   "price": 4500,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 3080,
-   "type": "house",
-   "complex": false,
-   "lat": 29.655558,
-   "lng": -82.35338,
-   "url": "https://www.zillow.com/homedetails/2156-NW-4th-Pl-Gainesville-FL-32603/42736108_zpid/",
-   "furnished": true
   },
   {
    "zpid": "42716066",
@@ -911,7 +896,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6617,
+   "price": 6668,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -971,7 +956,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8166,
+   "price": 8119,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
