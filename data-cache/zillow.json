@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-24T12:44:22Z",
+ "checked": "2026-11-24T23:45:07Z",
  "complete": true,
  "count": 71,
  "furnished": 9,
@@ -203,21 +203,6 @@
    "furnished": false
   },
   {
-   "zpid": "42736597",
-   "address": "2015 NW 7th Pl",
-   "zip": "32603",
-   "price": 5485,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1980,
-   "type": "house",
-   "complex": false,
-   "lat": 29.658684,
-   "lng": -82.350334,
-   "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/",
-   "furnished": true
-  },
-  {
    "zpid": "2118436977",
    "address": "313 NW 11th St",
    "zip": "32601",
@@ -231,6 +216,21 @@
    "lng": -82.33585,
    "url": "https://www.zillow.com/homedetails/313-NW-11th-St-Gainesville-FL-32601/2118436977_zpid/",
    "furnished": false
+  },
+  {
+   "zpid": "42736597",
+   "address": "2015 NW 7th Pl",
+   "zip": "32603",
+   "price": 5487,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 1980,
+   "type": "house",
+   "complex": false,
+   "lat": 29.658684,
+   "lng": -82.350334,
+   "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42735774",
@@ -308,25 +308,10 @@
    "furnished": false
   },
   {
-   "zpid": "465856447",
-   "address": "518 NW 7th Ter",
-   "zip": "32601",
-   "price": 3600,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1584,
-   "type": "house",
-   "complex": false,
-   "lat": 29.655836,
-   "lng": -82.3323,
-   "url": "https://www.zillow.com/homedetails/518-NW-7th-Ter-Gainesville-FL-32601/465856447_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "2106112907",
    "address": "835 SW 9th St",
    "zip": "32601",
-   "price": 2900,
+   "price": 2860,
    "beds": 4,
    "baths": 4,
    "sqft": 1410,
@@ -371,7 +356,7 @@
    "zpid": "42736675",
    "address": "949 SW 13th St",
    "zip": "32601",
-   "price": 5099,
+   "price": 5098,
    "beds": 4,
    "baths": 3,
    "sqft": 2152,
@@ -485,6 +470,21 @@
    "lat": 29.660639,
    "lng": -82.331116,
    "url": "https://www.zillow.com/homedetails/602-NW-9th-Ave-Gainesville-FL-32601/42731149_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42735390",
+   "address": "417 SW 10th St",
+   "zip": "32601",
+   "price": 4500,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 2250,
+   "type": "house",
+   "complex": false,
+   "lat": 29.647879,
+   "lng": -82.33475,
+   "url": "https://www.zillow.com/homedetails/417-SW-10th-St-Gainesville-FL-32601/42735390_zpid/",
    "furnished": false
   },
   {
@@ -743,21 +743,6 @@
    "furnished": false
   },
   {
-   "zpid": "42715676",
-   "address": "111 SW 23rd Ter",
-   "zip": "32607",
-   "price": 6250,
-   "beds": 5,
-   "baths": 3,
-   "sqft": 2588,
-   "type": "house",
-   "complex": false,
-   "lat": 29.650946,
-   "lng": -82.35672,
-   "url": "https://www.zillow.com/homedetails/111-SW-23rd-Ter-Gainesville-FL-32607/42715676_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42714383",
    "address": "4025 NW 9th Ct",
    "zip": "32605",
@@ -771,6 +756,21 @@
    "lng": -82.38587,
    "url": "https://www.zillow.com/homedetails/4025-NW-9th-Ct-Gainesville-FL-32605/42714383_zpid/",
    "furnished": true
+  },
+  {
+   "zpid": "42715676",
+   "address": "111 SW 23rd Ter",
+   "zip": "32607",
+   "price": 6250,
+   "beds": 5,
+   "baths": 3,
+   "sqft": 2588,
+   "type": "house",
+   "complex": false,
+   "lat": 29.650946,
+   "lng": -82.35672,
+   "url": "https://www.zillow.com/homedetails/111-SW-23rd-Ter-Gainesville-FL-32607/42715676_zpid/",
+   "furnished": false
   },
   {
    "zpid": "42715852",
@@ -896,7 +896,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6641,
+   "price": 6552,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -971,7 +971,7 @@
    "zpid": "463021026",
    "address": "2710 W University Ave",
    "zip": "32607",
-   "price": 5000,
+   "price": 4749,
    "beds": 5,
    "baths": 5,
    "sqft": 1818,
