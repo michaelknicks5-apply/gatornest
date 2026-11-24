@@ -6,22 +6,21 @@
   "lastFetch": "2026-11-24T17:44:54.907Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": null
+  "nextFetch": "2026-11-25T08:21:25.076Z"
  },
  "ors": {
   "day": "2026-11-24",
   "directions": 150
  },
- "lastRun": "2026-11-24T17:44:54.907Z",
+ "lastRun": "2026-11-24T23:45:29.944Z",
  "lastFetch": "2026-11-24T17:44:54.907Z",
  "counts": {
-  "active": 218,
+  "active": 219,
   "gone": 37
  },
  "sources": {
   "rentcast": {
-   "count": 196,
-   "requests": 1
+   "skipped": true
   },
   "zillow": {
    "count": 71,
@@ -33,5 +32,7 @@
   }
  },
  "warnings": [],
- "notes": []
+ "notes": [
+  "Travel times will fill in next run (410 Gone from api.openrouteservice.org: <html lang=\"en\">\n<head>\n    <meta http-e)"
+ ]
 }
