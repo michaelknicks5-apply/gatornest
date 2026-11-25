@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-24T23:45:07Z",
+ "checked": "2026-11-25T12:44:21Z",
  "complete": true,
  "count": 71,
- "furnished": 9,
+ "furnished": 10,
  "furnishedKnown": true,
  "skippedPerRoom": 3,
  "problems": [],
@@ -50,21 +50,6 @@
    "lat": 29.654034,
    "lng": -82.33272,
    "url": "https://www.zillow.com/homedetails/305-NW-8th-St-Gainesville-FL-32601/103011762_zpid/",
-   "furnished": false
-  },
-  {
-   "zpid": "2059620429",
-   "address": "801 NW 4th Pl",
-   "zip": "32601",
-   "price": 3950,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1800,
-   "type": "house",
-   "complex": false,
-   "lat": 29.655035,
-   "lng": -82.33294,
-   "url": "https://www.zillow.com/homedetails/801-NW-4th-Pl-Gainesville-FL-32601/2059620429_zpid/",
    "furnished": false
   },
   {
@@ -233,21 +218,6 @@
    "furnished": true
   },
   {
-   "zpid": "42735774",
-   "address": "1022 NW 4th Ave",
-   "zip": "32601",
-   "price": 4650,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1306,
-   "type": "house",
-   "complex": false,
-   "lat": 29.65467,
-   "lng": -82.33578,
-   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "466201582",
    "address": "390 SW 7th Pl",
    "zip": "32601",
@@ -260,6 +230,21 @@
    "lat": 29.645262,
    "lng": -82.32882,
    "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42735774",
+   "address": "1022 NW 4th Ave",
+   "zip": "32601",
+   "price": 4650,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 1306,
+   "type": "house",
+   "complex": false,
+   "lat": 29.65467,
+   "lng": -82.33578,
+   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
    "furnished": false
   },
   {
@@ -326,7 +311,7 @@
    "zpid": "42715893",
    "address": "318 SW 27th St",
    "zip": "32607",
-   "price": 5805,
+   "price": 5824,
    "beds": 4,
    "baths": 2,
    "sqft": 1614,
@@ -441,6 +426,21 @@
    "lng": -82.33577,
    "url": "https://www.zillow.com/homedetails/1015-SW-5th-Ave-Gainesville-FL-32601/138114296_zpid/",
    "furnished": false
+  },
+  {
+   "zpid": "42736494",
+   "address": "1637 NW 7th Ave",
+   "zip": "32603",
+   "price": 4400,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 2000,
+   "type": "house",
+   "complex": false,
+   "lat": 29.657293,
+   "lng": -82.34439,
+   "url": "https://www.zillow.com/homedetails/1637-NW-7th-Ave-Gainesville-FL-32603/42736494_zpid/",
+   "furnished": true
   },
   {
    "zpid": "42716394",
@@ -593,21 +593,6 @@
    "furnished": false
   },
   {
-   "zpid": "2057567075",
-   "address": "5124 SW 48th Ln",
-   "zip": "32608",
-   "price": 1900,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 2176,
-   "type": "house",
-   "complex": false,
-   "lat": 29.60908,
-   "lng": -82.39792,
-   "url": "https://www.zillow.com/homedetails/5124-SW-48th-Ln-Gainesville-FL-32608/2057567075_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "338514813",
    "address": "5147 SW 47th Ln",
    "zip": "32608",
@@ -620,6 +605,21 @@
    "lat": 29.60935,
    "lng": -82.39813,
    "url": "https://www.zillow.com/homedetails/5147-SW-47th-Ln-Gainesville-FL-32608/338514813_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "2057567075",
+   "address": "5124 SW 48th Ln",
+   "zip": "32608",
+   "price": 1900,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 2176,
+   "type": "house",
+   "complex": false,
+   "lat": 29.60908,
+   "lng": -82.39792,
+   "url": "https://www.zillow.com/homedetails/5124-SW-48th-Ln-Gainesville-FL-32608/2057567075_zpid/",
    "furnished": false
   },
   {
@@ -896,7 +896,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6552,
+   "price": 6701,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -956,7 +956,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8171,
+   "price": 8131,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
