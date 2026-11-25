@@ -754,5 +754,78 @@
   "id": "zw-417-sw-10th-st",
   "address": "417 SW 10th St",
   "price": 4500
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "price",
+  "id": "rc-2710-w-university-ave",
+  "address": "2710 W University Ave",
+  "from": 5000,
+  "price": 4749
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3750,
+  "price": 3300
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "price",
+  "id": "rc-528-nw-36th-st",
+  "address": "528 NW 36th St",
+  "from": 4100,
+  "price": 690
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "new",
+  "id": "rc-900-sw-62nd-blvd-unit-i54",
+  "address": "900 SW 62nd Blvd #I54",
+  "price": 1650
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "gone",
+  "id": "rc-1257-sw-9th-rd-unit-107",
+  "address": "1257 SW 9th Rd #107",
+  "price": 2800
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "gone",
+  "id": "rc-1326-nw-57th-st",
+  "address": "1326 NW 57th St",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "gone",
+  "id": "rc-2619-nw-2nd-ave",
+  "address": "2619 NW 2nd Ave",
+  "price": 2600
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "gone",
+  "id": "rc-808-nw-4th-ave",
+  "address": "808 NW 4th Ave",
+  "price": 3600
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "new",
+  "id": "zw-1637-nw-7th-ave",
+  "address": "1637 NW 7th Ave",
+  "price": 4400
+ },
+ {
+  "t": "2026-11-25T12:44:42.551Z",
+  "type": "gone",
+  "id": "zw-801-nw-4th-pl",
+  "address": "801 NW 4th Pl",
+  "price": 3950
  }
 ]

@@ -41,7 +41,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-23T09:05:35.582Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-23T09:05:35.582Z",
@@ -169,7 +169,7 @@
     "pct": 0.351,
     "label": "good",
     "why": "$1,299 is 35% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -215,7 +215,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-02T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -345,7 +345,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/1000-SW-9th-St-Gainesville-FL-32601/42736771_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-1015-nw-21st-ave",
@@ -389,7 +389,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -494,7 +494,7 @@
     "pct": 0.666,
     "label": "good",
     "why": "$669 is 67% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -564,7 +564,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -670,11 +670,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.661,
+    "estRent": 2775,
+    "pct": -0.676,
     "label": "high",
-    "why": "$4,650 is 66% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,650 is 68% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -696,7 +696,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-1041-ne-20th-pl",
@@ -746,7 +746,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -851,7 +851,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -920,7 +920,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1030,7 +1030,7 @@
     "pct": -0.4,
     "label": "high",
     "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -1100,7 +1100,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1205,7 +1205,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -1274,7 +1274,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1384,7 +1384,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -1448,7 +1448,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1554,11 +1554,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.907,
+    "estRent": 2775,
+    "pct": -0.924,
     "label": "high",
-    "why": "$5,340 is 91% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$5,340 is 92% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -1580,7 +1580,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/1095-NW-5th-Ave-Gainesville-FL-32601/465858154_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-1102-nw-3rd-ave-unit-2",
@@ -1624,7 +1624,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -1752,7 +1752,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -1804,7 +1804,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-20T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -1909,7 +1909,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -1978,7 +1978,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2088,7 +2088,7 @@
     "pct": -0.5,
     "label": "high",
     "why": "$3,000 is 50% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -2152,7 +2152,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-27T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2262,7 +2262,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -2332,7 +2332,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-19T21:34:32.817Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-19T21:34:32.817Z",
@@ -2455,7 +2455,7 @@
     "pct": -0.475,
     "label": "high",
     "why": "$2,950 is 48% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "flood": {
     "zone": "X",
@@ -2506,7 +2506,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2638,7 +2638,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/1205-NW-9th-Ave-Gainesville-FL-32601/2100315567_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-1215-nw-6th-pl",
@@ -2682,7 +2682,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2792,7 +2792,7 @@
     "pct": 0.005,
     "label": "fair",
     "why": "$1,990 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -2856,7 +2856,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-23T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -2961,7 +2961,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -2985,180 +2985,6 @@
     "zone": "X",
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
-   }
-  }
- },
- {
-  "id": "rc-1257-sw-9th-rd-unit-107",
-  "key": "1257 sw 9th rd unit 107",
-  "source": "rentcast",
-  "sourceId": "1257-Sw-9th-Rd,-Apt-107,-Gainesville,-FL-32601",
-  "address": "1257 SW 9th Rd #107",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32601",
-  "lat": 29.641722,
-  "lng": -82.339082,
-  "price": 2800,
-  "beds": 3,
-  "baths": 3,
-  "sqft": 1330,
-  "type": "condo",
-  "complex": false,
-  "yearBuilt": null,
-  "listedDate": "2026-10-31T00:00:00.000Z",
-  "details": {
-   "furnished": null,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": null,
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 2800
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.11,
-     "walk": {
-      "min": 25,
-      "mi": 1.32
-     },
-     "bike": {
-      "min": 7,
-      "mi": 1.37
-     },
-     "drive": {
-      "min": 7,
-      "mi": 1.77
-     }
-    },
-    "midtown": {
-     "mi": 0.89,
-     "walk": {
-      "min": 21,
-      "mi": 1.08
-     },
-     "bike": {
-      "min": 7,
-      "mi": 1.18
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.17
-     }
-    },
-    "cove": {
-     "mi": 1.28,
-     "walk": {
-      "min": 33,
-      "mi": 1.73
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.71
-     },
-     "drive": {
-      "min": 7,
-      "mi": 1.94
-     }
-    },
-    "bostick": {
-     "mi": 1.67,
-     "walk": {
-      "min": 40,
-      "mi": 2.07
-     },
-     "bike": {
-      "min": 11,
-      "mi": 2.12
-     },
-     "drive": {
-      "min": 8,
-      "mi": 2.39
-     }
-    },
-    "marston": {
-     "mi": 0.52,
-     "walk": {
-      "min": 13,
-      "mi": 0.66
-     },
-     "bike": {
-      "min": 4,
-      "mi": 0.69
-     },
-     "drive": {
-      "min": 3,
-      "mi": 0.68
-     }
-    },
-    "macdintons": {
-     "mi": 0.85,
-     "walk": {
-      "min": 20,
-      "mi": 1.04
-     },
-     "bike": {
-      "min": 6,
-      "mi": 1.14
-     },
-     "drive": {
-      "min": 4,
-      "mi": 1.13
-     }
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2000,
-    "pct": -0.4,
-    "label": "high",
-    "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.81
-    },
-    "gym": {
-     "name": "Student Recreation & Fitness Center",
-     "mi": 0.74
-    },
-    "gas": {
-     "name": "bp",
-     "mi": 0.68
-    },
-    "bus": {
-     "name": "Wildflower Apartments",
-     "mi": 0.12
-    }
    }
   }
  },
@@ -3204,7 +3030,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3309,7 +3135,7 @@
     "pct": -0.425,
     "label": "high",
     "why": "$2,850 is 43% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -3378,7 +3204,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3488,7 +3314,7 @@
     "pct": -0.7,
     "label": "high",
     "why": "$3,400 is 70% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -3558,7 +3384,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3663,7 +3489,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -3732,7 +3558,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -3842,7 +3668,7 @@
     "pct": -0.45,
     "label": "high",
     "why": "$2,900 is 45% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -3863,188 +3689,6 @@
     }
    }
   }
- },
- {
-  "id": "rc-1326-nw-57th-st",
-  "key": "1326 nw 57th st",
-  "source": "rentcast",
-  "sourceId": "1326-Nw-57th-St,-Gainesville,-FL-32605",
-  "address": "1326 NW 57th St",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32605",
-  "lat": 29.665063,
-  "lng": -82.404056,
-  "price": 3600,
-  "beds": 4,
-  "baths": 3,
-  "sqft": 2986,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 1989,
-  "listedDate": "2026-10-15T00:00:00.000Z",
-  "details": {
-   "furnished": false,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": {
-   "name": "Cinthya  Gaxiola",
-   "office": "MONARCH GAINESVILLE REALTY, LLC",
-   "phone": "3522346217",
-   "email": "coordinator@monarchrealtygnv.com",
-   "website": "http://www.monarchrealtygnv.com"
-  },
-  "url": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 3600
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 3.12,
-     "walk": {
-      "min": 69,
-      "mi": 3.6
-     },
-     "bike": {
-      "min": 21,
-      "mi": 3.81
-     },
-     "drive": {
-      "min": 13,
-      "mi": 4.33
-     }
-    },
-    "midtown": {
-     "mi": 3.61,
-     "walk": {
-      "min": 79,
-      "mi": 4.08
-     },
-     "bike": {
-      "min": 24,
-      "mi": 4.41
-     },
-     "drive": {
-      "min": 14,
-      "mi": 4.55
-     }
-    },
-    "cove": {
-     "mi": 2.96,
-     "walk": {
-      "min": 65,
-      "mi": 3.35
-     },
-     "bike": {
-      "min": 19,
-      "mi": 3.43
-     },
-     "drive": {
-      "min": 11,
-      "mi": 3.8
-     }
-    },
-    "bostick": {
-     "mi": 2.56,
-     "walk": {
-      "min": 58,
-      "mi": 2.98
-     },
-     "bike": {
-      "min": 16,
-      "mi": 2.99
-     },
-     "drive": {
-      "min": 10,
-      "mi": 3.53
-     }
-    },
-    "marston": {
-     "mi": 3.81,
-     "walk": {
-      "min": 83,
-      "mi": 4.3
-     },
-     "bike": {
-      "min": 26,
-      "mi": 4.82
-     },
-     "drive": {
-      "min": 14,
-      "mi": 4.83
-     }
-    },
-    "macdintons": {
-     "mi": 3.61,
-     "walk": {
-      "min": 78,
-      "mi": 4.02
-     },
-     "bike": {
-      "min": 24,
-      "mi": 4.46
-     },
-     "drive": {
-      "min": 13,
-      "mi": 4.48
-     }
-    }
-   },
-   "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
-    "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 1.12
-    },
-    "gym": {
-     "name": "Planet Fitness",
-     "mi": 0.71
-    },
-    "gas": {
-     "name": "Sunoco",
-     "mi": 0.75
-    },
-    "bus": {
-     "name": "Bus stop",
-     "mi": 0.15
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   }
-  },
-  "zillowUrl": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
-  "zillowSeen": "2026-11-21T23:43:35.000Z"
  },
  {
   "id": "rc-1410-nw-55th-ter",
@@ -4094,7 +3738,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4199,7 +3843,7 @@
     "pct": 0.163,
     "label": "good",
     "why": "$1,675 is 16% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -4274,7 +3918,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4380,11 +4024,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.214,
+    "estRent": 2775,
+    "pct": 0.207,
     "label": "good",
-    "why": "$2,200 is 21% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,200 is 21% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -4406,7 +4050,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/1410-NW-7th-Rd-Gainesville-FL-32603/42736359_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-1422-ne-16th-pl",
@@ -4456,7 +4100,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4561,7 +4205,7 @@
     "pct": -0.05,
     "label": "fair",
     "why": "$2,100 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -4636,7 +4280,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4737,11 +4381,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.143,
+    "estRent": 2775,
+    "pct": 0.135,
     "label": "good",
-    "why": "$2,400 is 14% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,400 is 14% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -4816,7 +4460,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -4921,7 +4565,7 @@
     "pct": 0.113,
     "label": "good",
     "why": "$1,775 is 11% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -4990,7 +4634,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-21T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5100,7 +4744,7 @@
     "pct": -0.5,
     "label": "high",
     "why": "$3,000 is 50% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -5170,7 +4814,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5275,7 +4919,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -5350,7 +4994,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5455,7 +5099,7 @@
     "pct": 0.053,
     "label": "fair",
     "why": "$1,895 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -5530,7 +5174,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5635,7 +5279,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -5704,7 +5348,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5814,7 +5458,7 @@
     "pct": -0.037,
     "label": "fair",
     "why": "$2,075 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -5878,7 +5522,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-30T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -5984,11 +5628,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 4925,
-    "pct": -0.269,
+    "estRent": 5050,
+    "pct": -0.238,
     "label": "high",
-    "why": "$6,250 is 27% above about $4,925 for similar 6-bed listings.",
-    "comps": 22
+    "why": "$6,250 is 24% above about $5,050 for similar 6-bed listings.",
+    "comps": 21
    },
    "nearby": {
     "publix": {
@@ -6052,7 +5696,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2023-09-04T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6162,7 +5806,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -6226,7 +5870,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6327,11 +5971,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -6400,7 +6044,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6505,7 +6149,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -6574,7 +6218,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6688,7 +6332,7 @@
     "pct": 0.213,
     "label": "good",
     "why": "$1,575 is 21% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -6758,7 +6402,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -6868,7 +6512,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -6932,7 +6576,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-02-03T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7042,7 +6686,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -7106,7 +6750,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-18T04:21:51.587Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-18T04:21:51.587Z",
@@ -7234,7 +6878,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -7286,7 +6930,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7391,7 +7035,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -7466,7 +7110,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7571,7 +7215,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -7646,7 +7290,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7756,11 +7400,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -7782,7 +7426,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/204-NW-3rd-St-Gainesville-FL-32601/2075698090_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-206-se-21st-ter-unit-1",
@@ -7832,7 +7476,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -7937,7 +7581,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8012,7 +7656,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8117,7 +7761,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8192,7 +7836,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8297,7 +7941,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8372,7 +8016,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8477,7 +8121,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8552,7 +8196,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8657,7 +8301,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8732,7 +8376,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -8837,7 +8481,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -8912,7 +8556,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9017,7 +8661,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -9092,7 +8736,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-25T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9197,7 +8841,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -9272,7 +8916,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9373,11 +9017,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.125,
+    "estRent": 2775,
+    "pct": 0.117,
     "label": "good",
-    "why": "$2,450 is 13% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,450 is 12% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -9404,7 +9048,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/2110-NW-54th-Ter-Gainesville-FL-32605/42713354_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-224-nw-13th-ave",
@@ -9448,7 +9092,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9554,11 +9198,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.125,
+    "estRent": 2775,
+    "pct": 0.117,
     "label": "good",
-    "why": "$2,450 is 13% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,450 is 12% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -9580,7 +9224,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/224-NW-13th-Ave-Gainesville-FL-32601/42731388_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-2245-nw-16th-ter",
@@ -9624,7 +9268,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -9752,7 +9396,7 @@
     "pct": 0.228,
     "label": "good",
     "why": "$1,545 is 23% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -9798,7 +9442,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -9899,11 +9543,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -9930,7 +9574,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/2253-SW-41st-Ln-Gainesville-FL-32608/42724297_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-2360-sw-archer-entire-rd-unit-1012",
@@ -9974,7 +9618,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10079,7 +9723,7 @@
     "pct": 0.1,
     "label": "good",
     "why": "$1,800 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -10148,7 +9792,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-22T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10253,7 +9897,7 @@
     "pct": 0.1,
     "label": "good",
     "why": "$1,800 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -10322,7 +9966,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10432,7 +10076,7 @@
     "pct": 0.203,
     "label": "good",
     "why": "$1,595 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -10502,7 +10146,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-18T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10607,7 +10251,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -10682,7 +10326,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10787,7 +10431,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -10856,7 +10500,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -10965,7 +10609,7 @@
     "pct": 0.213,
     "label": "good",
     "why": "$1,575 is 21% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -11034,7 +10678,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11139,7 +10783,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -11214,7 +10858,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11319,7 +10963,7 @@
     "pct": 0.3,
     "label": "good",
     "why": "$1,400 is 30% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -11388,7 +11032,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11493,7 +11137,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -11562,7 +11206,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11671,11 +11315,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.786,
+    "estRent": 2775,
+    "pct": 0.784,
     "label": "good",
-    "why": "$599 is 79% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$599 is 78% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -11745,7 +11389,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -11851,11 +11495,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.538,
+    "estRent": 2775,
+    "pct": 0.533,
     "label": "good",
-    "why": "$1,295 is 54% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,295 is 53% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -11877,180 +11521,6 @@
    }
   },
   "perBed": true
- },
- {
-  "id": "rc-2619-nw-2nd-ave",
-  "key": "2619 nw 2nd ave",
-  "source": "rentcast",
-  "sourceId": "2619-Nw-2nd-Ave,-Gainesville,-FL-32607",
-  "address": "2619 NW 2nd Ave",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32607",
-  "lat": 29.65313,
-  "lng": -82.362033,
-  "price": 2600,
-  "beds": 3,
-  "baths": 3,
-  "sqft": 1420,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 1948,
-  "listedDate": "2026-10-28T00:00:00.000Z",
-  "details": {
-   "furnished": null,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": null,
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-10-28T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 2600
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 0.58,
-     "walk": {
-      "min": 15,
-      "mi": 0.78
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.95
-     },
-     "drive": {
-      "min": 4,
-      "mi": 0.97
-     }
-    },
-    "midtown": {
-     "mi": 1,
-     "walk": {
-      "min": 23,
-      "mi": 1.17
-     },
-     "bike": {
-      "min": 8,
-      "mi": 1.38
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.19
-     }
-    },
-    "cove": {
-     "mi": 0.31,
-     "walk": {
-      "min": 8,
-      "mi": 0.44
-     },
-     "bike": {
-      "min": 2,
-      "mi": 0.44
-     },
-     "drive": {
-      "min": 2,
-      "mi": 0.44
-     }
-    },
-    "bostick": {
-     "mi": 0.29,
-     "walk": {
-      "min": 9,
-      "mi": 0.48
-     },
-     "bike": {
-      "min": 3,
-      "mi": 0.48
-     },
-     "drive": {
-      "min": 2,
-      "mi": 0.61
-     }
-    },
-    "marston": {
-     "mi": 1.15,
-     "walk": {
-      "min": 28,
-      "mi": 1.43
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.62
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.48
-     }
-    },
-    "macdintons": {
-     "mi": 0.99,
-     "walk": {
-      "min": 21,
-      "mi": 1.11
-     },
-     "bike": {
-      "min": 7,
-      "mi": 1.34
-     },
-     "drive": {
-      "min": 4,
-      "mi": 1.13
-     }
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2000,
-    "pct": -0.3,
-    "label": "high",
-    "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.58
-    },
-    "gym": {
-     "name": "Student Recreation & Fitness Center",
-     "mi": 0.94
-    },
-    "gas": {
-     "name": "Facilities Services Motor Pool",
-     "mi": 0.8
-    },
-    "bus": {
-     "name": "Gainesville Women's Club",
-     "mi": 0.16
-    }
-   }
-  }
  },
  {
   "id": "rc-2706-w-university-ave",
@@ -12094,7 +11564,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12199,7 +11669,7 @@
     "pct": -0.65,
     "label": "high",
     "why": "$3,300 is 65% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -12274,7 +11744,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-24T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12380,11 +11850,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.009,
+    "estRent": 2775,
+    "pct": 0,
     "label": "fair",
-    "why": "$2,775 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,775 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -12417,7 +11887,7 @@
   "zip": "32607",
   "lat": 29.652157,
   "lng": -82.36319,
-  "price": 5000,
+  "price": 4749,
   "beds": 5,
   "baths": 5,
   "sqft": 1818,
@@ -12448,11 +11918,15 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
     "price": 5000
+   },
+   {
+    "date": "2026-11-25T12:44:42.551Z",
+    "price": 4749
    }
   ],
   "enrich": {
@@ -12555,10 +12029,10 @@
    },
    "deal": {
     "estRent": 4075,
-    "pct": -0.227,
+    "pct": -0.165,
     "label": "high",
-    "why": "$5,000 is 23% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "why": "$4,749 is 17% above about $4,075 for similar 5-bed listings.",
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -12580,7 +12054,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/2710-W-University-Ave-Gainesville-FL-32607/463021026_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-2712-nw-1st-ave",
@@ -12624,7 +12098,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -12752,7 +12226,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -12798,7 +12272,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -12903,7 +12377,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -12978,7 +12452,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-02T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13088,7 +12562,7 @@
     "pct": 0.325,
     "label": "good",
     "why": "$1,350 is 33% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -13158,7 +12632,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13263,7 +12737,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -13332,7 +12806,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13437,7 +12911,7 @@
     "pct": 0.676,
     "label": "good",
     "why": "$649 is 68% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -13507,7 +12981,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13612,7 +13086,7 @@
     "pct": 0.182,
     "label": "good",
     "why": "$1,636 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -13681,7 +13155,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-01-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13791,7 +13265,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -13861,7 +13335,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-05T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -13971,7 +13445,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -14041,7 +13515,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -14169,7 +13643,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -14221,7 +13695,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14322,11 +13796,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.107,
+    "estRent": 2775,
+    "pct": -0.117,
     "label": "high",
-    "why": "$3,100 is 11% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,100 is 12% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -14395,7 +13869,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14501,11 +13975,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -14527,7 +14001,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/313-NW-11th-St-Gainesville-FL-32601/2118436977_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-313-nw-34th-dr",
@@ -14577,7 +14051,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14682,7 +14156,7 @@
     "pct": -0.1,
     "label": "high",
     "why": "$2,200 is 10% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -14757,7 +14231,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -14862,7 +14336,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -14931,7 +14405,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15036,7 +14510,7 @@
     "pct": 0.176,
     "label": "good",
     "why": "$3,400 is 18% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -15063,7 +14537,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/3232-SW-42nd-Pl-Gainesville-FL-32608/42724561_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3304-sw-49th-ter",
@@ -15107,7 +14581,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15217,7 +14691,7 @@
     "pct": -0.475,
     "label": "high",
     "why": "$2,950 is 48% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -15287,7 +14761,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15392,7 +14866,7 @@
     "pct": -0.2,
     "label": "high",
     "why": "$2,400 is 20% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -15467,7 +14941,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15573,11 +15047,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.214,
+    "estRent": 2775,
+    "pct": 0.207,
     "label": "good",
-    "why": "$2,200 is 21% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,200 is 21% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -15599,7 +15073,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/3330-NW-27th-Ave-Gainesville-FL-32605/42709463_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3349-sw-50th-dr",
@@ -15643,7 +15117,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15753,7 +15227,7 @@
     "pct": -0.875,
     "label": "high",
     "why": "$3,750 is 88% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -15817,7 +15291,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -15927,7 +15401,7 @@
     "pct": 0.301,
     "label": "good",
     "why": "$1,399 is 30% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -15997,7 +15471,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16102,7 +15576,7 @@
     "pct": 0.025,
     "label": "fair",
     "why": "$1,950 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -16177,7 +15651,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16282,7 +15756,7 @@
     "pct": 0.01,
     "label": "fair",
     "why": "$1,980 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -16351,7 +15825,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16452,11 +15926,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.804,
+    "estRent": 2775,
+    "pct": 0.802,
     "label": "good",
-    "why": "$549 is 80% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$549 is 80% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -16532,7 +16006,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-31T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16637,7 +16111,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -16706,7 +16180,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-18T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16811,7 +16285,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -16880,7 +16354,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -16985,7 +16459,7 @@
     "pct": 0.313,
     "label": "good",
     "why": "$1,375 is 31% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -17054,7 +16528,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17164,7 +16638,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -17234,7 +16708,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-26T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17340,11 +16814,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.375,
+    "estRent": 2775,
+    "pct": 0.369,
     "label": "good",
-    "why": "$1,750 is 38% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,750 is 37% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -17366,7 +16840,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/3800-SW-20th-Ave-APT-501-Gainesville-FL-32607/58880085_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3800-sw-20th-ave-unit-rms-4-204",
@@ -17416,7 +16890,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-03T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17522,11 +16996,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.821,
+    "estRent": 2775,
+    "pct": 0.82,
     "label": "good",
-    "why": "$500 is 82% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$500 is 82% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -17591,7 +17065,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17692,11 +17166,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.357,
+    "estRent": 2775,
+    "pct": -0.369,
     "label": "high",
-    "why": "$3,800 is 36% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,800 is 37% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -17723,7 +17197,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3921-sw-34th-st-unit-105",
@@ -17767,7 +17241,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-14T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -17873,11 +17347,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.179,
+    "estRent": 2775,
+    "pct": 0.171,
     "label": "good",
-    "why": "$2,300 is 18% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,300 is 17% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -17899,7 +17373,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/3921-SW-34th-St-APT-105-Gainesville-FL-32608/2091972270_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3921-sw-34th-st-unit-301",
@@ -17949,7 +17423,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18050,11 +17524,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.429,
+    "estRent": 2775,
+    "pct": 0.423,
     "label": "good",
-    "why": "$1,600 is 43% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,600 is 42% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -18123,7 +17597,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18229,11 +17703,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.804,
+    "estRent": 2775,
+    "pct": 0.802,
     "label": "good",
-    "why": "$550 is 80% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$550 is 80% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -18298,7 +17772,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18399,11 +17873,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.357,
+    "estRent": 2775,
+    "pct": -0.369,
     "label": "high",
-    "why": "$3,800 is 36% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,800 is 37% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -18430,7 +17904,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/394-SW-7th-Pl-Gainesville-FL-32601/466201581_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-3951-sw-1st-ave",
@@ -18480,7 +17954,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18581,11 +18055,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.214,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 21% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -18612,7 +18086,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/3951-SW-1st-Ave-Gainesville-FL-32607/42716772_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-4000-sw-23rd-st-unit-1-106",
@@ -18662,7 +18136,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-03-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18768,11 +18242,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.286,
+    "estRent": 2775,
+    "pct": 0.279,
     "label": "good",
-    "why": "$2,000 is 29% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,000 is 28% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -18842,7 +18316,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-20T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -18947,11 +18421,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.25,
+    "estRent": 2775,
+    "pct": 0.243,
     "label": "good",
-    "why": "$2,100 is 25% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,100 is 24% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -19021,7 +18495,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19127,11 +18601,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.629,
+    "estRent": 2775,
+    "pct": -0.643,
     "label": "high",
-    "why": "$4,560 is 63% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,560 is 64% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -19201,7 +18675,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-09T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19306,7 +18780,7 @@
     "pct": -0.325,
     "label": "high",
     "why": "$2,650 is 33% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -19375,7 +18849,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-08-28T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19507,7 +18981,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/4025-NW-9th-Ct-Gainesville-FL-32605/42714383_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-403-nw-25th-st",
@@ -19557,7 +19031,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -19685,7 +19159,7 @@
     "pct": -0.4,
     "label": "high",
     "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -19731,7 +19205,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -19841,7 +19315,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -19911,7 +19385,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-02-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20021,7 +19495,7 @@
     "pct": -0.237,
     "label": "high",
     "why": "$2,475 is 24% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -20085,7 +19559,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20186,11 +19660,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -1.143,
+    "estRent": 2775,
+    "pct": -1.162,
     "label": "high",
-    "why": "$6,000 is 114% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$6,000 is 116% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -20217,7 +19691,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/420-NW-3rd-Ave-Gainesville-FL-32601/460628438_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-4219-nw-30th-ter",
@@ -20267,7 +19741,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-27T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20372,7 +19846,7 @@
     "pct": -0.025,
     "label": "fair",
     "why": "$2,050 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -20447,7 +19921,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20552,7 +20026,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -20627,7 +20101,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-05T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20732,7 +20206,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -20807,7 +20281,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-05-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -20921,7 +20395,7 @@
     "pct": 0.175,
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -20985,7 +20459,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21095,7 +20569,7 @@
     "pct": -0.05,
     "label": "fair",
     "why": "$2,100 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -21159,7 +20633,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21264,7 +20738,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -21339,7 +20813,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-02T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21444,7 +20918,7 @@
     "pct": 0.075,
     "label": "fair",
     "why": "$1,850 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -21513,7 +20987,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-03T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21618,7 +21092,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -21693,7 +21167,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-04T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21798,7 +21272,7 @@
     "pct": -0.137,
     "label": "high",
     "why": "$2,275 is 14% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -21873,7 +21347,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -21978,7 +21452,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -22053,7 +21527,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-14T17:08:16.245Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-14T17:08:16.245Z",
@@ -22181,7 +21655,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -22227,7 +21701,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22328,11 +21802,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.643,
+    "estRent": 2775,
+    "pct": -0.658,
     "label": "high",
-    "why": "$4,600 is 64% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,600 is 66% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -22401,7 +21875,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22506,7 +21980,7 @@
     "pct": 0.118,
     "label": "good",
     "why": "$1,765 is 12% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -22575,7 +22049,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-14T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22680,7 +22154,7 @@
     "pct": 0.118,
     "label": "good",
     "why": "$1,765 is 12% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -22749,7 +22223,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -22850,11 +22324,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.393,
+    "estRent": 2775,
+    "pct": -0.405,
     "label": "high",
-    "why": "$3,900 is 39% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,900 is 41% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -22881,7 +22355,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/510-SW-5th-St-Gainesville-FL-32601/446260303_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-5116-nw-21st-dr",
@@ -22925,7 +22399,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-10-20T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23039,7 +22513,7 @@
     "pct": 0.003,
     "label": "fair",
     "why": "$1,995 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -23103,7 +22577,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23213,11 +22687,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.321,
+    "estRent": 2775,
+    "pct": 0.315,
     "label": "good",
-    "why": "$1,900 is 32% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,900 is 32% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -23239,7 +22713,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/5124-SW-48th-Ln-Gainesville-FL-32608/2057567075_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-5147-sw-47th-ln",
@@ -23289,7 +22763,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23390,11 +22864,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.075,
+    "estRent": 2775,
+    "pct": 0.067,
     "label": "fair",
-    "why": "$2,590 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,590 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -23421,7 +22895,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/5147-SW-47th-Ln-Gainesville-FL-32608/338514813_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-516-sw-7th-pl",
@@ -23465,7 +22939,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-24T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23571,11 +23045,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -23597,7 +23071,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/516-SW-7th-Pl-Gainesville-FL-32601/460590188_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-5166-sw-48th-ln",
@@ -23647,7 +23121,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-22T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23748,11 +23222,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.071,
+    "estRent": 2775,
+    "pct": 0.063,
     "label": "fair",
-    "why": "$2,600 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,600 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -23779,7 +23253,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/5166-SW-48th-Ln-Gainesville-FL-32608/2057827261_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-5179-nw-22nd-st",
@@ -23829,7 +23303,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -23934,7 +23408,7 @@
     "pct": -0.175,
     "label": "high",
     "why": "$2,350 is 18% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -24003,7 +23477,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24109,11 +23583,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -24148,12 +23622,12 @@
   "zip": "32607",
   "lat": 29.656002,
   "lng": -82.376863,
-  "price": 4100,
+  "price": 690,
   "beds": 7,
   "baths": 3,
   "sqft": 2078,
   "type": "house",
-  "complex": false,
+  "complex": true,
   "yearBuilt": null,
   "listedDate": "2026-06-11T00:00:00.000Z",
   "details": {
@@ -24179,11 +23653,15 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
     "price": 4100
+   },
+   {
+    "date": "2026-11-25T12:44:42.551Z",
+    "price": 690
    }
   ],
   "enrich": {
@@ -24286,9 +23764,9 @@
    },
    "deal": {
     "estRent": 7050,
-    "pct": 0.418,
+    "pct": 0.902,
     "label": "good",
-    "why": "$4,100 is 42% below about $7,050 for similar 7-bed listings.",
+    "why": "$690 is 90% below about $7,050 for similar 7-bed listings.",
     "comps": 8
    },
    "nearby": {
@@ -24311,7 +23789,8 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/528-NW-36th-St-Gainesville-FL-32607/42716420_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z",
+  "perBed": true
  },
  {
   "id": "rc-537-sw-6th-pl",
@@ -24355,7 +23834,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24460,7 +23939,7 @@
     "pct": -0.227,
     "label": "high",
     "why": "$5,000 is 23% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -24487,7 +23966,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/537-SW-6th-Pl-Gainesville-FL-32601/2067602658_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-541-ne-12th-ct",
@@ -24531,7 +24010,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24645,7 +24124,7 @@
     "pct": 0.203,
     "label": "good",
     "why": "$1,595 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -24715,7 +24194,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -24820,7 +24299,7 @@
     "pct": 0.128,
     "label": "good",
     "why": "$1,745 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -24895,7 +24374,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-09T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25000,7 +24479,7 @@
     "pct": -0.15,
     "label": "high",
     "why": "$2,300 is 15% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -25075,7 +24554,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-01T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25180,7 +24659,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -25255,7 +24734,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25369,7 +24848,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -25402,11 +24881,11 @@
   "zip": "32601",
   "lat": 29.654165,
   "lng": -82.331596,
-  "price": 3750,
-  "beds": 5,
-  "baths": 5,
-  "sqft": 3256,
-  "type": "townhouse",
+  "price": 3300,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1628,
+  "type": "house",
   "complex": true,
   "yearBuilt": 2019,
   "listedDate": "2026-10-15T00:00:00.000Z",
@@ -25433,7 +24912,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25450,6 +24929,10 @@
    {
     "date": "2026-11-23T09:05:35.582Z",
     "price": 3750
+   },
+   {
+    "date": "2026-11-25T12:44:42.551Z",
+    "price": 3300
    }
   ],
   "enrich": {
@@ -25551,11 +25034,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 4125,
-    "pct": 0.091,
-    "label": "good",
-    "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "estRent": 2775,
+    "pct": -0.189,
+    "label": "high",
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -25619,7 +25102,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25725,11 +25208,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -25793,7 +25276,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -25894,11 +25377,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -25967,7 +25450,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26073,11 +25556,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -26141,7 +25624,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26247,11 +25730,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -26315,7 +25798,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26421,11 +25904,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -26489,7 +25972,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26599,7 +26082,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -26663,7 +26146,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26768,7 +26251,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -26837,7 +26320,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -26947,7 +26430,7 @@
     "pct": 0.091,
     "label": "good",
     "why": "$3,750 is 9% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -27013,7 +26496,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27114,11 +26597,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -27187,7 +26670,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-15T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27288,11 +26771,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -27367,7 +26850,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27472,7 +26955,7 @@
     "pct": 0.213,
     "label": "good",
     "why": "$1,575 is 21% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -27541,7 +27024,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27642,11 +27125,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.393,
+    "estRent": 2775,
+    "pct": -0.405,
     "label": "high",
-    "why": "$3,900 is 39% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,900 is 41% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -27673,7 +27156,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/640-SW-5th-St-Gainesville-FL-32601/2066867451_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-6519-w-newberry-rd-unit-911",
@@ -27723,7 +27206,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -27828,7 +27311,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -27903,7 +27386,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-06-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28013,7 +27496,7 @@
     "pct": 0.325,
     "label": "good",
     "why": "$1,350 is 33% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -28083,7 +27566,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28188,7 +27671,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -28257,7 +27740,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-31T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28362,7 +27845,7 @@
     "pct": 0.2,
     "label": "good",
     "why": "$1,600 is 20% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -28431,7 +27914,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-01-16T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28536,7 +28019,7 @@
     "pct": 0.663,
     "label": "good",
     "why": "$675 is 66% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -28601,12 +28084,18 @@
   },
   "description": null,
   "photos": [],
-  "contact": null,
+  "contact": {
+   "name": "Nish Sharma",
+   "office": "Legacy Cornerstone Inc",
+   "phone": "9165296404",
+   "email": "pranish@allcountysterling.com",
+   "website": null
+  },
   "url": null,
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -28734,7 +28223,7 @@
     "pct": 0.053,
     "label": "fair",
     "why": "$1,895 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -28786,7 +28275,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-09-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -28887,11 +28376,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.107,
+    "estRent": 2775,
+    "pct": 0.099,
     "label": "good",
-    "why": "$2,500 is 11% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,500 is 10% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -28918,7 +28407,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/729-NW-34th-St-Gainesville-FL-32607/42716360_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-753-nw-8th-st",
@@ -28962,7 +28451,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-06T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29063,11 +28552,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -29094,7 +28583,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/753-NW-8th-St-Gainesville-FL-32601/82033255_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-765-nw-9th-st",
@@ -29138,7 +28627,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29248,7 +28737,7 @@
     "pct": -0.031,
     "label": "fair",
     "why": "$4,200 is in line with about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -29270,183 +28759,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/765-NW-9th-St-Gainesville-FL-32601/250765538_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
- },
- {
-  "id": "rc-808-nw-4th-ave",
-  "key": "808 nw 4th ave",
-  "source": "rentcast",
-  "sourceId": "808-Nw-4th-Ave,-Gainesville,-FL-32601",
-  "address": "808 NW 4th Ave",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32601",
-  "lat": 29.654697,
-  "lng": -82.333259,
-  "price": 3600,
-  "beds": 4,
-  "baths": 4,
-  "sqft": 1560,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": 2019,
-  "listedDate": "2026-11-10T00:00:00.000Z",
-  "details": {
-   "furnished": false,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/",
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-11-10T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-13T22:26:26.256Z",
-    "price": 3600
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.54,
-     "walk": {
-      "min": 37,
-      "mi": 1.92
-     },
-     "bike": {
-      "min": 11,
-      "mi": 1.98
-     },
-     "drive": {
-      "min": 10,
-      "mi": 2.21
-     }
-    },
-    "midtown": {
-     "mi": 0.73,
-     "walk": {
-      "min": 16,
-      "mi": 0.81
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.82
-     },
-     "drive": {
-      "min": 5,
-      "mi": 0.98
-     }
-    },
-    "cove": {
-     "mi": 1.47,
-     "walk": {
-      "min": 32,
-      "mi": 1.67
-     },
-     "bike": {
-      "min": 9,
-      "mi": 1.72
-     },
-     "drive": {
-      "min": 7,
-      "mi": 1.71
-     }
-    },
-    "bostick": {
-     "mi": 1.94,
-     "walk": {
-      "min": 41,
-      "mi": 2.13
-     },
-     "bike": {
-      "min": 12,
-      "mi": 2.18
-     },
-     "drive": {
-      "min": 8,
-      "mi": 2.16
-     }
-    },
-    "marston": {
-     "mi": 0.78,
-     "walk": {
-      "min": 19,
-      "mi": 0.99
-     },
-     "bike": {
-      "min": 6,
-      "mi": 1.04
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.11
-     }
-    },
-    "macdintons": {
-     "mi": 0.76,
-     "walk": {
-      "min": 17,
-      "mi": 0.87
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.87
-     },
-     "drive": {
-      "min": 5,
-      "mi": 0.95
-     }
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
-    "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.34
-    },
-    "gym": {
-     "name": "Orangetheory Fitness",
-     "mi": 0.4
-    },
-    "gas": {
-     "name": "Refresh",
-     "mi": 0.25
-    },
-    "bus": {
-     "name": "West University Avenue @ Northwest 8th Street",
-     "mi": 0.18
-    }
-   }
-  },
-  "zillowUrl": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/",
-  "zillowSeen": "2026-11-23T12:45:15.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-808-nw-7th-pl",
@@ -29490,7 +28803,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29600,7 +28913,7 @@
     "pct": -0.7,
     "label": "high",
     "why": "$3,400 is 70% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -29664,7 +28977,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-08T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29774,7 +29087,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -29838,7 +29151,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -29939,11 +29252,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.214,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 21% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -29970,7 +29283,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/814-NW-7th-Pl-Gainesville-FL-32601/42735719_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-816-nw-7th-pl",
@@ -30014,7 +29327,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30124,7 +29437,7 @@
     "pct": -0.35,
     "label": "high",
     "why": "$2,700 is 35% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -30188,7 +29501,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30294,11 +29607,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 4925,
-    "pct": -0.706,
+    "estRent": 5050,
+    "pct": -0.663,
     "label": "high",
-    "why": "$8,400 is 71% above about $4,925 for similar 6-bed listings.",
-    "comps": 22
+    "why": "$8,400 is 66% above about $5,050 for similar 6-bed listings.",
+    "comps": 21
    },
    "nearby": {
     "publix": {
@@ -30320,7 +29633,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/824-SW-9th-St-Gainesville-FL-32601/42736721_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-825-sw-55th-ter",
@@ -30364,7 +29677,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-04T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30469,7 +29782,7 @@
     "pct": 0.15,
     "label": "good",
     "why": "$1,700 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -30538,7 +29851,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30639,11 +29952,11 @@
     }
    },
    "deal": {
-    "estRent": 4925,
-    "pct": -0.706,
+    "estRent": 5050,
+    "pct": -0.663,
     "label": "high",
-    "why": "$8,400 is 71% above about $4,925 for similar 6-bed listings.",
-    "comps": 22
+    "why": "$8,400 is 66% above about $5,050 for similar 6-bed listings.",
+    "comps": 21
    },
    "nearby": {
     "publix": {
@@ -30670,7 +29983,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/834-SW-9th-St-Gainesville-FL-32601/42736719_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-852-sw-58th-ter",
@@ -30714,7 +30027,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-12T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30824,7 +30137,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -30888,7 +30201,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -30994,11 +30307,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.714,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 71% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -31020,7 +30333,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-873-sw-5th-ter",
@@ -31064,7 +30377,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-17T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31174,7 +30487,7 @@
     "pct": -0.166,
     "label": "high",
     "why": "$4,750 is 17% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -31196,7 +30509,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/873-SW-5th-Ter-Gainesville-FL-32601/2067161909_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-879-sw-6th-st",
@@ -31240,7 +30553,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31346,11 +30659,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.714,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 71% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -31372,7 +30685,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/879-SW-6th-St-Gainesville-FL-32601/465853772_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-885-sw-6th-st",
@@ -31416,7 +30729,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31517,11 +30830,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.714,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 71% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -31548,7 +30861,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-893-sw-6th-st",
@@ -31592,7 +30905,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31698,11 +31011,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.714,
+    "estRent": 2775,
+    "pct": -0.73,
     "label": "high",
-    "why": "$4,800 is 71% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,800 is 73% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -31724,7 +31037,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/893-SW-6th-St-Gainesville-FL-32601/465853771_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-900-sw-62nd-blvd-unit-1",
@@ -31774,7 +31087,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-26T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -31879,7 +31192,7 @@
     "pct": 0.103,
     "label": "good",
     "why": "$1,795 is 10% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -31903,6 +31216,89 @@
     "zone": "X",
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
+   }
+  }
+ },
+ {
+  "id": "rc-900-sw-62nd-blvd-unit-i54",
+  "key": "900 sw 62nd blvd unit i54",
+  "source": "rentcast",
+  "sourceId": "900-Sw-62nd-Blvd,-Apt-I54,-Gainesville,-FL-32607",
+  "address": "900 SW 62nd Blvd #I54",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.643923,
+  "lng": -82.399767,
+  "price": 1650,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1370,
+  "type": "townhouse",
+  "complex": false,
+  "yearBuilt": 1985,
+  "listedDate": "2026-11-24T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Sharon Giddens",
+   "office": "WATSON REALTY CORP - PROPERTY MANAGEMENT",
+   "phone": "3523181331",
+   "email": "sharonmgiddens@gmail.com",
+   "website": null
+  },
+  "url": null,
+  "status": "active",
+  "goneSince": null,
+  "firstSeen": "2026-11-25T12:44:42.551Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-25T12:44:42.551Z",
+    "price": 1650
+   }
+  ],
+  "enrich": {
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.78
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 1.22
+    },
+    "gas": {
+     "name": "Circle K",
+     "mi": 0.32
+    },
+    "bus": {
+     "name": "Rockwood Villas Apartments",
+     "mi": 0.05
+    }
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": 0.175,
+    "label": "good",
+    "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
+    "comps": 190
    }
   }
  },
@@ -31948,7 +31344,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2025-11-07T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32054,11 +31450,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.764,
+    "estRent": 2775,
+    "pct": 0.762,
     "label": "good",
-    "why": "$660 is 76% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$660 is 76% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -32129,7 +31525,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-08-14T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32230,11 +31626,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.538,
+    "estRent": 2775,
+    "pct": 0.533,
     "label": "good",
-    "why": "$1,295 is 54% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,295 is 53% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -32304,7 +31700,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-05T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32414,7 +31810,7 @@
     "pct": 0.268,
     "label": "good",
     "why": "$1,465 is 27% below about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -32478,7 +31874,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-07-11T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32579,11 +31975,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.643,
+    "estRent": 2775,
+    "pct": 0.64,
     "label": "good",
-    "why": "$1,000 is 64% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,000 is 64% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    },
    "nearby": {
     "publix": {
@@ -32659,7 +32055,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-19T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32764,7 +32160,7 @@
     "pct": 0.003,
     "label": "fair",
     "why": "$1,995 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -32833,7 +32229,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2024-04-29T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -32943,7 +32339,7 @@
     "pct": -0.47,
     "label": "high",
     "why": "$5,990 is 47% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    },
    "nearby": {
     "publix": {
@@ -32965,7 +32361,7 @@
    }
   },
   "zillowUrl": "https://www.zillow.com/homedetails/925-NW-22nd-St-3-Gainesville-FL-32603/350567834_zpid/",
-  "zillowSeen": "2026-11-24T23:45:07.000Z"
+  "zillowSeen": "2026-11-25T12:44:21.000Z"
  },
  {
   "id": "rc-927-nw-5th-ave",
@@ -33009,7 +32405,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-21T12:46:05.211Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-21T12:46:05.211Z",
@@ -33137,7 +32533,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    }
   }
  },
@@ -33183,7 +32579,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-10-30T00:00:00.000Z",
-  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "lastSeen": "2026-11-25T12:44:42.551Z",
   "priceHistory": [
    {
     "date": "2026-11-13T22:26:26.256Z",
@@ -33288,7 +32684,7 @@
     "pct": -0.1,
     "label": "high",
     "why": "$2,200 is 10% above about $2,000 for similar 3-bed listings.",
-    "comps": 192
+    "comps": 190
    },
    "nearby": {
     "publix": {
@@ -33358,7 +32754,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -33482,11 +32878,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.571,
+    "estRent": 2775,
+    "pct": -0.586,
     "label": "high",
-    "why": "$4,400 is 57% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -33533,7 +32929,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -33661,7 +33057,7 @@
     "pct": -0.534,
     "label": "high",
     "why": "$6,250 is 53% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    }
   }
  },
@@ -33707,7 +33103,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -33831,11 +33227,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.071,
-    "label": "fair",
-    "why": "$3,000 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "estRent": 2775,
+    "pct": -0.081,
+    "label": "high",
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -33881,7 +33277,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -34009,7 +33405,84 @@
     "pct": 0.03,
     "label": "fair",
     "why": "$4,000 is in line with about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
+   }
+  }
+ },
+ {
+  "id": "zw-1637-nw-7th-ave",
+  "key": "1637 nw 7th ave",
+  "source": "zillow",
+  "sourceId": "42736494",
+  "address": "1637 NW 7th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32603",
+  "lat": 29.657293,
+  "lng": -82.34439,
+  "price": 4400,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 2000,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": null,
+  "listedDate": null,
+  "details": {
+   "furnished": true,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": "https://www.zillow.com/homedetails/1637-NW-7th-Ave-Gainesville-FL-32603/42736494_zpid/",
+  "status": "active",
+  "goneSince": null,
+  "firstSeen": "2026-11-25T12:44:42.551Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-25T12:44:42.551Z",
+    "price": 4400
+   }
+  ],
+  "enrich": {
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.42
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.44
+    },
+    "gas": {
+     "name": "GATE",
+     "mi": 0.29
+    },
+    "bus": {
+     "name": "Northwest 17th Street @ Northwest 7th Avenue",
+     "mi": 0.02
+    }
+   },
+   "deal": {
+    "estRent": 2775,
+    "pct": -0.586,
+    "label": "high",
+    "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -34055,7 +33528,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -34179,11 +33652,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -34230,7 +33703,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -34362,7 +33835,7 @@
     "pct": -1.04,
     "label": "high",
     "why": "$8,315 is 104% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    }
   }
  },
@@ -34409,7 +33882,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -34588,7 +34061,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -34716,11 +34189,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.924,
+    "estRent": 2775,
+    "pct": -0.941,
     "label": "high",
-    "why": "$5,386 is 92% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$5,386 is 94% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -34767,7 +34240,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -34942,7 +34415,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -35066,11 +34539,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.375,
+    "estRent": 2775,
+    "pct": -0.387,
     "label": "high",
-    "why": "$3,850 is 38% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,850 is 39% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35116,7 +34589,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-22T23:44:50.930Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-22T23:44:50.930Z",
@@ -35240,11 +34713,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.286,
+    "estRent": 2775,
+    "pct": 0.279,
     "label": "good",
-    "why": "$2,000 is 29% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,000 is 28% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35290,7 +34763,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -35414,11 +34887,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.357,
+    "estRent": 2775,
+    "pct": -0.369,
     "label": "high",
-    "why": "$3,800 is 36% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,800 is 37% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35464,7 +34937,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -35588,11 +35061,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35638,7 +35111,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -35762,11 +35235,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.25,
+    "estRent": 2775,
+    "pct": -0.261,
     "label": "high",
-    "why": "$3,500 is 25% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$3,500 is 26% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35813,7 +35286,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -35937,11 +35410,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -1.082,
+    "estRent": 2775,
+    "pct": -1.101,
     "label": "high",
-    "why": "$5,830 is 108% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$5,830 is 110% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -35987,7 +35460,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:43:43.440Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:43:43.440Z",
@@ -36111,11 +35584,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.161,
+    "estRent": 2775,
+    "pct": 0.153,
     "label": "good",
-    "why": "$2,350 is 16% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,350 is 15% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -36161,7 +35634,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:43:43.440Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:43:43.440Z",
@@ -36285,11 +35758,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.629,
+    "estRent": 2775,
+    "pct": -0.643,
     "label": "high",
-    "why": "$4,560 is 63% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,560 is 64% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -36336,7 +35809,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -36464,7 +35937,7 @@
     "pct": -2.036,
     "label": "high",
     "why": "$12,372 is 204% above about $4,075 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    }
   }
  },
@@ -36510,7 +35983,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-20T23:45:05.168Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-20T23:45:05.168Z",
@@ -36634,11 +36107,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -36684,7 +36157,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-24T23:45:29.944Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-24T23:45:29.944Z",
@@ -36711,11 +36184,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.607,
+    "estRent": 2775,
+    "pct": -0.622,
     "label": "high",
-    "why": "$4,500 is 61% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$4,500 is 62% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -36762,7 +36235,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -36886,11 +36359,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.054,
+    "estRent": 2775,
+    "pct": 0.045,
     "label": "fair",
-    "why": "$2,650 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,650 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -36937,7 +36410,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -37061,11 +36534,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.071,
-    "label": "fair",
-    "why": "$3,000 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "estRent": 2775,
+    "pct": -0.081,
+    "label": "high",
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -37112,7 +36585,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -37240,7 +36713,7 @@
     "pct": 0.321,
     "label": "good",
     "why": "$2,800 is 32% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    }
   }
  },
@@ -37287,7 +36760,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -37411,11 +36884,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.018,
+    "estRent": 2775,
+    "pct": -0.027,
     "label": "fair",
-    "why": "$2,850 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,850 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -37461,7 +36934,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-17T23:45:28.931Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-17T23:45:28.931Z",
@@ -37585,11 +37058,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.321,
+    "estRent": 2775,
+    "pct": 0.315,
     "label": "good",
-    "why": "$1,900 is 32% below about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$1,900 is 32% below about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -37635,7 +37108,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-23T23:45:07.094Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-23T23:45:07.094Z",
@@ -37759,185 +37232,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
-   }
-  }
- },
- {
-  "id": "zw-801-nw-4th-pl",
-  "key": "801 nw 4th pl",
-  "source": "zillow",
-  "sourceId": "2059620429",
-  "address": "801 NW 4th Pl",
-  "city": "Gainesville",
-  "state": "FL",
-  "zip": "32601",
-  "lat": 29.655035,
-  "lng": -82.33294,
-  "price": 3950,
-  "beds": 4,
-  "baths": 4,
-  "sqft": 1800,
-  "type": "house",
-  "complex": false,
-  "yearBuilt": null,
-  "listedDate": null,
-  "details": {
-   "furnished": false,
-   "pets": null,
-   "dogs": null,
-   "parking": null,
-   "washerDryer": null,
-   "centralAC": null,
-   "dishwasher": null,
-   "yard": null,
-   "pool": null,
-   "utilitiesIncluded": null,
-   "internetIncluded": null,
-   "availableDate": null,
-   "leaseMonths": null,
-   "deposit": null
-  },
-  "description": null,
-  "photos": [],
-  "contact": null,
-  "url": "https://www.zillow.com/homedetails/801-NW-4th-Pl-Gainesville-FL-32601/2059620429_zpid/",
-  "status": "active",
-  "goneSince": null,
-  "firstSeen": "2026-11-17T23:45:28.931Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
-  "priceHistory": [
-   {
-    "date": "2026-11-17T23:45:28.931Z",
-    "price": 3950
-   }
-  ],
-  "enrich": {
-   "travel": {
-    "deltachi": {
-     "mi": 1.57,
-     "walk": {
-      "min": 38,
-      "mi": 1.98
-     },
-     "bike": {
-      "min": 11,
-      "mi": 2.04
-     },
-     "drive": {
-      "min": 10,
-      "mi": 2.58
-     }
-    },
-    "midtown": {
-     "mi": 0.76,
-     "walk": {
-      "min": 17,
-      "mi": 0.87
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.87
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.05
-     }
-    },
-    "cove": {
-     "mi": 1.49,
-     "walk": {
-      "min": 33,
-      "mi": 1.72
-     },
-     "bike": {
-      "min": 10,
-      "mi": 1.78
-     },
-     "drive": {
-      "min": 8,
-      "mi": 1.77
-     }
-    },
-    "bostick": {
-     "mi": 1.97,
-     "walk": {
-      "min": 42,
-      "mi": 2.19
-     },
-     "bike": {
-      "min": 12,
-      "mi": 2.24
-     },
-     "drive": {
-      "min": 9,
-      "mi": 2.22
-     }
-    },
-    "marston": {
-     "mi": 0.81,
-     "walk": {
-      "min": 20,
-      "mi": 1.04
-     },
-     "bike": {
-      "min": 6,
-      "mi": 1.06
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.38
-     }
-    },
-    "macdintons": {
-     "mi": 0.78,
-     "walk": {
-      "min": 18,
-      "mi": 0.93
-     },
-     "bike": {
-      "min": 5,
-      "mi": 0.93
-     },
-     "drive": {
-      "min": 5,
-      "mi": 1.01
-     }
-    }
-   },
-   "nearby": {
-    "publix": {
-     "name": "Publix",
-     "mi": 0.37
-    },
-    "gym": {
-     "name": "Orangetheory Fitness",
-     "mi": 0.43
-    },
-    "gas": {
-     "name": "Refresh",
-     "mi": 0.28
-    },
-    "bus": {
-     "name": "West University Avenue @ Northwest 8th Street",
-     "mi": 0.2
-    }
-   },
-   "flood": {
-    "zone": "X",
-    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
-    "highRisk": false
-   },
-   "deal": {
-    "estRent": 2800,
-    "pct": -0.411,
-    "label": "high",
-    "why": "$3,950 is 41% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -37983,7 +37282,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-18T23:45:40.653Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-18T23:45:40.653Z",
@@ -38107,11 +37406,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -38157,7 +37456,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-22T23:44:50.930Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-22T23:44:50.930Z",
@@ -38285,7 +37584,7 @@
     "pct": 0.127,
     "label": "good",
     "why": "$3,600 is 13% below about $4,125 for similar 5-bed listings.",
-    "comps": 96
+    "comps": 94
    }
   }
  },
@@ -38332,7 +37631,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -38464,11 +37763,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 4925,
-    "pct": -0.338,
+    "estRent": 5050,
+    "pct": -0.305,
     "label": "high",
-    "why": "$6,592 is 34% above about $4,925 for similar 6-bed listings.",
-    "comps": 22
+    "why": "$6,592 is 31% above about $5,050 for similar 6-bed listings.",
+    "comps": 21
    }
   }
  },
@@ -38515,7 +37814,7 @@
   "status": "active",
   "goneSince": null,
   "firstSeen": "2026-11-15T00:25:40.330Z",
-  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "lastSeen": "2026-11-25T12:44:21.000Z",
   "priceHistory": [
    {
     "date": "2026-11-15T00:25:40.330Z",
@@ -38643,11 +37942,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.86,
+    "estRent": 2775,
+    "pct": -0.877,
     "label": "high",
-    "why": "$5,209 is 86% above about $2,800 for similar 4-bed listings.",
-    "comps": 208
+    "why": "$5,209 is 88% above about $2,775 for similar 4-bed listings.",
+    "comps": 205
    }
   }
  },
@@ -38794,11 +38093,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.571,
+    "estRent": 2775,
+    "pct": -0.586,
     "label": "high",
-    "why": "$4,400 is 57% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -38978,7 +38277,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -39152,7 +38451,7 @@
     "pct": 0,
     "label": "fair",
     "why": "$2,000 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -39340,11 +38639,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.375,
+    "estRent": 2775,
+    "pct": 0.369,
     "label": "good",
-    "why": "$1,750 is 38% below about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$1,750 is 37% below about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "flood": {
     "zone": "X",
@@ -39496,11 +38795,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -39681,7 +38980,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -39852,11 +39151,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.071,
-    "label": "fair",
-    "why": "$3,000 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "estRent": 2775,
+    "pct": -0.081,
+    "label": "high",
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -39884,6 +39183,180 @@
   },
   "zillowUrl": "https://www.zillow.com/homedetails/121-NW-29th-St-Gainesville-FL-32607/42716167_zpid/",
   "zillowSeen": "2026-11-18T12:44:00.000Z"
+ },
+ {
+  "id": "rc-1257-sw-9th-rd-unit-107",
+  "key": "1257 sw 9th rd unit 107",
+  "source": "rentcast",
+  "sourceId": "1257-Sw-9th-Rd,-Apt-107,-Gainesville,-FL-32601",
+  "address": "1257 SW 9th Rd #107",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.641722,
+  "lng": -82.339082,
+  "price": 2800,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1330,
+  "type": "condo",
+  "complex": false,
+  "yearBuilt": null,
+  "listedDate": "2026-10-31T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": null,
+  "status": "gone",
+  "goneSince": "2026-11-25T12:44:42.551Z",
+  "firstSeen": "2026-10-31T00:00:00.000Z",
+  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 2800
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.11,
+     "walk": {
+      "min": 25,
+      "mi": 1.32
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.37
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.77
+     }
+    },
+    "midtown": {
+     "mi": 0.89,
+     "walk": {
+      "min": 21,
+      "mi": 1.08
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.18
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.17
+     }
+    },
+    "cove": {
+     "mi": 1.28,
+     "walk": {
+      "min": 33,
+      "mi": 1.73
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.71
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.94
+     }
+    },
+    "bostick": {
+     "mi": 1.67,
+     "walk": {
+      "min": 40,
+      "mi": 2.07
+     },
+     "bike": {
+      "min": 11,
+      "mi": 2.12
+     },
+     "drive": {
+      "min": 8,
+      "mi": 2.39
+     }
+    },
+    "marston": {
+     "mi": 0.52,
+     "walk": {
+      "min": 13,
+      "mi": 0.66
+     },
+     "bike": {
+      "min": 4,
+      "mi": 0.69
+     },
+     "drive": {
+      "min": 3,
+      "mi": 0.68
+     }
+    },
+    "macdintons": {
+     "mi": 0.85,
+     "walk": {
+      "min": 20,
+      "mi": 1.04
+     },
+     "bike": {
+      "min": 6,
+      "mi": 1.14
+     },
+     "drive": {
+      "min": 4,
+      "mi": 1.13
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": -0.4,
+    "label": "high",
+    "why": "$2,800 is 40% above about $2,000 for similar 3-bed listings.",
+    "comps": 191
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.81
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.74
+    },
+    "gas": {
+     "name": "bp",
+     "mi": 0.68
+    },
+    "bus": {
+     "name": "Wildflower Apartments",
+     "mi": 0.12
+    }
+   }
+  }
  },
  {
   "id": "rc-1324-nw-16th-ave-unit-26",
@@ -40032,7 +39505,7 @@
     "pct": 0.275,
     "label": "good",
     "why": "$1,450 is 28% below about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -40058,6 +39531,188 @@
     "highRisk": false
    }
   }
+ },
+ {
+  "id": "rc-1326-nw-57th-st",
+  "key": "1326 nw 57th st",
+  "source": "rentcast",
+  "sourceId": "1326-Nw-57th-St,-Gainesville,-FL-32605",
+  "address": "1326 NW 57th St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32605",
+  "lat": 29.665063,
+  "lng": -82.404056,
+  "price": 3600,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 2986,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1989,
+  "listedDate": "2026-10-15T00:00:00.000Z",
+  "details": {
+   "furnished": false,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": {
+   "name": "Cinthya  Gaxiola",
+   "office": "MONARCH GAINESVILLE REALTY, LLC",
+   "phone": "3522346217",
+   "email": "coordinator@monarchrealtygnv.com",
+   "website": "http://www.monarchrealtygnv.com"
+  },
+  "url": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
+  "status": "gone",
+  "goneSince": "2026-11-25T12:44:42.551Z",
+  "firstSeen": "2026-10-15T00:00:00.000Z",
+  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 3600
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 3.12,
+     "walk": {
+      "min": 69,
+      "mi": 3.6
+     },
+     "bike": {
+      "min": 21,
+      "mi": 3.81
+     },
+     "drive": {
+      "min": 13,
+      "mi": 4.33
+     }
+    },
+    "midtown": {
+     "mi": 3.61,
+     "walk": {
+      "min": 79,
+      "mi": 4.08
+     },
+     "bike": {
+      "min": 24,
+      "mi": 4.41
+     },
+     "drive": {
+      "min": 14,
+      "mi": 4.55
+     }
+    },
+    "cove": {
+     "mi": 2.96,
+     "walk": {
+      "min": 65,
+      "mi": 3.35
+     },
+     "bike": {
+      "min": 19,
+      "mi": 3.43
+     },
+     "drive": {
+      "min": 11,
+      "mi": 3.8
+     }
+    },
+    "bostick": {
+     "mi": 2.56,
+     "walk": {
+      "min": 58,
+      "mi": 2.98
+     },
+     "bike": {
+      "min": 16,
+      "mi": 2.99
+     },
+     "drive": {
+      "min": 10,
+      "mi": 3.53
+     }
+    },
+    "marston": {
+     "mi": 3.81,
+     "walk": {
+      "min": 83,
+      "mi": 4.3
+     },
+     "bike": {
+      "min": 26,
+      "mi": 4.82
+     },
+     "drive": {
+      "min": 14,
+      "mi": 4.83
+     }
+    },
+    "macdintons": {
+     "mi": 3.61,
+     "walk": {
+      "min": 78,
+      "mi": 4.02
+     },
+     "bike": {
+      "min": 24,
+      "mi": 4.46
+     },
+     "drive": {
+      "min": 13,
+      "mi": 4.48
+     }
+    }
+   },
+   "deal": {
+    "estRent": 2775,
+    "pct": -0.297,
+    "label": "high",
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 1.12
+    },
+    "gym": {
+     "name": "Planet Fitness",
+     "mi": 0.71
+    },
+    "gas": {
+     "name": "Sunoco",
+     "mi": 0.75
+    },
+    "bus": {
+     "name": "Bus stop",
+     "mi": 0.15
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   }
+  },
+  "zillowUrl": "https://www.zillow.com/homedetails/1326-NW-57th-St-Gainesville-FL-32605/42713308_zpid/",
+  "zillowSeen": "2026-11-21T23:43:35.000Z"
  },
  {
   "id": "rc-136-nw-10th-st",
@@ -40211,7 +39866,7 @@
     "pct": -0.091,
     "label": "high",
     "why": "$4,500 is 9% above about $4,125 for similar 5-bed listings.",
-    "comps": 97
+    "comps": 95
    },
    "nearby": {
     "publix": {
@@ -40378,11 +40033,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.321,
+    "estRent": 2775,
+    "pct": -0.333,
     "label": "high",
-    "why": "$3,700 is 32% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,700 is 33% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -40562,7 +40217,7 @@
     "pct": -0.125,
     "label": "high",
     "why": "$2,250 is 13% above about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -40736,7 +40391,7 @@
     "pct": -0.3,
     "label": "high",
     "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -40760,6 +40415,180 @@
     "zone": "X",
     "subtype": "AREA OF MINIMAL FLOOD HAZARD",
     "highRisk": false
+   }
+  }
+ },
+ {
+  "id": "rc-2619-nw-2nd-ave",
+  "key": "2619 nw 2nd ave",
+  "source": "rentcast",
+  "sourceId": "2619-Nw-2nd-Ave,-Gainesville,-FL-32607",
+  "address": "2619 NW 2nd Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.65313,
+  "lng": -82.362033,
+  "price": 2600,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1420,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 1948,
+  "listedDate": "2026-10-28T00:00:00.000Z",
+  "details": {
+   "furnished": null,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": null,
+  "status": "gone",
+  "goneSince": "2026-11-25T12:44:42.551Z",
+  "firstSeen": "2026-10-28T00:00:00.000Z",
+  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 2600
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 0.58,
+     "walk": {
+      "min": 15,
+      "mi": 0.78
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.95
+     },
+     "drive": {
+      "min": 4,
+      "mi": 0.97
+     }
+    },
+    "midtown": {
+     "mi": 1,
+     "walk": {
+      "min": 23,
+      "mi": 1.17
+     },
+     "bike": {
+      "min": 8,
+      "mi": 1.38
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.19
+     }
+    },
+    "cove": {
+     "mi": 0.31,
+     "walk": {
+      "min": 8,
+      "mi": 0.44
+     },
+     "bike": {
+      "min": 2,
+      "mi": 0.44
+     },
+     "drive": {
+      "min": 2,
+      "mi": 0.44
+     }
+    },
+    "bostick": {
+     "mi": 0.29,
+     "walk": {
+      "min": 9,
+      "mi": 0.48
+     },
+     "bike": {
+      "min": 3,
+      "mi": 0.48
+     },
+     "drive": {
+      "min": 2,
+      "mi": 0.61
+     }
+    },
+    "marston": {
+     "mi": 1.15,
+     "walk": {
+      "min": 28,
+      "mi": 1.43
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.62
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.48
+     }
+    },
+    "macdintons": {
+     "mi": 0.99,
+     "walk": {
+      "min": 21,
+      "mi": 1.11
+     },
+     "bike": {
+      "min": 7,
+      "mi": 1.34
+     },
+     "drive": {
+      "min": 4,
+      "mi": 1.13
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2000,
+    "pct": -0.3,
+    "label": "high",
+    "why": "$2,600 is 30% above about $2,000 for similar 3-bed listings.",
+    "comps": 191
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.58
+    },
+    "gym": {
+     "name": "Student Recreation & Fitness Center",
+     "mi": 0.94
+    },
+    "gas": {
+     "name": "Facilities Services Motor Pool",
+     "mi": 0.8
+    },
+    "bus": {
+     "name": "Gainesville Women's Club",
+     "mi": 0.16
+    }
    }
   }
  },
@@ -40916,7 +40745,7 @@
     "pct": 0.125,
     "label": "good",
     "why": "$1,750 is 13% below about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -41096,7 +40925,7 @@
     "pct": -0.25,
     "label": "high",
     "why": "$2,500 is 25% above about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -41272,11 +41101,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.339,
+    "estRent": 2775,
+    "pct": 0.333,
     "label": "good",
-    "why": "$1,850 is 34% below about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$1,850 is 33% below about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -41456,7 +41285,7 @@
     "pct": 0.25,
     "label": "good",
     "why": "$1,500 is 25% below about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -41636,7 +41465,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -41816,7 +41645,7 @@
     "pct": 0.05,
     "label": "fair",
     "why": "$1,900 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -41996,7 +41825,7 @@
     "pct": 0.153,
     "label": "good",
     "why": "$1,695 is 15% below about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -42176,7 +42005,7 @@
     "pct": 0.235,
     "label": "good",
     "why": "$1,530 is 24% below about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -42260,11 +42089,11 @@
   ],
   "enrich": {
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "travel": {
     "deltachi": {
@@ -42531,11 +42360,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.429,
+    "estRent": 2775,
+    "pct": -0.441,
     "label": "high",
-    "why": "$4,000 is 43% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$4,000 is 44% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -42713,11 +42542,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.286,
+    "estRent": 2775,
+    "pct": -0.297,
     "label": "high",
-    "why": "$3,600 is 29% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -42894,7 +42723,7 @@
     "pct": 0.013,
     "label": "fair",
     "why": "$1,975 is in line with about $2,000 for similar 3-bed listings.",
-    "comps": 193
+    "comps": 191
    },
    "nearby": {
     "publix": {
@@ -42920,6 +42749,182 @@
     "highRisk": false
    }
   }
+ },
+ {
+  "id": "rc-808-nw-4th-ave",
+  "key": "808 nw 4th ave",
+  "source": "rentcast",
+  "sourceId": "808-Nw-4th-Ave,-Gainesville,-FL-32601",
+  "address": "808 NW 4th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.654697,
+  "lng": -82.333259,
+  "price": 3600,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1560,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": 2019,
+  "listedDate": "2026-11-10T00:00:00.000Z",
+  "details": {
+   "furnished": false,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/",
+  "status": "gone",
+  "goneSince": "2026-11-25T12:44:42.551Z",
+  "firstSeen": "2026-11-10T00:00:00.000Z",
+  "lastSeen": "2026-11-24T17:44:54.907Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-13T22:26:26.256Z",
+    "price": 3600
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.54,
+     "walk": {
+      "min": 37,
+      "mi": 1.92
+     },
+     "bike": {
+      "min": 11,
+      "mi": 1.98
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.21
+     }
+    },
+    "midtown": {
+     "mi": 0.73,
+     "walk": {
+      "min": 16,
+      "mi": 0.81
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.82
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.98
+     }
+    },
+    "cove": {
+     "mi": 1.47,
+     "walk": {
+      "min": 32,
+      "mi": 1.67
+     },
+     "bike": {
+      "min": 9,
+      "mi": 1.72
+     },
+     "drive": {
+      "min": 7,
+      "mi": 1.71
+     }
+    },
+    "bostick": {
+     "mi": 1.94,
+     "walk": {
+      "min": 41,
+      "mi": 2.13
+     },
+     "bike": {
+      "min": 12,
+      "mi": 2.18
+     },
+     "drive": {
+      "min": 8,
+      "mi": 2.16
+     }
+    },
+    "marston": {
+     "mi": 0.78,
+     "walk": {
+      "min": 19,
+      "mi": 0.99
+     },
+     "bike": {
+      "min": 6,
+      "mi": 1.04
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.11
+     }
+    },
+    "macdintons": {
+     "mi": 0.76,
+     "walk": {
+      "min": 17,
+      "mi": 0.87
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.87
+     },
+     "drive": {
+      "min": 5,
+      "mi": 0.95
+     }
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2775,
+    "pct": -0.297,
+    "label": "high",
+    "why": "$3,600 is 30% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.34
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.4
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.25
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.18
+    }
+   }
+  },
+  "zillowUrl": "https://www.zillow.com/homedetails/808-NW-4th-Ave-Gainesville-FL-32601/103021010_zpid/",
+  "zillowSeen": "2026-11-23T12:45:15.000Z"
  },
  {
   "id": "rc-912-nw-3rd-ave",
@@ -43069,11 +43074,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.107,
+    "estRent": 2775,
+    "pct": 0.099,
     "label": "good",
-    "why": "$2,500 is 11% below about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,500 is 10% below about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "nearby": {
     "publix": {
@@ -43264,11 +43269,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.214,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 21% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -43434,11 +43439,11 @@
     }
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.179,
+    "estRent": 2775,
+    "pct": -0.189,
     "label": "high",
-    "why": "$3,300 is 18% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,300 is 19% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "flood": {
     "zone": "X",
@@ -43521,11 +43526,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.143,
+    "estRent": 2775,
+    "pct": -0.153,
     "label": "high",
-    "why": "$3,200 is 14% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,200 is 15% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "travel": {
     "deltachi": {
@@ -43695,11 +43700,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.036,
+    "estRent": 2775,
+    "pct": -0.045,
     "label": "fair",
-    "why": "$2,900 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,900 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 206
    },
    "travel": {
     "deltachi": {
@@ -43962,11 +43967,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.607,
+    "estRent": 2775,
+    "pct": -0.622,
     "label": "high",
-    "why": "$4,500 is 61% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$4,500 is 62% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -44136,11 +44141,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.214,
+    "estRent": 2775,
+    "pct": -0.225,
     "label": "high",
-    "why": "$3,400 is 21% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,400 is 23% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -44311,11 +44316,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0,
+    "estRent": 2775,
+    "pct": -0.009,
     "label": "fair",
-    "why": "$2,800 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,800 is in line with about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -44486,11 +44491,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": 0.286,
+    "estRent": 2775,
+    "pct": 0.279,
     "label": "good",
-    "why": "$2,000 is 29% below about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$2,000 is 28% below about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -44661,11 +44666,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.143,
+    "estRent": 2775,
+    "pct": -0.153,
     "label": "high",
-    "why": "$3,200 is 14% above about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "why": "$3,200 is 15% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -44840,7 +44845,181 @@
     "pct": 0.418,
     "label": "good",
     "why": "$2,400 is 42% below about $4,125 for similar 5-bed listings.",
-    "comps": 97
+    "comps": 95
+   }
+  }
+ },
+ {
+  "id": "zw-801-nw-4th-pl",
+  "key": "801 nw 4th pl",
+  "source": "zillow",
+  "sourceId": "2059620429",
+  "address": "801 NW 4th Pl",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.655035,
+  "lng": -82.33294,
+  "price": 3950,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 1800,
+  "type": "house",
+  "complex": false,
+  "yearBuilt": null,
+  "listedDate": null,
+  "details": {
+   "furnished": false,
+   "pets": null,
+   "dogs": null,
+   "parking": null,
+   "washerDryer": null,
+   "centralAC": null,
+   "dishwasher": null,
+   "yard": null,
+   "pool": null,
+   "utilitiesIncluded": null,
+   "internetIncluded": null,
+   "availableDate": null,
+   "leaseMonths": null,
+   "deposit": null
+  },
+  "description": null,
+  "photos": [],
+  "contact": null,
+  "url": "https://www.zillow.com/homedetails/801-NW-4th-Pl-Gainesville-FL-32601/2059620429_zpid/",
+  "status": "gone",
+  "goneSince": "2026-11-25T12:44:42.551Z",
+  "firstSeen": "2026-11-17T23:45:28.931Z",
+  "lastSeen": "2026-11-24T23:45:07.000Z",
+  "priceHistory": [
+   {
+    "date": "2026-11-17T23:45:28.931Z",
+    "price": 3950
+   }
+  ],
+  "enrich": {
+   "travel": {
+    "deltachi": {
+     "mi": 1.57,
+     "walk": {
+      "min": 38,
+      "mi": 1.98
+     },
+     "bike": {
+      "min": 11,
+      "mi": 2.04
+     },
+     "drive": {
+      "min": 10,
+      "mi": 2.58
+     }
+    },
+    "midtown": {
+     "mi": 0.76,
+     "walk": {
+      "min": 17,
+      "mi": 0.87
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.87
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.05
+     }
+    },
+    "cove": {
+     "mi": 1.49,
+     "walk": {
+      "min": 33,
+      "mi": 1.72
+     },
+     "bike": {
+      "min": 10,
+      "mi": 1.78
+     },
+     "drive": {
+      "min": 8,
+      "mi": 1.77
+     }
+    },
+    "bostick": {
+     "mi": 1.97,
+     "walk": {
+      "min": 42,
+      "mi": 2.19
+     },
+     "bike": {
+      "min": 12,
+      "mi": 2.24
+     },
+     "drive": {
+      "min": 9,
+      "mi": 2.22
+     }
+    },
+    "marston": {
+     "mi": 0.81,
+     "walk": {
+      "min": 20,
+      "mi": 1.04
+     },
+     "bike": {
+      "min": 6,
+      "mi": 1.06
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.38
+     }
+    },
+    "macdintons": {
+     "mi": 0.78,
+     "walk": {
+      "min": 18,
+      "mi": 0.93
+     },
+     "bike": {
+      "min": 5,
+      "mi": 0.93
+     },
+     "drive": {
+      "min": 5,
+      "mi": 1.01
+     }
+    }
+   },
+   "nearby": {
+    "publix": {
+     "name": "Publix",
+     "mi": 0.37
+    },
+    "gym": {
+     "name": "Orangetheory Fitness",
+     "mi": 0.43
+    },
+    "gas": {
+     "name": "Refresh",
+     "mi": 0.28
+    },
+    "bus": {
+     "name": "West University Avenue @ Northwest 8th Street",
+     "mi": 0.2
+    }
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
+   },
+   "deal": {
+    "estRent": 2775,
+    "pct": -0.423,
+    "label": "high",
+    "why": "$3,950 is 42% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -45011,11 +45190,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 2800,
-    "pct": -0.071,
-    "label": "fair",
-    "why": "$3,000 is in line with about $2,800 for similar 4-bed listings.",
-    "comps": 209
+    "estRent": 2775,
+    "pct": -0.081,
+    "label": "high",
+    "why": "$3,000 is 8% above about $2,775 for similar 4-bed listings.",
+    "comps": 206
    }
   }
  },
@@ -45186,11 +45365,11 @@
     "highRisk": false
    },
    "deal": {
-    "estRent": 5050,
-    "pct": -0.04,
+    "estRent": 5375,
+    "pct": 0.023,
     "label": "fair",
-    "why": "$5,250 is in line with about $5,050 for similar 6-bed listings.",
-    "comps": 23
+    "why": "$5,250 is in line with about $5,375 for similar 6-bed listings.",
+    "comps": 22
    }
   }
  }

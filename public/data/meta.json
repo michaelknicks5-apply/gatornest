@@ -2,25 +2,26 @@
  "neverRun": false,
  "rentcast": {
   "periodStart": "2026-11-13T00:00:00.000Z",
-  "used": 15,
-  "lastFetch": "2026-11-24T17:44:54.907Z",
+  "used": 16,
+  "lastFetch": "2026-11-25T12:44:42.551Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": "2026-11-25T08:21:25.076Z"
+  "nextFetch": null
  },
  "ors": {
   "day": "2026-11-25",
-  "directions": 144
+  "directions": 150
  },
- "lastRun": "2026-11-25T02:29:14.609Z",
- "lastFetch": "2026-11-24T17:44:54.907Z",
+ "lastRun": "2026-11-25T12:44:42.551Z",
+ "lastFetch": "2026-11-25T12:44:42.551Z",
  "counts": {
-  "active": 219,
-  "gone": 37
+  "active": 216,
+  "gone": 42
  },
  "sources": {
   "rentcast": {
-   "skipped": true
+   "count": 193,
+   "requests": 1
   },
   "zillow": {
    "count": 71,
@@ -33,6 +34,7 @@
  },
  "warnings": [],
  "notes": [
-  "Travel times will fill in next run (410 Gone from api.openrouteservice.org: <html lang=\"en\">\n<head>\n    <meta http-e)"
+  "Travel times will fill in next run (410 Gone from api.openrouteservice.org: <html lang=\"en\">\n<head>\n    <meta http-e)",
+  "FEMA flood lookup is not responding; flood zones will fill in on a later run"
  ]
 }
