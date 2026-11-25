@@ -31299,6 +31299,11 @@
     "label": "good",
     "why": "$1,650 is 18% below about $2,000 for similar 3-bed listings.",
     "comps": 190
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -33483,6 +33488,11 @@
     "label": "high",
     "why": "$4,400 is 59% above about $2,775 for similar 4-bed listings.",
     "comps": 205
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
@@ -36189,6 +36199,11 @@
     "label": "high",
     "why": "$4,500 is 62% above about $2,775 for similar 4-bed listings.",
     "comps": 205
+   },
+   "flood": {
+    "zone": "X",
+    "subtype": "AREA OF MINIMAL FLOOD HAZARD",
+    "highRisk": false
    }
   }
  },
