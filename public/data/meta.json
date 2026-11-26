@@ -6,13 +6,13 @@
   "lastFetch": "2026-11-26T05:04:22.973Z",
   "lastPages": 1,
   "budget": 45,
-  "nextFetch": null
+  "nextFetch": "2026-11-26T19:27:47.866Z"
  },
  "ors": {
   "day": "2026-11-26",
-  "directions": 144
+  "directions": 150
  },
- "lastRun": "2026-11-26T05:04:22.973Z",
+ "lastRun": "2026-11-26T12:45:06.873Z",
  "lastFetch": "2026-11-26T05:04:22.973Z",
  "counts": {
   "active": 219,
@@ -20,11 +20,10 @@
  },
  "sources": {
   "rentcast": {
-   "count": 196,
-   "requests": 1
+   "skipped": true
   },
   "zillow": {
-   "count": 72,
+   "count": 70,
    "requests": 0
   },
   "manual": {
