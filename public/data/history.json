@@ -842,5 +842,43 @@
   "id": "zw-508-nw-36th-dr",
   "address": "508 NW 36th Dr",
   "price": 2400
+ },
+ {
+  "t": "2026-11-26T05:04:22.973Z",
+  "type": "price",
+  "id": "rc-2706-w-university-ave",
+  "address": "2706 W University Ave",
+  "from": 3300,
+  "price": 3000
+ },
+ {
+  "t": "2026-11-26T05:04:22.973Z",
+  "type": "new",
+  "id": "rc-4314-nw-27th-ter",
+  "address": "4314 NW 27th Ter",
+  "price": 1895
+ },
+ {
+  "t": "2026-11-26T05:04:22.973Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3300,
+  "price": 3750
+ },
+ {
+  "t": "2026-11-26T05:04:22.973Z",
+  "type": "price",
+  "id": "rc-4000-sw-23rd-st-unit-2-307",
+  "address": "4000 SW 23rd St #2-307",
+  "from": 2100,
+  "price": 625
+ },
+ {
+  "t": "2026-11-26T05:04:22.973Z",
+  "type": "new",
+  "id": "rc-4423-nw-36th-st",
+  "address": "4423 NW 36th St",
+  "price": 2250
  }
 ]
