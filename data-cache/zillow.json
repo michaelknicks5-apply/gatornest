@@ -1,10 +1,10 @@
 {
- "checked": "2026-11-25T23:44:00Z",
+ "checked": "2026-11-26T12:44:00Z",
  "complete": true,
- "count": 72,
- "furnished": 10,
+ "count": 70,
+ "furnished": 9,
  "furnishedKnown": true,
- "skippedPerRoom": 4,
+ "skippedPerRoom": 5,
  "problems": [],
  "listings": [
   {
@@ -218,21 +218,6 @@
    "furnished": true
   },
   {
-   "zpid": "466201582",
-   "address": "390 SW 7th Pl",
-   "zip": "32601",
-   "price": 3800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1600,
-   "type": "house",
-   "complex": false,
-   "lat": 29.645262,
-   "lng": -82.32882,
-   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42735774",
    "address": "1022 NW 4th Ave",
    "zip": "32601",
@@ -245,6 +230,21 @@
    "lat": 29.65467,
    "lng": -82.33578,
    "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "466201582",
+   "address": "390 SW 7th Pl",
+   "zip": "32601",
+   "price": 3800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1600,
+   "type": "house",
+   "complex": false,
+   "lat": 29.645262,
+   "lng": -82.32882,
+   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
    "furnished": false
   },
   {
@@ -743,21 +743,6 @@
    "furnished": false
   },
   {
-   "zpid": "42714383",
-   "address": "4025 NW 9th Ct",
-   "zip": "32605",
-   "price": 4100,
-   "beds": 7,
-   "baths": 3,
-   "sqft": 1872,
-   "type": "house",
-   "complex": false,
-   "lat": 29.660204,
-   "lng": -82.38587,
-   "url": "https://www.zillow.com/homedetails/4025-NW-9th-Ct-Gainesville-FL-32605/42714383_zpid/",
-   "furnished": true
-  },
-  {
    "zpid": "42715676",
    "address": "111 SW 23rd Ter",
    "zip": "32607",
@@ -863,21 +848,6 @@
    "furnished": false
   },
   {
-   "zpid": "42716420",
-   "address": "528 NW 36th St",
-   "zip": "32607",
-   "price": 4100,
-   "beds": 7,
-   "baths": 3,
-   "sqft": 2078,
-   "type": "house",
-   "complex": false,
-   "lat": 29.656002,
-   "lng": -82.37686,
-   "url": "https://www.zillow.com/homedetails/528-NW-36th-St-Gainesville-FL-32607/42716420_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "250765538",
    "address": "765 NW 9th St",
    "zip": "32601",
@@ -896,7 +866,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6559,
+   "price": 6525,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -956,7 +926,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8131,
+   "price": 8101,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
@@ -998,21 +968,6 @@
    "furnished": false
   },
   {
-   "zpid": "2059852752",
-   "address": "5133 SW 47th Ln",
-   "zip": "32608",
-   "price": 2800,
-   "beds": 5,
-   "baths": 3,
-   "sqft": 2370,
-   "type": "house",
-   "complex": false,
-   "lat": 29.607296,
-   "lng": -82.39348,
-   "url": "https://www.zillow.com/homedetails/5133-SW-47th-Ln-Gainesville-FL-32608/2059852752_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "350567834",
    "address": "925 NW 22nd St #3",
    "zip": "32603",
@@ -1025,6 +980,21 @@
    "lat": 29.661154,
    "lng": -82.35331,
    "url": "https://www.zillow.com/homedetails/925-NW-22nd-St-3-Gainesville-FL-32603/350567834_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "2059852752",
+   "address": "5133 SW 47th Ln",
+   "zip": "32608",
+   "price": 2800,
+   "beds": 5,
+   "baths": 3,
+   "sqft": 2370,
+   "type": "house",
+   "complex": false,
+   "lat": 29.607296,
+   "lng": -82.39348,
+   "url": "https://www.zillow.com/homedetails/5133-SW-47th-Ln-Gainesville-FL-32608/2059852752_zpid/",
    "furnished": false
   },
   {
