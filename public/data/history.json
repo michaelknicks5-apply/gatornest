@@ -896,5 +896,48 @@
   "address": "926 SW 2nd Ave",
   "from": 6592,
   "price": 6111
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "price",
+  "id": "rc-622-nw-3rd-ave",
+  "address": "622 NW 3rd Ave",
+  "from": 3750,
+  "price": 3300
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "new",
+  "id": "rc-1324-nw-16th-ave-unit-40",
+  "address": "1324 NW 16th Ave #40",
+  "price": 1450
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "gone",
+  "id": "rc-1620-nw-23rd-st",
+  "address": "1620 NW 23rd St",
+  "price": 2075
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "gone",
+  "id": "rc-4437-nw-34th-ter",
+  "address": "4437 NW 34th Ter",
+  "price": 2100
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "gone",
+  "id": "rc-5116-nw-21st-dr",
+  "address": "5116 NW 21st Dr",
+  "price": 1995
+ },
+ {
+  "t": "2026-11-27T18:59:16.839Z",
+  "type": "gone",
+  "id": "rc-518-nw-7th-ter",
+  "address": "518 NW 7th Ter",
+  "price": 3600
  }
 ]
