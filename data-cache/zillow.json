@@ -1,10 +1,10 @@
 {
- "checked": "2026-11-26T23:44:00Z",
+ "checked": "2026-11-27T12:44:22Z",
  "complete": true,
  "count": 70,
  "furnished": 9,
  "furnishedKnown": true,
- "skippedPerRoom": 5,
+ "skippedPerRoom": 4,
  "problems": [],
  "listings": [
   {
@@ -203,21 +203,6 @@
    "furnished": true
   },
   {
-   "zpid": "466201582",
-   "address": "390 SW 7th Pl",
-   "zip": "32601",
-   "price": 3800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1600,
-   "type": "house",
-   "complex": false,
-   "lat": 29.645262,
-   "lng": -82.32882,
-   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42735774",
    "address": "1022 NW 4th Ave",
    "zip": "32601",
@@ -230,6 +215,21 @@
    "lat": 29.65467,
    "lng": -82.33578,
    "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "466201582",
+   "address": "390 SW 7th Pl",
+   "zip": "32601",
+   "price": 3800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1600,
+   "type": "house",
+   "complex": false,
+   "lat": 29.645262,
+   "lng": -82.32882,
+   "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
    "furnished": false
   },
   {
@@ -866,7 +866,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6525,
+   "price": 6111,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
