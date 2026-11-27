@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T12:44:22Z",
+ "checked": "2026-11-27T23:45:02Z",
  "complete": true,
  "count": 70,
  "furnished": 9,
@@ -191,7 +191,7 @@
    "zpid": "42736597",
    "address": "2015 NW 7th Pl",
    "zip": "32603",
-   "price": 5409,
+   "price": 5357,
    "beds": 4,
    "baths": 3,
    "sqft": 1980,
@@ -201,21 +201,6 @@
    "lng": -82.350334,
    "url": "https://www.zillow.com/homedetails/2015-NW-7th-Pl-Gainesville-FL-32603/42736597_zpid/",
    "furnished": true
-  },
-  {
-   "zpid": "42735774",
-   "address": "1022 NW 4th Ave",
-   "zip": "32601",
-   "price": 4650,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 1306,
-   "type": "house",
-   "complex": false,
-   "lat": 29.65467,
-   "lng": -82.33578,
-   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
-   "furnished": false
   },
   {
    "zpid": "466201582",
@@ -230,6 +215,21 @@
    "lat": 29.645262,
    "lng": -82.32882,
    "url": "https://www.zillow.com/homedetails/390-SW-7th-Pl-Gainesville-FL-32601/466201582_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42735774",
+   "address": "1022 NW 4th Ave",
+   "zip": "32601",
+   "price": 4650,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 1306,
+   "type": "house",
+   "complex": false,
+   "lat": 29.65467,
+   "lng": -82.33578,
+   "url": "https://www.zillow.com/homedetails/1022-NW-4th-Ave-Gainesville-FL-32601/42735774_zpid/",
    "furnished": false
   },
   {
@@ -293,21 +293,6 @@
    "furnished": false
   },
   {
-   "zpid": "42736675",
-   "address": "949 SW 13th St",
-   "zip": "32601",
-   "price": 5035,
-   "beds": 4,
-   "baths": 3,
-   "sqft": 2152,
-   "type": "house",
-   "complex": false,
-   "lat": 29.642334,
-   "lng": -82.339,
-   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
-   "furnished": true
-  },
-  {
    "zpid": "2106112907",
    "address": "835 SW 9th St",
    "zip": "32601",
@@ -323,10 +308,25 @@
    "furnished": false
   },
   {
+   "zpid": "42736675",
+   "address": "949 SW 13th St",
+   "zip": "32601",
+   "price": 5008,
+   "beds": 4,
+   "baths": 3,
+   "sqft": 2152,
+   "type": "house",
+   "complex": false,
+   "lat": 29.642334,
+   "lng": -82.339,
+   "url": "https://www.zillow.com/homedetails/949-SW-13th-St-Gainesville-FL-32601/42736675_zpid/",
+   "furnished": true
+  },
+  {
    "zpid": "42715893",
    "address": "318 SW 27th St",
    "zip": "32607",
-   "price": 5825,
+   "price": 5796,
    "beds": 4,
    "baths": 2,
    "sqft": 1614,
@@ -518,21 +518,6 @@
    "furnished": false
   },
   {
-   "zpid": "42716184",
-   "address": "414 NW 34th St",
-   "zip": "32607",
-   "price": 2900,
-   "beds": 4,
-   "baths": 2,
-   "sqft": 1760,
-   "type": "house",
-   "complex": false,
-   "lat": 29.654976,
-   "lng": -82.37268,
-   "url": "https://www.zillow.com/homedetails/414-NW-34th-St-Gainesville-FL-32607/42716184_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "42716066",
    "address": "3035 W University Ave",
    "zip": "32607",
@@ -545,6 +530,21 @@
    "lat": 29.651978,
    "lng": -82.36854,
    "url": "https://www.zillow.com/homedetails/3035-W-University-Ave-Gainesville-FL-32607/42716066_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "42716184",
+   "address": "414 NW 34th St",
+   "zip": "32607",
+   "price": 2900,
+   "beds": 4,
+   "baths": 2,
+   "sqft": 1760,
+   "type": "house",
+   "complex": false,
+   "lat": 29.654976,
+   "lng": -82.37268,
+   "url": "https://www.zillow.com/homedetails/414-NW-34th-St-Gainesville-FL-32607/42716184_zpid/",
    "furnished": false
   },
   {
@@ -866,7 +866,7 @@
    "zpid": "2103319997",
    "address": "926 SW 2nd Ave",
    "zip": "32601",
-   "price": 6111,
+   "price": 6086,
    "beds": 6,
    "baths": 3,
    "sqft": 2475,
@@ -896,7 +896,7 @@
    "zpid": "42734772",
    "address": "406 NE 7th Ave",
    "zip": "32601",
-   "price": 12496,
+   "price": 12502,
    "beds": 5,
    "baths": 3,
    "sqft": 2992,
@@ -926,7 +926,7 @@
    "zpid": "42736522",
    "address": "1929 NW 7th Ln",
    "zip": "32603",
-   "price": 8056,
+   "price": 8053,
    "beds": 5,
    "baths": 3,
    "sqft": 2368,
