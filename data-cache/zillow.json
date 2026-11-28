@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T23:45:02Z",
+ "checked": "2026-11-28T12:43:42Z",
  "complete": true,
  "count": 70,
  "furnished": 9,
@@ -128,21 +128,6 @@
    "furnished": false
   },
   {
-   "zpid": "465853770",
-   "address": "861 SW 6th St",
-   "zip": "32601",
-   "price": 4800,
-   "beds": 4,
-   "baths": 4,
-   "sqft": 1584,
-   "type": "house",
-   "complex": false,
-   "lat": 29.64376,
-   "lng": -82.33118,
-   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
-   "furnished": false
-  },
-  {
    "zpid": "465853778",
    "address": "885 SW 6th St",
    "zip": "32601",
@@ -155,6 +140,21 @@
    "lat": 29.643667,
    "lng": -82.33116,
    "url": "https://www.zillow.com/homedetails/885-SW-6th-St-Gainesville-FL-32601/465853778_zpid/",
+   "furnished": false
+  },
+  {
+   "zpid": "465853770",
+   "address": "861 SW 6th St",
+   "zip": "32601",
+   "price": 4800,
+   "beds": 4,
+   "baths": 4,
+   "sqft": 1584,
+   "type": "house",
+   "complex": false,
+   "lat": 29.64376,
+   "lng": -82.33118,
+   "url": "https://www.zillow.com/homedetails/861-SW-6th-St-Gainesville-FL-32601/465853770_zpid/",
    "furnished": false
   },
   {
@@ -191,7 +191,7 @@
    "zpid": "42736597",
    "address": "2015 NW 7th Pl",
    "zip": "32603",
-   "price": 5357,
+   "price": 5321,
    "beds": 4,
    "baths": 3,
    "sqft": 1980,
